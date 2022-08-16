@@ -1,0 +1,20 @@
+baseURL = 'http://www.gentsebc.be/'
+languageCode = 'en-us'
+title = 'Gentse BC'
+
+
+
+[menu]
+
+[[menu.main]]
+  identifier = 'nieuws'
+  name = 'Nieuws'
+  weight = 10
+[[menu.main]]
+  identifier = 'clubinfo'
+  name = 'Clubinfo'
+  weight = 20
+[[menu.main]]
+  identifier = 'lid-worden'
+  name = 'LID worden?'
+  weight = 30
