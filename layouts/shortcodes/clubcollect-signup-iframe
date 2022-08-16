@@ -1,0 +1,12 @@
+<iframe loading="lazy" 
+    src="https://app.clubbase.io/signup/{{ .Get "uuid" }}" 
+    style="border:0px #FFFFFF none; border: 1px solid black;" 
+    name="myiFrame" 
+    scrolling="yes" 
+    marginheight="0px" 
+    marginwidth="0px" 
+    allowfullscreen="" 
+    width="1200px" 
+    height="2350px" 
+    frameborder="1">
+</iframe>
