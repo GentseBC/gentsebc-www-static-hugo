@@ -1,0 +1,9 @@
+{{ $config := .Inner | base64Encode }}
+<iframe src="/handlers/gcalendar/?myConfig={{ urlquery $config }}" 
+    allowtransparency="true" 
+    style=" border:0 " 
+    scrolling="no" 
+    width="1200" 
+    height="1200" 
+    frameborder="0">
+</iframe>

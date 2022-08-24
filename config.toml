@@ -1,20 +1,87 @@
 baseURL = 'http://www.gentsebc.be/'
-languageCode = 'en-us'
+languageCode = 'nl-be'
+defaultContentLanguage = "nl"
+defaultContentLang = "nl"
 title = 'Gentse BC'
 
+disableKinds = ["RSS"]
 
+paginate = 10
+
+[params]
+  date_format = "02 January, 2006"
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[markup.goldmark.renderer]
+  unsafe= true
 
 [menu]
 
-[[menu.main]]
-  identifier = 'nieuws'
-  name = 'Nieuws'
-  weight = 10
-[[menu.main]]
-  identifier = 'clubinfo'
-  name = 'Clubinfo'
-  weight = 20
-[[menu.main]]
-  identifier = 'lid-worden'
-  name = 'LID worden?'
-  weight = 30
+  [[menu.main]]
+    identifier = 'nieuws'
+    name = 'Nieuws'
+    weight = 10
+
+  [[menu.main]]
+    parent = 'nieuws'
+    identifier = 'algemeen'
+    name ='Algemeen nieuws'
+    URL = '/categories/algemeen'
+    weight = 10
+
+  [[menu.main]]
+    parent = 'nieuws'
+    identifier = 'competitie'
+    name ='Competitie nieuws'
+    URL = '/categories/competitie'
+    weight = 20
+
+  [[menu.main]]
+    parent = 'nieuws'
+    identifier = 'training'
+    name ='Training nieuws'
+    URL = '/categories/training'
+    weight = 30
+
+
+  [[menu.main]]
+    identifier = 'clubinfo'
+    name = 'Clubinfo'
+    weight = 20
+  [[menu.main]]
+    identifier = 'lid-worden'
+    name = 'LID worden?'
+    weight = 30
+
+  [[menu.main]]
+    identifier = 'g-badminton'
+    name = 'G-badminton'
+    URL = '/clubinfo/g-badminton/'
+    weight=40
+
+  [[menu.main]]
+    identifier = 'competitie'
+    name = 'Competitie'
+    weight=50
+ 
+  [[menu.main]]
+    parent = 'competitie'
+    identifier = 'bijkomende_info'
+    name = 'Bijkomende info'
+    URL = '/categories/training'
+    weight=50
+
+  [[menu.main]]
+    parent = 'bijkomende_info'
+    identifier = 'xxxx'
+    name = 'xxxx'
+    URL = '/categories/training'
+    weight=50
+
+  [[menu.main]]
+    identifier = 'interne-werking'
+    name = 'Interne werking'
+    weight=80

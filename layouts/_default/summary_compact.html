@@ -1,0 +1,15 @@
+{{ $dateFormat := default "Jan 2, 2006" (index .Site.Params "date_format") }}
+<span>
+    <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+</span>
+
+{{ $author := .Params.author | default .Site.Params.author }}
+<div class="blog-post-date text-secondary">
+    {{ if $author }}
+        {{ i18n "by" }} <span rel="author">door {{ $author }}, </span>
+    {{ end }}
+    {{ if not .Date.IsZero }}
+        <span class="comment_date"> {{ time.Format $dateFormat .Date}}</span>
+    {{ end }}
+
+</div> 

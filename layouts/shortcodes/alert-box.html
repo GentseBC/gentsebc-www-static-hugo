@@ -1,0 +1,5 @@
+{{ $alert_type := or (.Get "type") "primary" }}
+
+<div class="alert alert-{{ $alert_type }}" role="alert">
+    {{ .Inner }}
+</div>

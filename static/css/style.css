@@ -1,3 +1,10 @@
+
+.mybody {
+  max-width: 1250px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .blog-header, .blog-post, .blog-pagination {
   margin-bottom: 2rem;
 }

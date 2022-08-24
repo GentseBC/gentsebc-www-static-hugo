@@ -1,6 +1,12 @@
 {{ $colorScheme := default "light" .Site.Params.header.colorScheme }}
 
 <header class="blog-header">
+    <div class="span12" style="background-color:#101e5b;">
+        <a class="brand" id="logo" title="" href="/">
+
+            <img src="/images/banner_links.jpg" alt="">
+        </a>
+    </div>
     <nav class="navbar navbar-expand-md navbar-{{ $colorScheme }} bg-{{ $colorScheme }}">
         <div class="container-fluid">
             <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}">

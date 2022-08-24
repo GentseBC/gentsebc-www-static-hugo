@@ -3,7 +3,7 @@ name: Build and deploy
 on:
   push:
     branches:
-      - master  # Set a branch to deploy
+      - master
   pull_request:
   workflow_dispatch:
 
@@ -28,6 +28,7 @@ jobs:
         run: hugo --minify
 
       - name: SFTP mirror
+        if: github.ref == 'refs/heads/master'
         uses: verbindingsfout/sftp-mirror@v1.6
         with:
           server: ${{ secrets.REMOTE_SFTP_HOST }}

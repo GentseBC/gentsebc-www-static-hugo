@@ -1,0 +1,33 @@
+{{ $ploegen := $.Site.Data.seizoen_2022_2023.ploegen.ploegen}}
+{{ $hploegen := where $ploegen "naam" "in" (slice "1H" "2H" "3H" "4H" "5H" "6H" "7H" "8H" "9H" "10H") }}
+{{ $dploegen := where $ploegen "naam" "in" (slice "1D" "2D" "3D" "4D" "5D" "6D" "7D" "8D" "9D" "10D") }}
+{{ $mploegen := where $ploegen "naam" "in" (slice "1G" "2G" "3G" "4G" "5G" "6G" "7G" "8G" "9G" "10G") }}
+
+Heren ploegen: {{ range $hploegen }}{{ .naam }} {{end}} <br>
+Dames ploegen: {{ range $dploegen }}{{ .naam }} {{end}} <br>
+Mix ploegen: {{ range $mploegen }}{{ .naam }} {{end}}   <br><br>
+
+
+{{ range $ploegen}}
+<h2>Gentse {{ .naam }}</h2>
+<div>
+    <a href="{{ .link }}" target="_new" title="Pagina op toernooi.nl">Niveau: {{ .niveau}}</a>, Ploegkapitein: <a href="mailto:1H@gentsebc.be"> {{ .ploegkapitein}}</a></div>
+<table class="table table-striped">
+    <tbody>
+        <tr>
+            <th>Speler</th>
+            <th>Actieve speler?</th>
+            <th>Op papier?</th>
+        </tr>
+        {{$v_spelers := .spelers}}
+        {{$v_papieren_spelers := .papieren_spelers}}
+        {{ range union .spelers .papieren_spelers }}
+        <tr>
+            <td>{{ . }}</td>
+            <td>{{ if in $v_spelers .}}X{{else}}-{{end}}</td>
+            <td>{{ if in $v_papieren_spelers .}}X{{else}}-{{end}}</td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
+{{ end }}

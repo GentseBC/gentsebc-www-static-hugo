@@ -1,0 +1,33 @@
+ploegen:
+- naam: 1H
+  niveau: PBO 1A
+  link: https://www.toernooi.nl/sport/team.aspx?id=F77C0BDF-25D4-4822-92BD-1078E58EEDC8&team=100
+  ploegkapitein: Tim Rombaut
+  spelers:
+  - Jonathan Govaerts
+  - Patrick Govaerts
+  - Alwin De Moor
+  - Tim Rombaut
+  - Bert Mullaert
+  papieren_spelers:
+  - Jonathan Govaerts
+  - Patrick Govaerts
+  - Alwin De Moor
+  - Maarten Van Wassenhove
+
+- naam: 2H
+  niveau: PBO 2B
+  link: https://www.toernooi.nl/sport/team.aspx?id=F77C0BDF-25D4-4822-92BD-1078E58EEDC8&team=114
+  ploegkapitein:  Blomme Molenstra
+  spelers:
+  - Pieter Kortleven
+  - Kartik Lakshminarasimhan
+  - Diede Seldeslachts
+  - Blomme Molenstra
+  - Bram Remue
+  papieren_spelers:
+  - Pieter Kortleven
+  - Kartik Lakshminarasimhan
+  - Blomme Molenstra
+  - Bert Mullaert
+   

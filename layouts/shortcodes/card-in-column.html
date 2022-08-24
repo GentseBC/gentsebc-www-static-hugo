@@ -1,0 +1,15 @@
+{{ $class:="col-md-6 col-lg-4"}}
+
+{{ $noe := or (.Get "n") "3" }}
+{{ if eq $noe "4" }}
+{{ $class = "col-md-4 col-lg-3"}}
+{{ end}}
+<div class="{{ $class }}">
+    <div class="card my-3">
+        <img src="{{ .Get "img" }}" class="card-image-top" alt="thumbnail">
+        <div class="card-body">
+            <h3 class="card-title">{{ .Get "title" }}</h3>
+            <p class="card-text">{{ .Inner }}</p>
+        </div>
+    </div>
+</div>

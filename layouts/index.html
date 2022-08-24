@@ -4,30 +4,125 @@
 
 {{ partial "short-term-calendar" . }}
 
-{{ if .Content }}
-<header>
-    <h1 class="blog-post-title">
-        <a class="text-dark text-decoration-none" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-    </h1>
-    <hr>
-</header>
+<div class="container">
+    <div class="row">
+        <div class="col-md-4 d-md-none table-responsive">
+            <table class="table">
+                <thead>
+                <tr>
+                    <th>&nbsp;</th>
+                    <th>Jeugd</th>
+                    <th>Volwassenen</th>
+                    <th><a href="/g-badminton">G-Sport <i class="fa fa-wheelchair-alt"></i></a></th>
+                </tr>
+                </thead>
+                <tbody id="playingHoursVertical">
 
-<section class="blog-post">
-    {{ .Content }}
-</section>
-{{ end }}
+                <tr><td>Zo 21 Aug</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Ma 22 Aug</td><td>-</td><td><div class="other">20:00-22:00</div></td><td>-</td></tr><tr><td>Di 23 Aug</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Woe 24 Aug</td><td>-</td><td><div class="other">20:00-23:00</div></td><td>-</td></tr><tr><td>Do 25 Aug</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Vr 26 Aug</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Za 27 Aug</td><td>-</td><td>-</td><td>-</td></tr></tbody>
+            </table>
+            <table>
+                <tbody>
+                <tr>
+                    <td class="wielerpiste">&nbsp;&nbsp;&nbsp;</td>
+                    <td>Wielerpiste</td>
+                    <td class="bourgoyen">&nbsp;&nbsp;&nbsp;</td>
+                    <td>Bourgoyen</td>
+                    <td class="topsporthal">&nbsp;&nbsp;&nbsp;</td>
+                    <td>Topsporthal</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
 
-{{ $paginator := .Paginate (where .Pages "Section" "in" .Site.Params.mainSections) }}
-{{ range $paginator.Pages }}
+        <div class="col-md-4">
+            <div class="card mt-2">
+                <div class="card-header">
+                    <h3>Laatste artikels</h3>
+                    <ul class="latest-posts">
+                            {{ $latestArticles := where .Site.Pages "Params.categories" "intersect" (slice "volwassenen" "general") | first 10 }}
+                            {{ range $latestArticles}}
+                            <li>
+                                {{ .Render "summary_compact" }}
+                            </li>
+                            {{ end}}
+                    </ul>
+                </div>
+            </div>
+        </div>
 
-    {{ if $truncate }}
-        {{ .Render "summary" }}
-    {{ else }}
-        {{ .Render "content" }}
-    {{ end }}
+        <div class="col-md-4">
+            <div class="card mt-2">
+                <div class="card-header">
+                    <h3>Laatste artikels jeugd</h3>
+                    <ul class="latest-posts">
+                            {{ $latestArticles := where .Site.Pages "Params.categories" "intersect" (slice "volwassenen" "general" | first 10) }}
+                            {{ range $latestArticles}}
+                            <li>
+                                {{ .Render "summary_compact" }}
+                            </li>
+                            {{ end}}
+                    </ul>
+                </div>
 
-{{ end }}
+            </div>
 
-{{ partial "paginator" . }}
+        </div>
+
+        <div class="col-md-4">
+            <div class="card mt-2">
+                <div class="card-header text-center">
+                    <h4>Sponsors</h4>
+                </div>
+                <div class="card-body">
+                    <div class="text-center">
+                        <a href="/sponsors/badmintonland/"><img src="/images/Badmintonland_300x83.jpg" alt="Badmintonland"></a>
+                        <br><a href="https://badmintonland.be" target="_new">badmintonland.be</a>
+                    </div>
+                    <div class="text-center" style="margin-top: 2px;">
+                        <a href="http://www.stad.gent/sport" target="_new"><img src="/images/18_LOGO_GENT_SECUNDAIR_ROOD_72DPI_200x142.png" alt="Logo Gent Rood"></a>
+                    </div>
+                    <div class="text-center" style="margin-top: 2px;">
+                        <a href="https://www.sport.vlaanderen/" target="_new"><img src="/images/SportVlaanderenLogoSmall.jpg" alt="Logo Sport Vlaanderen"></a>
+                    </div>
+                </div>
+            </div>
+
+            <div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div>
+            <script>(function(d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id)) return;
+                    js = d.createElement(s); js.id = id;
+                    js.src = "//connect.facebook.net/nl_NL/all.js#xfbml=1";
+                    fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));</script>
+
+            <div class="fb-like-box mt-2 fb_iframe_widget" data-href="https://www.facebook.com/GentseBC" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=&amp;color_scheme=light&amp;container_width=340&amp;header=true&amp;href=https%3A%2F%2Fwww.facebook.com%2FGentseBC&amp;locale=nl_NL&amp;sdk=joey&amp;show_border=true&amp;show_faces=true&amp;stream=false"><span style="vertical-align: bottom; width: 300px; height: 130px;"><iframe name="f3558339385148" data-testid="fb:like_box Facebook Social Plugin" title="fb:like_box Facebook Social Plugin" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" style="border: medium none; visibility: visible; width: 300px; height: 130px;" src="https://www.facebook.com/plugins/like_box.php?app_id=&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df2860f6c9786e5c%26domain%3Dwww.gentsebc.be%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fwww.gentsebc.be%252Ffd49f91d06c03e%26relation%3Dparent.parent&amp;color_scheme=light&amp;container_width=340&amp;header=true&amp;href=https%3A%2F%2Fwww.facebook.com%2FGentseBC&amp;locale=nl_NL&amp;sdk=joey&amp;show_border=true&amp;show_faces=true&amp;stream=false" class="" width="1000px" height="1000px" frameborder="0"></iframe></span></div>
+
+
+
+
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-md-12 text-center">
+{{ $multiline := `
+Gentse BC: algemeen;gentsebc@gmail.com;#F6BF26
+Gentse BC: training;h7fbpfklfespjs5c3nseqeneb4@group.calendar.google.com;#C0CA33
+` }}
+<iframe src="/handlers/gcalendar/?myConfig={{  $multiline | base64Encode | urlquery}}" 
+allowtransparency="true" 
+style=" border:0 " 
+scrolling="no" 
+width="925" 
+height="650" 
+frameborder="0">
+</iframe>                
+       </div>
+    </div>
+
+
+
+</div>
 
 {{ end }}
