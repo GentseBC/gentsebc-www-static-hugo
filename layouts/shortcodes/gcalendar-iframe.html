@@ -1,5 +1,10 @@
 {{ $config := .Inner | base64Encode | urlquery }}
-<iframe src="/handlers/gcalendar/?myConfig={{ $config }}" 
+{{ $staticContentPrefix := ""}}
+{{ if not .Site.IsServer}}
+    {{ $staticContentPrefix = .Site.Params.static_content_prefix}}
+{{ end}}
+
+<iframe src="{{$staticContentPrefix}}/handlers/gcalendar/?myConfig={{ $config }}" 
     allowtransparency="true" 
     style=" border:0 " 
     scrolling="no" 
