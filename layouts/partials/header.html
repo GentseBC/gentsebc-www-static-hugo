@@ -1,10 +1,11 @@
 {{ $colorScheme := default "light" .Site.Params.header.colorScheme }}
+{{ $sp := cond .Site.IsServer  "" .Site.Params.static_content_prefix }}
 
 <header class="blog-header">
     <div class="span12" style="background-color:#101e5b;">
         <a class="brand" id="logo" title="" href="/">
 
-            <img src="/images/banner_links.jpg" alt="">
+            <img src="{{$sp}}/images/banner_links.jpg" alt="">
         </a>
     </div>
     <nav class="navbar navbar-expand-md navbar-{{ $colorScheme }} bg-{{ $colorScheme }}">
