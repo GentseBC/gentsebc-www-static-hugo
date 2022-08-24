@@ -22,7 +22,7 @@ Na het invullen van de medische fiche die je zal opgestuurd worden en het oversc
 Om ieders spelplezier te garanderen en om de organisatie praktisch haalbaar te houden, werken we met een maximaal aantal inschrijvingen.
 
 ## Afspraken
-In [bijgevoegd document](/docs/Afspraken-G-badminton.pdf) kan je de afspraken vinden die door de leden moeten worden nageleefd.
+In [bijgevoegd document]({{< sp >}}/docs/Afspraken-G-badminton.pdf) kan je de afspraken vinden die door de leden moeten worden nageleefd.
 
 ## Meer informatie of eens proberen?
 Twijfel je of het iets voor jou is? Je mag 3 keer proberen alvorens je lid te maken.

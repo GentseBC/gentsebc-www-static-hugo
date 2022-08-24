@@ -1,5 +1,6 @@
 {{ $config := .Inner | base64Encode }}
-<iframe src="/handlers/gcalendar/?myConfig={{ urlquery $config }}" 
+{{ $sp := cond .Site.IsServer  "" .Site.Params.static_content_prefix }}
+<iframe src="{{$sp}}/handlers/gcalendar/?myConfig={{ urlquery $config }}" 
     allowtransparency="true" 
     style=" border:0 " 
     scrolling="no" 

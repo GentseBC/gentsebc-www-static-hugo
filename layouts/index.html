@@ -1,6 +1,7 @@
 {{ define "main" }}
 
 {{ $truncate := default true .Site.Params.truncate }}
+{{ $sp := cond .Site.IsServer  "" .Site.Params.static_content_prefix }}
 
 {{ partial "short-term-calendar" . }}
 
@@ -75,14 +76,14 @@
                 </div>
                 <div class="card-body">
                     <div class="text-center">
-                        <a href="/sponsors/badmintonland/"><img src="/images/Badmintonland_300x83.jpg" alt="Badmintonland"></a>
+                        <a href="{{$sp}}/sponsors/badmintonland/"><img src="{{$sp}}/images/Badmintonland_300x83.jpg" alt="Badmintonland"></a>
                         <br><a href="https://badmintonland.be" target="_new">badmintonland.be</a>
                     </div>
                     <div class="text-center" style="margin-top: 2px;">
-                        <a href="http://www.stad.gent/sport" target="_new"><img src="/images/18_LOGO_GENT_SECUNDAIR_ROOD_72DPI_200x142.png" alt="Logo Gent Rood"></a>
+                        <a href="http://www.stad.gent/sport" target="_new"><img src="{{$sp}}/images/18_LOGO_GENT_SECUNDAIR_ROOD_72DPI_200x142.png" alt="Logo Gent Rood"></a>
                     </div>
                     <div class="text-center" style="margin-top: 2px;">
-                        <a href="https://www.sport.vlaanderen/" target="_new"><img src="/images/SportVlaanderenLogoSmall.jpg" alt="Logo Sport Vlaanderen"></a>
+                        <a href="https://www.sport.vlaanderen/" target="_new"><img src="{{$sp}}/images/SportVlaanderenLogoSmall.jpg" alt="Logo Sport Vlaanderen"></a>
                     </div>
                 </div>
             </div>
@@ -110,7 +111,7 @@
 Gentse BC: algemeen;gentsebc@gmail.com;#F6BF26
 Gentse BC: training;h7fbpfklfespjs5c3nseqeneb4@group.calendar.google.com;#C0CA33
 ` }}
-<iframe src="/handlers/gcalendar/?myConfig={{  $multiline | base64Encode | urlquery}}" 
+<iframe src="{{$sp}}/handlers/gcalendar/?myConfig={{  $multiline | base64Encode | urlquery}}" 
 allowtransparency="true" 
 style=" border:0 " 
 scrolling="no" 

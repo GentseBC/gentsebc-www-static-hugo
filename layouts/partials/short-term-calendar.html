@@ -1,3 +1,4 @@
+{{ $sp := cond .Site.IsServer  "" .Site.Params.static_content_prefix }}
 <div class="d-none d-md-block">
     <div class="span12">
         <table class="table">
@@ -24,7 +25,7 @@
 			  src="https://code.jquery.com/jquery-3.6.0.min.js"
 			  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
 			  crossorigin="anonymous"></script>
-<script type='text/javascript' src='/js/shortTermCalendar.js'></script>
+<script type='text/javascript' src='{{$sp}}/js/shortTermCalendar.js'></script>
 <script>
     jQuery(document).ready(function() {
         console.log("Adding short term calendar");
