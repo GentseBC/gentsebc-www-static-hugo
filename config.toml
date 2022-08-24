@@ -1,4 +1,4 @@
-baseURL = 'http://www.gentsebc.be/'
+baseURL = 'http://www.gentsebc.be/poc_gh_actions/'
 languageCode = 'nl-be'
 defaultContentLanguage = "nl"
 defaultContentLang = "nl"
