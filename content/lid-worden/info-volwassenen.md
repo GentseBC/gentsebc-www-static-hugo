@@ -14,7 +14,7 @@ Iedereen is welkom bij de Gentse BC, zowel competitief als recreatief, beginners
 
 Ons concept is eenvoudig: je komt gewoon af naar een speelmoment en speelt dan een wedstrijd tegen de mensen op dat moment aanwezig. Iedereen speelt met iedereen (van ongeveer hetzelfde niveau). Zo verhoog je jouw spelniveau en leer je ook andere mensen kennen.
 
-Er zijn [5 speelmomenten](/clubinfo/speeluren) per week waarop je kan komen spelen (je beslist zelf hoe vaak en hoelang je komt en wanneer, er zijn geen verplichtingen). Er worden ter plaatse duo’s gevormd met de aanwezige personen en wedstrijdjes onder elkaar gespeeld. Na afloop verlaat je het terrein en worden nieuwe duo’s gevormd voor een volgende wedstrijd. Enkelspel mag ook, maar alleen wanneer het niet te druk is in de zaal.
+Er zijn [5 speelmomenten]({{< ref "/clubinfo/speeluren" >}}) per week waarop je kan komen spelen (je beslist zelf hoe vaak en hoelang je komt en wanneer, er zijn geen verplichtingen). Er worden ter plaatse duo’s gevormd met de aanwezige personen en wedstrijdjes onder elkaar gespeeld. Na afloop verlaat je het terrein en worden nieuwe duo’s gevormd voor een volgende wedstrijd. Enkelspel mag ook, maar alleen wanneer het niet te druk is in de zaal.
 
 # Interesse?
 
@@ -28,7 +28,7 @@ Wens je lid te worden, dien je het inschrijvingsformulier in te vullen. Je krijg
 
 # Lidgeld
 
-Als lid kom je zoveel spelen als je wilt. Raadpleeg het lidgeld voor een volledig of een gedeeltelijk seizoen [hier](/clubinfo/lidgeld). Het lidgeld omvat ook de bijdrage voor de federatie Badminton Vlaanderen, via dewelke je verzekerd bent.
+Als lid kom je zoveel spelen als je wilt. Raadpleeg het lidgeld voor een volledig of een gedeeltelijk seizoen [hier]({{< ref "/clubinfo/lidgeld" >}}). Het lidgeld omvat ook de bijdrage voor de federatie Badminton Vlaanderen, via dewelke je verzekerd bent.
 Ben je al lid van een andere club aangesloten bij Badminton Vlaanderen, dan kan je als gastlid bij de Gentse BC spelen en krijg je een korting op het lidgeld van 15 EUR.
 
 # Competitie
@@ -40,4 +40,4 @@ Alle spelers van de Gentse BC krijgen de kans om competitie te spelen. Elk jaar 
 Jaarlijks worden een aantal trainingsessies georganiseerd, toegankelijk voor wie lid is bij Gentse BC. Deze sessies vinden 2x per jaar plaats, in september en in januari/februari en bevatten ongeveer 12 lessen per reeks, voor zowel beginners als gevorderden. Meer informatie zal je terugvinden op deze website in een nieuwsbericht en een mail wordt verstuurd met alle informatie. Wees er op tijd bij om je in te schrijven. Hou daarom de website/facebookpagina in de gaten!
 Verzekering
 
-De Gentse BC is [verzekerd](/interne-werking/documenten/#verzekering) voor alle ongevallen die gebeuren op de officiële speelmomenten. Vanaf 01/01/2010 is de verzekeraar “Arena”. Je hebt wel een getuige nodig die jouw ongeval bevestigt.
+De Gentse BC is [verzekerd]({{< relref "/interne-werking/documenten#verzekering" >}}) voor alle ongevallen die gebeuren op de officiële speelmomenten. Vanaf 01/01/2010 is de verzekeraar “Arena”. Je hebt wel een getuige nodig die jouw ongeval bevestigt.

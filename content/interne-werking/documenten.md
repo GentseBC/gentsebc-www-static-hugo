@@ -28,7 +28,7 @@ Aangifteformulier ongeval: [www.badmintonvlaanderen.be : rubriek lidmaatschap : 
 Info nodig voor het invullen van de papieren
 
 * Benaming van uw club: Gentse BC vzw (30009)
-* Naam en adres clubverantwoordelijke: Hier kan je de naam invullen van iemand van het bestuur die (liefst) aanwezig was tijdens het ongeval. Indien er niemand van het bestuur aanwezig was, vul je de naam in van de de [secretaris](/clubinfo/medewerkers), E-mail: secretaris@gentsebc.be
+* Naam en adres clubverantwoordelijke: Hier kan je de naam invullen van iemand van het bestuur die (liefst) aanwezig was tijdens het ongeval. Indien er niemand van het bestuur aanwezig was, vul je de naam in van de de [secretaris]({{< ref "/clubinfo/medewerkers" >}}), E-mail: secretaris@gentsebc.be
 * “Getuigenissen” + handtekening: Dit moet je zeker laten invullen door iemand die het ongeval zien gebeuren heeft en je moet het ook laten ondertekenen.
 * Tijdens welke soort activiteit vond het ongeval plaats ? Hier kan je “Training” invullen, of “Tijdens deelname aan een clubactiviteit”, of een open vakje en dan zelf schrijven “Vrij spel (recreatief tijdens clubactiviteit)”. Het tweede is het meest courant.
 * Het polisnummer voor lichamelijke ongevallen is 1.116.925. Het polisnummer voor burgelijke aansprakelijkheid 1.116.926
