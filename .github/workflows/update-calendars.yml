@@ -8,15 +8,12 @@ jobs:
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}    
     steps:
-      - uses: actions/checkout@v3
-        with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod     
+      - uses: actions/checkout@v3  
       - name: Run shell
         run: |
              echo "Shell commands here"
              ls -alt
-             tree           
+             tree -a       
       - uses: actions/github-script@v6
         with:
           script: |
