@@ -1,4 +1,4 @@
-module.exports = ({github, context, io}) => {
+module.exports = async ({github, context, io}) => {
     console.log("Starting downloading from google");
 
     function dateToYMD(date) {
@@ -8,13 +8,22 @@ module.exports = ({github, context, io}) => {
         return '' + y + '-' + (m<=9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);
     }
 
+    async function fetchAsync (url) {
+        let response = await fetch(url);
+        let data = await response.json();
+        return data;
+      }
+      
+
     const numberOfDaysToDisplay =7;
     var fromDate = new Date();
     var toDate = new Date();
-    toDate.setDate(fromDate.getDate() + numberOfDaysToDisplay);
+    toDate.setDate(fromDate.getDate() + numberOfDaysToDisplay);    
 
-    console.log(dateToYMD(fromDate) + "->" + dateToYMD(toDate));
-
+    URL = 'https://www.googleapis.com/calendar/v3/calendars/gentsebc%40gmail.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + toDate +'T00%3A00%3A00-00%3A00&timeMin='+ fromDate + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak';
+    console.log(URL);
+    let calendarData = await fetchAsync(URL);
+    console.log(calendarData);
 
 
     return context;
