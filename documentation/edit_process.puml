@@ -1,0 +1,18 @@
+@startuml
+alt first time
+Github -> Editor: clone repo
+note over Github: command: \n git clone https://github.com/GentseBC/gentsebc-www-static-hugo.git
+else repo already local
+Github -> Editor: update local repo
+note over Github: command: \n git pull --rebase
+end
+Editor -> Editor: edit data / templates
+Editor -> Editor: rebuild website
+note over Editor: command: \nhugo server
+Editor -> Editor: evaluate using webbrowser
+Editor -> Github: push changes
+note over Editor: command: \ngit push
+Github -> GithubActions: trigger rebuild
+GithubActions -> one.com: push results over SFTP
+WebsiteVisitor -> one.com: browser
+@enduml
