@@ -10,6 +10,8 @@ Editor -> Editor: edit data / templates
 Editor -> Editor: rebuild website
 note over Editor: command: \nhugo server
 Editor -> Editor: evaluate using webbrowser
+Editor -> Editor: commit changes
+note over Editor: command: \ngit commit -m "Some description"
 Editor -> Github: push changes
 note over Editor: command: \ngit push
 Github -> GithubActions: trigger rebuild
