@@ -6,7 +6,8 @@ author: 'Secretaris'
 
 menu:
   main:
-    parent: competitie
+    identifier: 'competitie_agenda'
+    parent: 'competitie'
     weight: 10
 ---
 

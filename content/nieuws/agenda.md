@@ -6,7 +6,8 @@ author: 'Secretaris'
 
 menu:
   main:
-    parent: nieuws
+    identifier: 'agenda'
+    parent: 'nieuws'
     weight: 50
 ---
 
