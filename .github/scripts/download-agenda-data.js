@@ -11,7 +11,7 @@ module.exports = ({github, context, io}) => {
     const numberOfDaysToDisplay =7;
     var fromDate = new Date();
     var toDate = new Date();
-    toDate.setDate(date.getDate() + numberOfDaysToDisplay);
+    toDate.setDate(fromDate.getDate() + numberOfDaysToDisplay);
 
     console.log(dateToYMD(fromDate) + "->" + dateToYMD(toDate));
 
