@@ -1,3 +1,4 @@
 module.exports = ({github, context}) => {
-    return context.payload.client_payload.value
+    console.log("Hello world");
+    return context;
 }
