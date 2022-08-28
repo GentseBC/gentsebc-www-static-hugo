@@ -29,7 +29,7 @@
 <script>
     jQuery(document).ready(function() {
         console.log("Adding short term calendar");
-        addShortTermCalendar(jQuery);
+        addShortTermCalendar(jQuery,'{{cond .Site.IsServer  "https://www.gentsebc.be/" "/" }}');
     });
 </script>
 <div class="d-none d-md-block">

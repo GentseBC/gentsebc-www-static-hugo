@@ -20,7 +20,7 @@ module.exports = async ({github, context, io}) => {
     var toDate = new Date();
     toDate.setDate(fromDate.getDate() + numberOfDaysToDisplay);    
 
-    URL = 'https://www.googleapis.com/calendar/v3/calendars/gentsebc%40gmail.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + toDate +'T00%3A00%3A00-00%3A00&timeMin='+ fromDate + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak';
+    URL = 'https://www.googleapis.com/calendar/v3/calendars/gentsebc%40gmail.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak';
     console.log(URL);
     let calendarData = await fetchAsync(URL);
     console.log(calendarData);

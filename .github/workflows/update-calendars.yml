@@ -1,4 +1,4 @@
-name: Update calendars
+name: Update calendars (WIP)
 on: 
     workflow_dispatch:
 
@@ -8,14 +8,9 @@ jobs:
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}    
     steps:
-      - uses: actions/checkout@v3  
-      - name: Run shell
-        run: |
-             echo "Shell commands here"
-             ls -alt
-             tree -a       
+      - uses: actions/checkout@v3       
       - uses: actions/github-script@v6
         with:
           script: |
             const script = require('./.github/scripts/download-agenda-data.js')
-            console.log(script({github, context}))
+            console.log(script({github, context, io}))

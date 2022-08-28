@@ -41,9 +41,9 @@ function calItemsHtmlVertical($, calItems) {
     }
 }
 
-function addShortTermCalendar($){
-    console.log("Adding short term calendar");
-    $.get("/shortTermCalendar.json", function( data ) {
+function addShortTermCalendar($, baseURL){
+    console.log("Adding short term calendar from:"+baseURL);
+    $.get(baseURL+"mashup/processCalendar/shortTermCalendar", function( data ) {
         $.each(data,function(index) {
             //  console.log(data[index]);
 
