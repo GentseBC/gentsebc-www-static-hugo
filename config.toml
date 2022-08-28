@@ -60,7 +60,7 @@ paginate = 10
   [[menu.main]]
     identifier = 'g-badminton'
     name = 'G-badminton'
-    URL = '/clubinfo/g-badminton/'
+    URL = '/g-badminton/'
     weight=40
 
   [[menu.main]]
@@ -81,6 +81,11 @@ paginate = 10
     name = 'xxxx'
     URL = '/categories/training'
     weight=50
+
+  [[menu.main]]
+    identifier = 'tornooi'
+    name = 'Tornooi'
+    weight=60
 
   [[menu.main]]
     identifier = 'interne-werking'
