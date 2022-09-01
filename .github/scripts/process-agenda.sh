@@ -14,3 +14,4 @@ cat cdata.json | jq '[.items[] | {"day": .start.dateTiem ,"start": .start.dateTi
 
 
 #TODO: for now using existing epiphany PHP implementation
+# https://lzone.de/cheat-sheet/jq

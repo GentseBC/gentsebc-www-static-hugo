@@ -91,3 +91,9 @@ paginate = 10
     identifier = 'interne-werking'
     name = 'Interne werking'
     weight=80
+
+  [[menu.main]]
+    identifier = 'contact'
+    name = 'Contact'
+    URL = '/clubinfo/contact/'
+    weight=90
