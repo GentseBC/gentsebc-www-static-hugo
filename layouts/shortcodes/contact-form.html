@@ -23,7 +23,7 @@
             Dit veld moet ingevuld worden.
         </div>          
      </div>    
-     <div class="g-recaptcha" data-sitekey="6Lf-K-MSAAAAALgzl7YtkW3w19mu1aIhp-v6cN66"></div>
+     <div class="g-recaptcha" data-sitekey="6LcIpOUSAAAAADerEdfN2WewEjn8sUx7ZT9EDxKI"></div>
      <br/>
     <button type="submit" class="btn btn-primary" id="form-submit-btn-id">Verstuur</button>
   </form>
@@ -67,9 +67,11 @@
             method: "POST",
             headers: {'Content-Type': 'application/json'}, 
             body: JSON.stringify(data)
-            }).then(res => {
+            })
+            .then((response) => response.json())
+            .then(res => {
                 //console.log("Request complete! response:", res);
-                document.getElementById('form-submit-btn-id').textContent =  (res.succes ? 'Vraag verstuurd!' : 'Vraag kon niet worden verstuurd.');
+                document.getElementById('form-submit-btn-id').textContent =  (res.success ? 'Vraag verstuurd!' : 'Vraag kon niet worden verstuurd.');
             });
         }
 
