@@ -1,0 +1,210 @@
+level1:
+  - tab:
+    name: "Grepen"
+    description: ""
+    videos:
+    - title: "Grepen"
+      youtubeid: "http://www.youtube.com/watch?v=QcGzwDQNqQY" 
+  - tab:
+    name: "Footwork"
+    description: "De bewegingscyclus (met start-approach-hit-recovery) is een nieuwe interessante benadering van basisfootwork ‘on court’. Alle video’s zullen uitgebreid aan bod komen tijdens de trainingen in groep 2."
+    videos:
+    - title: "Introductie"
+      youtubeid: "http://www.youtube.com/watch?v=Qxg5rAaatVA"
+    - title: "Start fase"
+      youtubeid: "http://www.youtube.com/watch?v=RVsEoISFDrk"
+    - title: "Benaderings fase"
+      youtubeid: "http://www.youtube.com/watch?v=ymsM3wzppdc"
+    - title: "Slag fase"
+      youtubeid: "http://www.youtube.com/watch?v=91kXg5VspyA"
+    - title: "Recuperatie fase"
+      youtubeid: "http://www.youtube.com/watch?v=nl7W8Ln6hZA"
+    - title: "Meest voorkomend footwork naar Forehand voorveld"
+      youtubeid: "http://www.youtube.com/watch?v=O0Sm-8r8Jnw"
+    - title: "Meest voorkomend footwork naar Backhand voorveld"
+      youtubeid: "http://www.youtube.com/watch?v=zft8LlbX5fc"
+    - title: "Meest voorkomend footwork naar Forehand achterveld"
+      youtubeid: "http://www.youtube.com/watch?v=UFvAORnSLJA"
+    - title: "Meest voorkomend footwork naar Backhand achterveld"
+      youtubeid: "http://www.youtube.com/watch?v=3jdE-21Zf8U"
+  - tab:
+    name: "Opslagen"
+    description: ""
+    videos:      
+    - title: "hoge service forehand"
+      youtubeid: "http://www.youtube.com/watch?v=B7cZXf18gKQ"
+    - title: "korte service backhand"
+      youtubeid: "http://www.youtube.com/watch?v=RyeHA-d6gIA"
+    - title: "flick service backhand"
+      youtubeid: "http://www.youtube.com/watch?v=Zsg7vfNJZ3A"
+    - title: "flick service forehand"
+      youtubeid: "http://www.youtube.com/watch?v=49S7vRhCpLo"
+    - title: "korte service forehand"
+      youtubeid: "http://www.youtube.com/watch?v=SmYzugRjLuM"
+
+  - tab:
+    name: "Slagen in het voorbeld"
+    description: ""
+    videos:      
+    - title: "backhand net shot"
+      youtubeid: "http://www.youtube.com/watch?v=_RPCgxelkJU"
+    - title: "forehand net shot"
+      youtubeid: "http://www.youtube.com/watch?v=t_MziFcjQoM"
+    - title: "backhand lob/lift"
+      youtubeid: "http://www.youtube.com/watch?v=qByRhL957Uk"
+    - title: "forehand lob/lift"
+      youtubeid: "http://www.youtube.com/watch?v=9MatFLG9P5M"
+    - title: "backhand net kill"
+      youtubeid: "http://www.youtube.com/watch?v=PyTTNQ4RgP0"
+    - title: "forehand net kill"
+      youtubeid: "http://www.youtube.com/watch?v=42ADXxn6Tp0"
+
+  - tab:
+    name: "Slagen in het middenveld"
+    description: ""
+    videos:      
+    - title: "backhand block van het lichaam"
+      youtubeid: "http://www.youtube.com/watch?v=PH2gtSQnkcs"
+    - title: "forehand drive"
+      youtubeid: "http://www.youtube.com/watch?v=LoH7kNw82y8"
+    - title: "backhand drive"
+      youtubeid: "http://www.youtube.com/watch?v=Vr_hHdL7KNQ"
+
+  - tab:
+    name: "Slagen in het achterveld"
+    description: ""
+    videos:      
+    - title: "forehand clear"
+      youtubeid: "http://www.youtube.com/watch?v=dhQBnOPGu04"
+    - title: "forehand dropshot"
+      youtubeid: "http://www.youtube.com/watch?v=bwZdseL9UJM"
+    - title: "forehand smash"
+      youtubeid: "http://www.youtube.com/watch?v=Es0-Il3lg4g"
+    - title: "Forehand 'pulled' dropshot"
+      youtubeid: "http://www.youtube.com/watch?v=zGngokrhBls"
+    - title: "backhand clear"
+      youtubeid: "http://www.youtube.com/watch?v=oKukKZ5sD8U"
+    - title: "backhand 'pulled' dropshot"
+      youtubeid: "http://www.youtube.com/watch?v=wn-1bRorIAY"
+
+  - tab:
+    name: "Biomechanica & tactiek"
+    description: "Onontbeerlijke informatie over de geheimen van slaguitvoering."
+    videos:      
+    - title: "Tacktiek: introductie"
+      youtubeid: "http://www.youtube.com/watch?v=hz2MrXQZtfc"
+    #- title: "accelaration from big to small segments, load-unload muscles, body rotation, upper arm rotation, lower arm rotation, buigen en strekken van ligamenten"
+    #  youtubeid: "_VeS4xmuiJc"
+    #- title: "een nieuwe kijk op modern badminton"
+    #  youtubeid: "H-FaeaaKO8M"
+
+level2:
+#  - tab:
+#    name: "Slagen in het voorveld"
+#    description: "Spin -en crossnetslagen in het voorveld."
+#    videos:      
+#    - title: "Introductie"
+#      youtubeid: "http://www.youtube.com/watch?v=VAEmA3LYsoM"
+#    - title: "Backhand-spin net shot (in to out)"
+#      youtubeid: "http://www.youtube.com/watch?v=CXTtdbZ4pw0"
+#    - title: "Backhand-spin net shot (out to in)"
+#      youtubeid: "http://www.youtube.com/watch?v=n3qrQ3xeQH4"
+#    - title: "Backhand cross net shot"
+#      youtubeid: "http://www.youtube.com/watch?v=sZx6C3jhLK8"
+#    - title: "Forehand-spin shot (in to out)"
+#      youtubeid: "http://www.youtube.com/watch?v=eKd-H30hyYg"
+#    - title: "Forehand spin net shot (out to in)"
+#      youtubeid: "http://www.youtube.com/watch?v=1MOqg8KP6Tw"
+#    - title: "Forehand cross net shot"
+#      youtubeid: "http://www.youtube.com/watch?v=OKYY-uyeHX8"
+#
+#
+#  - tab:
+#    name: "Slagen in het middenveld"
+#    description: "Enkel en dubbel defence vanuit het middenveld"
+#    videos:      
+#    - title: "Backhand doubles drive defence"
+#      youtubeid: "http://www.youtube.com/watch?v=ULNEzF2U9BE"
+#    - title: "Backhand (doubles) long defence"
+#      youtubeid: "http://www.youtube.com/watch?v=1gLRPzuuqQ8"
+#    - title: "Backhand cross court block"
+#      youtubeid: "http://www.youtube.com/watch?v=eau97L5v0xo"
+#    - title: "Backhand straight block defence"
+#      youtubeid: "http://www.youtube.com/watch?v=EX7AfqXrj2k"
+#    - title: "Forehand drive doubles"
+#      youtubeid: "http://www.youtube.com/watch?v=pGqsXT61mUM"
+#    - title: "Forehand block doubles"
+#      youtubeid: "http://www.youtube.com/watch?v=sEGybkFgNC8"
+#    - title: "Forehand singles cross court block"
+#      youtubeid: "http://www.youtube.com/watch?v=LWZdzm7yUsk"
+#
+#  - tab:
+#    name: "Slagen in het achterveld"
+#    description: "Slice, reverse -en stikslagen vanuit het achterveld"
+#    videos:      
+#    - title: "Forehand cross court reverse slice"
+#      youtubeid: "http://www.youtube.com/watch?v=Hs6_TH-VFF0"
+#    - title: "Forehand cross court slice"
+#      youtubeid: "http://www.youtube.com/watch?v=43RnxLjoOIk"
+#    - title: "Forehand overhead stik smash"
+#      youtubeid: "http://www.youtube.com/watch?v=1ytHSZSFD6w"
+#    - title: "Forehand straight reverse slice"
+#      youtubeid: "http://www.youtube.com/watch?v=x7sdzQZaoK0"
+#    - title: "Forehand straight slice (from Backhand side)"
+#      youtubeid: "http://www.youtube.com/watch?v=t6nRno77-yk"
+#
+#
+#  - tab:
+#    name: "Variaties op footwork"
+#    description: ""
+#    videos:      
+#    - title: "footwork opslagreturn bij dubbel"
+#      youtubeid: "http://www.youtube.com/watch?v=PUlUdS7kbeg"
+#    - title: "footworkvariaties voorveld"
+#      youtubeid: "http://www.youtube.com/watch?v=euYqeIQZVbw"
+#    - title: "footworkvariaties middenveld"
+#      youtubeid: "http://www.youtube.com/watch?v=TwOaVcUTaN8"
+#    - title: "footworkvariaties achterveld"
+#      youtubeid: "http://www.youtube.com/watch?v=voaUFjF2kUE"
+#
+  - tab:
+    name: "Enkel tacktiek"
+    description: ""
+    videos:      
+    - title: "Introductie enkel"
+      youtubeid: "ZSHKIJqeL_E"
+    - title: "Enkel: service en return"
+      youtubeid: "P5Fo9X2CHMM"
+    - title: "Enkel: rally’s spelen"
+      youtubeid: "a5fs_9ZIrKM"
+
+  - tab:
+    name: "Dubbel tacktiek"
+    description: "Zeer interessante kijk op dames en heren dubbel met steeds de uitleg over de taken van de voorste en de achterste speler. Alsook uitleg van typische dubbel situaties als: ‘side by side defence’, ‘chunnel attack’ en ‘rotations’. Let wel: bekijk zeker eerst de ‘dames dubbel video’s want dit is al moeilijk genoeg!"
+    videos:      
+    - title: "Introductie dubbel"
+      youtubeid: "http://www.youtube.com/watch?v=IvHj4fHX-iQ"
+    - title: "Dames dubbel: service en return"
+      youtubeid: "http://www.youtube.com/watch?v=C1EHPAQ_wI0"
+    - title: "Dames dubbel: rally’s spelen"
+      youtubeid: "http://www.youtube.com/watch?v=C5TX8JLeGyk"
+    - title: "Tactiek mannen dubbel: opslag en return"
+      youtubeid: "http://www.youtube.com/watch?v=8RcwazPIQVg"
+    - title: "Tactiek mannen dubbel: rally’s"
+      youtubeid: "http://www.youtube.com/watch?v=zQEjaMDLf00"
+    - title: "Tactiek gemengd dubbel: introductie"
+      youtubeid: "http://www.youtube.com/watch?v=5OArEpNTjVg"
+    - title: "Tactiek gemengd dubbel: service & return"
+      youtubeid: "http://www.youtube.com/watch?v=PWQ4kAR8odQ"
+    - title: "Tactiek gemengd dubbel: rally’s"
+      youtubeid: "http://www.youtube.com/watch?v=B84vz1M98as"
+
+  - tab:
+    name: ""
+    description: ""
+    videos:      
+    - title: ""
+      youtubeid: ""
+    - title: ""
+      youtubeid: ""
+            
