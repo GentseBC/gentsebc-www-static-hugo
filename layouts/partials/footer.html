@@ -7,8 +7,11 @@
 {{ $colorScheme := default "light" .Site.Params.footer.colorScheme }}
 
 <footer class="blog-footer w-100">
-    <nav class="navbar navbar-{{ $colorScheme }} bg-{{ $colorScheme }}">
-        <p class="w-100 text-center">{{ $copyright }}</p>
-        <p class="w-100 text-center"><a href="#">{{ i18n "backToTop" }}</a></p>
-    </nav>
+    <div class="container">
+        <div class="row bg-light pt-2 pb-2">
+            <div class="col-sm text-center">IBAN: BE20 7360 6521 2356</div>
+            <div class="col-sm text-center">Copyright © 2001-2022 ~ Gentse Badmintonclub (VZW)</div>
+            <div class="col-sm text-center">Ondernemingsnummer: 0884.265.163 </div>
+        </div>
+    </div>
 </footer>

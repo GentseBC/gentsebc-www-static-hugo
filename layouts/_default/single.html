@@ -1,17 +1,21 @@
 {{ define "main" }}
+<div class="container">
+    <div class="row">
+        <div class="col-sm">
+            <header>
+                {{ partial "post-title" . }}
+                {{ partial "post-date" . }}
+                {{ partial "post-tags" . }}
+                {{ partial "post-categories" . }}
+                <hr>
+            </header>
+            <article>
+                {{ .Content }}
 
-<header>
-    {{ partial "post-title" . }}
-    {{ partial "post-date" . }}
-    {{ partial "post-tags" . }}
-    {{ partial "post-categories" . }}
-    <hr>
-</header>
-<article class="blog-post">
-    {{ .Content }}
-
-    {{ partial "translations.html" . }}
-    {{ partial "related" . }}
-</article>
-
+                {{ partial "translations.html" . }}
+                {{ partial "related" . }}
+            </article>
+        </div>
+    </div>
+</div>
 {{ end }}

@@ -35,23 +35,17 @@ paginate = 10
 
   [[menu.main]]
     parent = 'nieuws'
-    identifier = 'competitie'
-    name ='Competitie nieuws'
-    URL = '/categories/competitie'
+    identifier = 'jeugd'
+    name ='Jeugd nieuws'
+    URL = '/categories/jeugd'
     weight = 20
-
-  [[menu.main]]
-    parent = 'nieuws'
-    identifier = 'training'
-    name ='Training nieuws'
-    URL = '/categories/training'
-    weight = 30
 
 
   [[menu.main]]
     identifier = 'clubinfo'
     name = 'Clubinfo'
     weight = 20
+
   [[menu.main]]
     identifier = 'lid-worden'
     name = 'LID worden?'
@@ -69,23 +63,14 @@ paginate = 10
     weight=50
  
   [[menu.main]]
-    parent = 'competitie'
-    identifier = 'bijkomende_info'
-    name = 'Bijkomende info'
-    URL = '/categories/training'
-    weight=50
-
-  [[menu.main]]
-    parent = 'bijkomende_info'
-    identifier = 'xxxx'
-    name = 'xxxx'
-    URL = '/categories/training'
-    weight=50
-
-  [[menu.main]]
     identifier = 'tornooi'
     name = 'Tornooi'
     weight=60
+
+  [[menu.main]]
+    identifier = 'training'
+    name = 'Training'
+    weight=70
 
   [[menu.main]]
     identifier = 'interne-werking'

@@ -1,5 +1,18 @@
 {{ $alert_type := or (.Get "type") "primary" }}
+<!--
+    Types?
+    See https://getbootstrap.com/docs/5.0/components/alerts/
+    
+    primary
+    secondary
+    success
+    danger
+    warning
+    info
+    light
+    dark
 
+-->
 <div class="alert alert-{{ $alert_type }}" role="alert">
     {{ .Inner }}
 </div>

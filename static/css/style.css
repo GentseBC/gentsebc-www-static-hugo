@@ -7,6 +7,7 @@
 
 .blog-header, .blog-post, .blog-pagination {
   margin-bottom: 2rem;
+  padding-left: 0px;
 }
 
 /* Make sure the image size is reasonable. */
@@ -14,6 +15,11 @@
   max-width: 100%;
 }
 
+.blog-footer {
+  font-size: 0.75em;
+  font-weight: bold;
+
+}
 
 /* START TDE SHORTTERM CALENDAR */
 div.bourgoyen, td.bourgoyen {
@@ -31,3 +37,14 @@ table.shorttermcalenderindex td {
   border-top: hidden;
 }
 /* END TDE SHORTTERM CALENDAR */
+
+
+.carousel-caption-gentsebc {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 15px;
+  background: rgba(0,0,0,0.75);
+  text-align: left;
+}
