@@ -31,7 +31,7 @@ Gentse 5G;0uojoidme3bnh4v91h5r4mouso@group.calendar.google.com;#B39DDB
 Gentse 6G;42npl5kciku20orbbfrlboek6c@group.calendar.google.com;#8E24AA
 {{< /gcalendar-iframe>}}
 
-Gebruik het pijltje {{< figure src="images/kalender_dropdown_icon.gif" >}} om enkel de items van een specifieke kalender te zien
+Gebruik het pijltje <img src="images/kalender_dropdown_icon.gif" title="Badminton World Federation" width="30px"> om enkel de items van een specifieke kalender te zien
 
 ### Smartphone
 Je kan deze publieke agenda’s importeren op je smartphone/tablet of PC. Zie info onderaan deze pagina.
