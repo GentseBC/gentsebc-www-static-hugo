@@ -30,8 +30,9 @@ jobs:
       - uses: bluwy/substitute-string-action@v1
         id: sub
         with:
-          _input-file: './public/wp-config.php'
+          _input-file: './public/wp-config-template.php'
           _format-key: '%%key%%'
+          _output-file: './public/wp-config.php'
           dbname: ${{ secrets.REMOTE_DB_NAME }}
           dbuser: ${{ secrets.REMOTE_DB_USER }}
           dbpassword: ${{ secrets.REMOTE_DB_PASSWORD }}
