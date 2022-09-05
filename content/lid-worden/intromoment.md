@@ -8,6 +8,9 @@ menu:
   main:
     parent: lid-worden
     weight: 40
+
+aliases:
+    - /intromoment/  
 ---
 Zin om eens te mee spelen en ook de andere “nieuwelingen” van Gentse BC te ontmoeten?
 

@@ -7,6 +7,9 @@ menu:
   main:
     parent: clubinfo
     weight: 30
+
+aliases:
+    - /club-gegevens/medewerkers/       
 ---
 
 # Bestuursleden

@@ -8,6 +8,9 @@ menu:
   main:
     parent: training
     weight: 30
+
+aliases:
+    - /training/trainings-info/       
 ---
 Aan onze leden bieden we een aantal trainingsessies aan. Enkel wie lid is van Gentse BC en in orde is met het jaarlijkse lidgeld kan hieran deelnemen.
 

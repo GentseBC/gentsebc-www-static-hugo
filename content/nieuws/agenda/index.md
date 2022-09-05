@@ -9,6 +9,9 @@ menu:
     identifier: 'agenda'
     parent: 'nieuws'
     weight: 50
+
+aliases:
+    - /nieuws-2/agenda/ 
 ---
 
 {{< gcalendar-iframe>}}

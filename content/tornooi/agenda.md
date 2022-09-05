@@ -9,7 +9,9 @@ menu:
     identifier: 'tornooi_agenda'
     parent: 'tornooi'
     weight: 10
-    
+
+aliases:
+    - /tornooi/officiele-tornooien/
 ---
 
 Een [overzicht](http://www.badmintonvlaanderen.be/calendar/185/Recreanten-Kalender) van alle recreatieve tornooien.

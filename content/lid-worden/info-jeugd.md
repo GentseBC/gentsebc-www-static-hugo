@@ -7,6 +7,9 @@ menu:
   main:
     parent: lid-worden
     weight: 20
+
+aliases:
+    - /nieuw-lid/jeugd/      
 ---
 
 {{% alert-box %}}

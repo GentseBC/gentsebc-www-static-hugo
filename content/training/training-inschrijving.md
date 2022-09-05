@@ -8,6 +8,9 @@ menu:
   main:
     parent: training
     weight: 10
+
+aliases:
+    - /2022/08/training-najaar-2022/    
 ---
 Dag badmintonners,
 

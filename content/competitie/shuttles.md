@@ -8,6 +8,9 @@ menu:
   main:
     parent: competitie
     weight: 60
+
+aliases:
+    - /competitie/bijkomende-info/shuttles/
 ---
 
 Deze pagina geeft uitleg over het gebruik van shuttles

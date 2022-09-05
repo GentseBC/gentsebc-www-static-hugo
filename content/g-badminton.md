@@ -2,6 +2,9 @@
 title: "G-badminton"
 date: 2022-08-26T15:50:16+02:00
 draft: false
+
+aliases:
+    - /g-badminton/ 
 ---
 ## Voor wie?
 We bieden G-badminton aan voor mensen met een lichte mentale beperking vanaf 15 jaar.

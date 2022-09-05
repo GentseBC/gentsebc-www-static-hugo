@@ -7,6 +7,9 @@ menu:
   main:
     parent: clubinfo
     weight: 10
+
+aliases:
+    - /club-gegevens/locatiespeeluren/   
 ---
 
 ## Speeluren JEUGD seizoen 2022-2023

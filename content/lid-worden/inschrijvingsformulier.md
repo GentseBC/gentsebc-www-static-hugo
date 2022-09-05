@@ -7,6 +7,9 @@ menu:
   main:
     parent: lid-worden
     weight: 10
+
+aliases:
+    - /inschrijvingsformulier/  
 ---
 Wens je lid te worden van Gentse BC? Vul dan hier je gegevens in.
 Gelieve enkel dit formulier in te vullen indien je definitief lid wenst te worden, aangezien hiermee jouw lidmaatschap bij de Badminton Federatie vastgelegd wordt. Je mag 2x gratis komen proberen alvorens te beslissen om lid te worden.

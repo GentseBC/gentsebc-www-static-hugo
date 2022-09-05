@@ -8,6 +8,9 @@ menu:
   main:
     parent: competitie
     weight: 20
+
+aliases:
+    - /competitie/competitie-resultaten/ 
 ---
 De Gentse BC is best trots. Trots op het feit dat we er tot nu toe in slagen om een mix te maken van recreatieve spelers en competitiespelers. Ook binnen het competitiegedeelte slagen we erin van een combinatie te realiseren van FUN en competitie. De samenstelling van onze ploegen zijn dan ook een jaarlijks terugkerend fenomeen van puzzelen en vooral veel overleggen zodat iedereen op zijn/haar juiste plekje terechtkomt. We hebben een 15-tal ploegen die de kleuren van de Gentse BC verdedigen.
 

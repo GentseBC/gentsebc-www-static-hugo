@@ -7,6 +7,9 @@ menu:
   main:
     parent: interne-werking
     weight: 50
+
+aliases:
+    - /privacyverklaring/
 ---
 
 
