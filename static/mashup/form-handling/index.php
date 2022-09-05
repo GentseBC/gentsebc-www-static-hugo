@@ -111,7 +111,7 @@ function isValidReCaptha($g_recaptcha_response) {
 
 	//The data you want to send via POST
 	$fields = [
-		'secret' => '6LcIpOUSAAAAAE6iw1lEuOprLpN9z7XAstBQbMPh',
+		'secret' => constant('RECAPTCHA_SITE_SECRET'),
 		'response' => $g_recaptcha_response
 	];
 	
@@ -139,7 +139,7 @@ function isValidReCaptha($g_recaptcha_response) {
 }
 
 function sendContactNotificationMail($field_data) {
-	$to = 'websitenotificaties@gentsebc.be';
+	$to = constant('FORM_NOTIFICATION_TO_ADDRESS');
 
 	// Subject
 	$subject = 'Contact Gentse BC';
@@ -161,7 +161,7 @@ function sendContactNotificationMail($field_data) {
 }
 
 function sendIntroNotificationMail($field_data) {
-	$to = 'websitenotificaties@gentsebc.be';
+	$to = constant('FORM_NOTIFICATION_TO_ADDRESS');
 
 	// Subject
 	$subject = 'Inschrijving introductie moment GENTSE BC';

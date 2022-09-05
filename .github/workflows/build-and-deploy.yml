@@ -36,6 +36,8 @@ jobs:
           dbname: ${{ secrets.REMOTE_DB_NAME }}
           dbuser: ${{ secrets.REMOTE_DB_USER }}
           dbpassword: ${{ secrets.REMOTE_DB_PASSWORD }}
+          recaptchasitesecret: ${{ secrets.RECAPTCHA_SITE_SECRET }}
+          formnotificationtoaddress: ${{ secrets.FORM_NOTIFICATION_TO_ADDRESS }}
 
       - name: SFTP mirror
         if: github.ref == 'refs/heads/master'
