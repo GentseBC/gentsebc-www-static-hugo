@@ -25,7 +25,7 @@
             Dit veld moet ingevuld worden.
         </div>          
      </div>    
-     <div class="g-recaptcha" data-sitekey="6LcIpOUSAAAAADerEdfN2WewEjn8sUx7ZT9EDxKI"></div>
+     <div class="g-recaptcha" data-sitekey="6Ldy09ohAAAAAPLlQnKLrbSD2vSoO_cVr-4jYBUH"></div>
      <br/>
     <button type="submit" class="btn btn-primary" id="form-submit-btn-id">Verstuur</button>
   </form>
@@ -88,7 +88,7 @@
             .then((response) => response.json())
             .then(res => {
                 //console.log("Request complete! response:", res);
-                document.getElementById('form-submit-btn-id').textContent =  (res.success ? 'Vraag verstuurd!' : 'Vraag kon niet worden verstuurd.');
+                document.getElementById('form-submit-btn-id').textContent =  (res.success ? 'Inschrijving ontvangen!' : 'Inschrijving kon niet worden verstuurd.');
             });
         }
 
