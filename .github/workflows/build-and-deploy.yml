@@ -48,4 +48,4 @@ jobs:
           password: ${{ secrets.REMOTE_SFTP_PWD }}
           port: 22
           local: ./public/
-          remote: /customers/2/3/0/gentsebc.be/httpd.www/poc_gh_actions/
+          remote: /customers/2/3/0/gentsebc.be/httpd.www/
