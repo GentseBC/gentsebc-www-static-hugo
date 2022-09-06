@@ -1,6 +1,6 @@
 ---
 title: "Shuttles"
-date: 2022-08-27T00:48:37+02:00
+date: 2022-09-06T21:40:37+02:00
 draft: false
 author: 'Secretaris'
 
@@ -22,8 +22,8 @@ Je kan de veren en plastieken shuttles elke speelavond kopen bij de avondverantw
 * plastiek shuttles:
   - Yonex Mavis 300: €10 per koker
 * veren shuttles:
-  - Victor Pro Court Tournament: €15
-  - Victor Queen: €17
+  - Victor Pro Court Tournament: €17
+  - Victor Queen: €19
 
 1. Op (officiële) tornooien
 Alle series (A, B, C en D) worden gespeeld met veren shuttles.
