@@ -18,6 +18,5 @@ define('DB_CHARSET', 'utf8');
 define('DB_COLLATE', '');
 
 define('RECAPTCHA_SITE_SECRET','%%recaptchasitesecret%%');
-define('FORM_NOTIFICATION_TO_ADDRESS','%%formnotificationtoaddress%%');
 
 

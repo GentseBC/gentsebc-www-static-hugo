@@ -139,7 +139,7 @@ function isValidReCaptha($g_recaptcha_response) {
 }
 
 function sendContactNotificationMail($field_data) {
-	$to = constant('FORM_NOTIFICATION_TO_ADDRESS');
+	$to = 'info@gentsebc.be';
 
 	// Subject
 	$subject = 'Contact Gentse BC';
@@ -161,7 +161,7 @@ function sendContactNotificationMail($field_data) {
 }
 
 function sendIntroNotificationMail($field_data) {
-	$to = constant('FORM_NOTIFICATION_TO_ADDRESS');
+	$to = 'bestuur@gentsebc.be';
 
 	// Subject
 	$subject = 'Inschrijving introductie moment GENTSE BC';
