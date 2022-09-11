@@ -1,0 +1,48 @@
+name: Build and deploy POC
+
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.91.2'
+          # extended: true
+
+      - name: Install SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.REMOTE_SSH_PRIVATE_KEY }}
+          known_hosts: unnecessary
+
+      - name: Adding Known Hosts
+        run: ssh-keyscan -p ${{ secrets.REMOTE_SSH_PORT}} -H ${{ secrets.REMOTE_SSH_HOST }}  >> ~/.ssh/known_hosts
+
+      - name: Build
+        run: hugo --baseURL https://www.gentsebc.be/ --minify
+
+      - name: Set config values into template
+        uses: bluwy/substitute-string-action@v1
+        id: sub
+        with:
+          _input-file: './public/wp-config-template.php'
+          _format-key: '%%key%%'
+          _output-file: './public/wp-config.php'
+          dbname: ${{ secrets.REMOTE_DB_NAME }}
+          dbuser: ${{ secrets.REMOTE_DB_USER }}
+          dbpassword: ${{ secrets.REMOTE_DB_PASSWORD }}
+          recaptchasitesecret: ${{ secrets.RECAPTCHA_SITE_SECRET }}
+
+      - name: Deploy with rsync
+        run: rsync -avz --checksum --delete -e "ssh -p ${{ secrets.SSH_PORT }}" ./public/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/customers/2/3/0/gentsebc.be/httpd.www/test_rsync/
