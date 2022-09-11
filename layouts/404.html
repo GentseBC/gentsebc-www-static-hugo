@@ -1,10 +1,14 @@
 {{ define "main"}}
 
-<article class="blog-post">
-  <header>
-    <h2 class="blog-post-title">Page Not Found</h2>
-  </header>
-  <p>Page not found. Go back <a href="{{ "/" | relLangURL }}">home</a>.</p>
-</article>
+<div class="d-flex align-items-center justify-content-center mb-5">
+  <div class="text-center">
+      <h1 class="display-1 fw-bold">404</h1>
+      <p class="fs-3"> <span class="text-danger">Oeps!</span> Pagina niet gevonden.</p>
+      <p class="lead">
+          Deze pagina bestaat niet langer.
+        </p>
+      <a href="/" class="btn btn-primary">Terug naar home-pagina</a>
+  </div>
+</div>
 
 {{ end }}
