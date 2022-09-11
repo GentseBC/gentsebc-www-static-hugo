@@ -45,4 +45,4 @@ jobs:
           recaptchasitesecret: ${{ secrets.RECAPTCHA_SITE_SECRET }}
 
       - name: Deploy with rsync
-        run: rsync -avz --checksum --delete -e "ssh -p ${{ secrets.SSH_PORT }}" ./public/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/customers/2/3/0/gentsebc.be/httpd.www/test_rsync/
+        run: rsync -avz --checksum --delete -e "ssh -p ${{ secrets.REMOTE_SSH_PORT }}" ./public/ ${{ secrets.REMOTE_SSH_USER }}@${{ secrets.REMOTE_SSH_HOST }}:/customers/2/3/0/gentsebc.be/httpd.www/test_rsync/
