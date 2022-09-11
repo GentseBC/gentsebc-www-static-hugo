@@ -3,26 +3,6 @@ RewriteEngine On
 RewriteCond %{REQUEST_URI} ^/
 RewriteRule .* - [CO=wordpress_test_cookie:WP+Cookie+check:%{HTTP_HOST}:1440:/]
 
-# De richtlijnen (regels) tussen "BEGIN WordPress" en "END WordPress" worden
-# dynamisch gegenereerd en zouden alleen aangepast mogen worden via WordPress filters.
-# Alle wijzigingen aan de richtlijnen tussen deze markeringen worden overschreven.
-# BEGIN WordPress
-<IfModule mod_rewrite.c>
-RewriteEngine On
-#Rewrite everything to https
-RewriteCond %{HTTPS} !=on
-RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
-#the usual WordPress settings
-RewriteBase /
-RewriteRule ^index\.php$ - [L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.php [L]
-</IfModule>
-
-# END WordPress
-
-
 
 # BEGIN http to https
 <IfModule mod_rewrite.c>
@@ -43,8 +23,3 @@ RewriteRule ^(.*) https://%{SERVER_NAME}/$1 [R,L]
 	order allow,deny
 	deny from all
 </Files>
-
-#<FilesMatch "^(wp-login|wp-log)\.php$">
-#	Header set Set-Cookie wordpress_test_cookie=WP+Cookie+check
-#</FilesMatch>
-#Header set Set-Cookie wordpress_test_cookie=WP+Cookie+check
