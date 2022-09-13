@@ -13,6 +13,8 @@ Gelieve enkel dit formulier in te vullen indien je definitief lid wenst te worde
 
 We zenden je kort na het invullen van dit formulier een factuur via email toe voor het lidgeld. De lidgelden worden geïnd door ClubCollect. Krijg je bericht van ClubCollect, weet dat dit geen spam is of anderszins :)
 
+Je hoeft dit formulier niet opnieuw in te vullen als je reeds lid bent van Gentse BC, jouw lidmaatschap wordt automatisch verlengd, tenzij we een tegenbericht ontvangen natuurlijk. 
+
 {{< warning-text >}}
 JEUGD <br />
 Nieuwe leden: inschrijven voor het seizoen 2022-2023 kan enkel op woensdag (de groep op zaterdag is volzet). 
