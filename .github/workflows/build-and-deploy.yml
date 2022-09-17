@@ -24,6 +24,14 @@ jobs:
           hugo-version: '0.91.2'
           # extended: true
 
+      - name: Cache local Maven repository
+        uses: actions/cache@v3
+        with:
+          path: resources/_gen
+          key: ${{ runner.os }}-hugogen-${{ hashFiles('resources/_gen/**') }}
+          restore-keys: |
+            ${{ runner.os }}-hugogen-
+
       - name: Setup SSH, install SSH Key
         uses: shimataro/ssh-key-action@v2
         with:
