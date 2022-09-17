@@ -1,0 +1,29 @@
+<link rel="stylesheet" href="https://unpkg.com/nanogallery2/dist/css/nanogallery2.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  
+<div id="nanogallery2"
+// gallery configuration, see https://nanogallery2.nanostudio.org/documentation.html
+data-nanogallery2 = '{ 
+  "thumbnailWidth":   "auto",
+  "thumbnailHeight":  200,
+  "itemsBaseURL":     "",
+  "thumbnailDisplayTransition": "slideUp2",    
+  "thumbnailHoverEffect2": "scale120",  
+  "galleryTheme":    {
+    "navigationBreadcrumb": { "background": "#0a58ca" }
+  },
+  "viewerTheme":      {
+    "background": "#008"
+  }
+}'
+>
+
+<!-- content of the gallery -->
+
+{{ .Inner }}
+
+
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="https://unpkg.com/nanogallery2/dist/jquery.nanogallery2.js"></script>
