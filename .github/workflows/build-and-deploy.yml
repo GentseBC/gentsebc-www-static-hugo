@@ -24,7 +24,7 @@ jobs:
           hugo-version: '0.91.2'
           # extended: true
 
-      - name: Cache local Maven repository
+      - name: Cache hugo _gen directory
         uses: actions/cache@v3
         with:
           path: resources/_gen
