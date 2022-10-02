@@ -24,16 +24,37 @@ jobs:
           hugo-version: '0.91.2'
           # extended: true
 
-      - name: Build
-        run: hugo --minify
-
-      - name: SFTP mirror
-        if: github.ref == 'refs/heads/master'
-        uses: verbindingsfout/sftp-mirror@v1.6
+      - name: Cache hugo _gen directory
+        uses: actions/cache@v3
         with:
-          server: ${{ secrets.REMOTE_SFTP_HOST }}
-          user: ${{ secrets.REMOTE_SFTP_USER }}
-          password: ${{ secrets.REMOTE_SFTP_PWD }}
-          port: 22
-          local: ./public/
-          remote: /customers/2/3/0/gentsebc.be/httpd.www/poc_gh_actions/
+          path: resources/_gen
+          key: ${{ runner.os }}-hugogen-${{ hashFiles('resources/_gen/**') }}
+          restore-keys: |
+            ${{ runner.os }}-hugogen-
+
+      - name: Setup SSH, install SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.REMOTE_SSH_PRIVATE_KEY }}
+          known_hosts: unnecessary
+
+      - name: Settup SSH, adding Known Hosts
+        run: ssh-keyscan -p ${{ secrets.REMOTE_SSH_PORT}} -H ${{ secrets.REMOTE_SSH_HOST }}  >> ~/.ssh/known_hosts
+
+      - name: Build site with hugo
+        run: hugo --baseURL https://www.gentsebc.be/ --minify
+
+      - name: Set config values into template
+        uses: bluwy/substitute-string-action@v1
+        id: sub
+        with:
+          _input-file: './public/wp-config-template.php'
+          _format-key: '%%key%%'
+          _output-file: './public/wp-config.php'
+          dbname: ${{ secrets.REMOTE_DB_NAME }}
+          dbuser: ${{ secrets.REMOTE_DB_USER }}
+          dbpassword: ${{ secrets.REMOTE_DB_PASSWORD }}
+          recaptchasitesecret: ${{ secrets.RECAPTCHA_SITE_SECRET }}
+
+      - name: Deploy with rsync
+        run: rsync -avz --checksum --delete -e "ssh -p ${{ secrets.REMOTE_SSH_PORT }}" ./public/ ${{ secrets.REMOTE_SSH_USER }}@${{ secrets.REMOTE_SSH_HOST }}:/customers/2/3/0/gentsebc.be/httpd.www/

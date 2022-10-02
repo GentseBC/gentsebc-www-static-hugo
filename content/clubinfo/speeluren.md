@@ -7,6 +7,9 @@ menu:
   main:
     parent: clubinfo
     weight: 10
+
+aliases:
+    - /club-gegevens/locatiespeeluren/   
 ---
 
 ## Speeluren JEUGD seizoen 2022-2023
@@ -43,7 +46,7 @@ Ook in de zomermaanden kan er gespeeld worden. Wij zoeken dan alternatieven in e
 | ----------- | ----------- | ----------- |
 | [Topsporthal](https://stad.gent/sport2/waar-kan-ik-sporten/topsporthal) | zaterdag | 10u00-12u00 | 
 {{< /table >}}
-Voor alle speelmomenten van G-sport: zie de aparte [pagina]({{< ref "/clubinfo/g-badminton" >}})
+Voor alle speelmomenten van G-sport: zie de aparte [pagina]({{< relref "/g-badminton" >}})
 
 ## Zomerbadminton volwassenen 2022
 In juli spelen we op *dinsdag* en *vrijdag* in LAGO Rozebroeken, delen A en B, van 20u-22u

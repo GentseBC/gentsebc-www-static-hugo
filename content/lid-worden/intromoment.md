@@ -8,6 +8,9 @@ menu:
   main:
     parent: lid-worden
     weight: 40
+
+aliases:
+    - /intromoment/  
 ---
 Zin om eens te mee spelen en ook de andere “nieuwelingen” van Gentse BC te ontmoeten?
 
@@ -17,3 +20,6 @@ Schrijf je dus snel in op één van de introductiemomenten!
 Regelmatig worden nieuwe introductiemomenten ingepland. Hou deze webpagina in de gaten wanneer de volgende introductiemomenten zullen doorgaan.
 
 Dit intro-moment richt zich specifiek op de volwassenen. Jeugdspelers kunnen met hun vragen terecht bij Boye via jeugd@gentsebc.be
+
+
+{{< intro-form >}}

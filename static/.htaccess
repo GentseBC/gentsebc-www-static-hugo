@@ -1,0 +1,27 @@
+# Special handling for ONE.COM
+RewriteEngine On
+RewriteCond %{REQUEST_URI} ^/
+RewriteRule .* - [CO=wordpress_test_cookie:WP+Cookie+check:%{HTTP_HOST}:1440:/]
+
+
+# BEGIN http to https
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+# Rewrite HTTP to HTTPS
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*) https://%{SERVER_NAME}/$1 [R,L]
+</IfModule>
+# END http to https
+
+<Files .htaccess>
+	order allow,deny
+	deny from all
+</Files>
+
+<Files wp-config.php>
+	order allow,deny
+	deny from all
+</Files>
+
+ErrorDocument 404 /404.html

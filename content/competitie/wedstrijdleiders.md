@@ -8,6 +8,9 @@ menu:
   main:
     parent: competitie
     weight: 40
+
+aliases:
+    - /competitie/bijkomende-info/wedstrijdleiders/  
 ---
 # Wat zijn Wedstrijdleiders?
 

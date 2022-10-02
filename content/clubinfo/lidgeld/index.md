@@ -7,6 +7,9 @@ menu:
   main:
     parent: clubinfo
     weight: 20
+
+aliases:
+    - /club-gegevens/lidgeld/
 ---
 
 ## Volwassenen: recreanten en competitiespelers

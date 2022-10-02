@@ -1,0 +1,81 @@
+<script src="https://www.google.com/recaptcha/api.js?hl=nl" async defer></script>
+
+<form class="requires-validation" novalidate method="post">
+    <div class="mb-3">
+        <label for="name" class="form-label">Naam *</label>
+        <input type="text" class="form-control" id="name" required>
+        <div class="invalid-feedback">
+            Gelieve je naam op te geven.
+          </div>        
+      </div>    
+    <div class="mb-3">
+      <label for="email" class="form-label">Email adres *</label>
+      <input type="email" class="form-control" id="email" aria-describedby="emailHelp" required>
+      <div id="emailHelp" class="form-text">Je email adres wordt niet gedeeld met derden.</div>
+      <div class="invalid-feedback">
+          Om feedback te kunnen geven hebben we een email adres nodig.
+      </div>        
+    </div>
+    <div class="mb-3">
+        <label for="message" class="form-label">Bericht *</label>
+        <textarea class="form-control" id="message" rows="10" required></textarea>
+        <div class="invalid-feedback">
+            Dit veld moet ingevuld worden.
+        </div>          
+     </div>    
+     <div class="g-recaptcha" data-sitekey="6Ldy09ohAAAAAPLlQnKLrbSD2vSoO_cVr-4jYBUH"></div>
+     <br/>
+    <button type="submit" class="btn btn-primary" id="form-submit-btn-id">Verstuur</button>
+  </form>
+
+  <script>
+    (function () {
+    'use strict'
+    const forms = document.querySelectorAll('.requires-validation')
+    Array.from(forms)
+      .forEach(function (form) {
+        form.addEventListener('submit', function (event) {
+        
+        // CAPTCHA VALIDATION
+        var response = grecaptcha.getResponse();
+
+         if(response.length == 0){
+             document.querySelector('.g-recaptcha>div').classList.add('border', 'border-danger');
+             event.preventDefault();
+             event.stopPropagation();
+        } else {
+          document.querySelector('.g-recaptcha>div').classList.remove('border', 'border-danger');
+        }            
+        let isValidForm = form.checkValidity();
+        event.preventDefault()
+        event.stopPropagation()
+        
+        form.classList.add('was-validated')
+
+  
+        document.getElementById('form-submit-btn-id').classList.add('disabled');;
+
+        if(isValidForm) {
+            let data = {
+              "name": document.getElementById("name").value,
+              "email": document.getElementById("email").value,
+              "message": document.getElementById("message").value,
+              "g-recaptcha-response": document.getElementById("g-recaptcha-response").value,
+            };
+
+            fetch("/mashup/form-handling/contactus", {
+            method: "POST",
+            headers: {'Content-Type': 'application/json'}, 
+            body: JSON.stringify(data)
+            })
+            .then((response) => response.json())
+            .then(res => {
+                //console.log("Request complete! response:", res);
+                document.getElementById('form-submit-btn-id').textContent =  (res.success ? 'Vraag verstuurd!' : 'Vraag kon niet worden verstuurd.');
+            });
+        }
+
+        }, false)
+      })
+    })()
+  </script>  

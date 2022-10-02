@@ -8,6 +8,9 @@ menu:
   main:
     parent: competitie
     weight: 50
+
+aliases:
+    - /competitie/bijkomende-info/transfersuitleningen/    
 ---
 
 # Transfers

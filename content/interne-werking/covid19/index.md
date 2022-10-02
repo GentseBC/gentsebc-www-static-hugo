@@ -7,6 +7,9 @@ menu:
   main:
     parent: interne-werking
     weight: 40
+
+aliases:
+    - /corona-maatregelen/
 ---
 
 ## Corona maatregelen

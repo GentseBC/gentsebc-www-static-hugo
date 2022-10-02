@@ -1,0 +1,28 @@
+{{ $level := .Get "level" }}
+
+<ul class="nav nav-tabs" id="myTab{{$level}}" role="tablist">
+{{ range $index, $data := index $.Site.Data.bwf_training_materiaal $level}}
+    
+    <li class="nav-item">
+        <button class="nav-link {{ if (eq $index 0) }}active{{ end }}" data-bs-toggle="tab" data-bs-target="#{{$level}}_{{ $index }}" role="tab">{{ .name }}</button>
+    </li>
+{{ end }}
+</ul>
+
+<div class="tab-content" id="myTab{{$level}}Content">
+{{ range $index, $data := index $.Site.Data.bwf_training_materiaal $level}}
+    <div id="{{$level}}_{{ $index }}" role="tabpanel" class="tab-pane {{ if (eq $index 0) }}show active{{ end }}">
+        <p>{{ .description}}</p>
+        <ol>
+        {{ range $videos := $data.videos}}
+            <li><button type="button" class="btn btn-link" style="padding: 0rem" data-bs-toggle="modal" data-bs-target="#exampleModal" youtubeid="{{ .youtubeid }}">{{ .title }}</a></li>
+        {{ end }}
+    </ol>
+    </div>
+{{ end }}    
+</div>
+
+
+
+  
+  

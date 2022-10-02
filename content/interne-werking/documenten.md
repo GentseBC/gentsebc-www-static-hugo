@@ -7,6 +7,10 @@ menu:
   main:
     parent: interne-werking
     weight: 10
+
+aliases:
+    - /club-gegevens/documentenverslagen/terugbetaling-mutualiteit/
+    - /club-gegevens/documentenverslagen/verzekering-bij-ongevallen/
 ---
 
 ## Terugbetaling mutualiteit

@@ -7,6 +7,9 @@ menu:
   main:
     parent: lid-worden
     weight: 30
+
+aliases:
+    - /nieuw-lid/volwassenen/     
 ---
 # Ons concept
 

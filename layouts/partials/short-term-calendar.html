@@ -29,7 +29,7 @@
 <script>
     jQuery(document).ready(function() {
         console.log("Adding short term calendar");
-        addShortTermCalendar(jQuery);
+        addShortTermCalendar(jQuery,'{{cond .Site.IsServer  "https://www.gentsebc.be/" "/" }}');
     });
 </script>
 <div class="d-none d-md-block">
@@ -47,5 +47,38 @@
             </tr>
             </tbody>
         </table>
+    </div>
+</div>
+
+<!-- Display on small screen devices -->
+<div class="container">
+    <div class="row">
+        <div class="col-md-4 d-md-none table-responsive">
+            <table class="table">
+                <thead>
+                <tr>
+                    <th>&nbsp;</th>
+                    <th>Jeugd</th>
+                    <th>Volwassenen</th>
+                    <th><a href="/g-badminton">G-Sport <i class="fa fa-wheelchair-alt"></i></a></th>
+                </tr>
+                </thead>
+                <tbody id="playingHoursVertical">
+
+                </tbody>
+            </table>
+            <table>
+                <tbody>
+                <tr>
+                    <td class="wielerpiste">&nbsp;&nbsp;&nbsp;</td>
+                    <td>Wielerpiste</td>
+                    <td class="bourgoyen">&nbsp;&nbsp;&nbsp;</td>
+                    <td>Bourgoyen</td>
+                    <td class="topsporthal">&nbsp;&nbsp;&nbsp;</td>
+                    <td>Topsporthal</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
     </div>
 </div>

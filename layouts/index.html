@@ -3,44 +3,18 @@
 {{ $truncate := default true .Site.Params.truncate }}
 {{ $sp := cond .Site.IsServer  "" .Site.Params.static_content_prefix }}
 
+{{ partial "carousel" . }}
+
 {{ partial "short-term-calendar" . }}
 
 <div class="container">
     <div class="row">
-        <div class="col-md-4 d-md-none table-responsive">
-            <table class="table">
-                <thead>
-                <tr>
-                    <th>&nbsp;</th>
-                    <th>Jeugd</th>
-                    <th>Volwassenen</th>
-                    <th><a href="/g-badminton">G-Sport <i class="fa fa-wheelchair-alt"></i></a></th>
-                </tr>
-                </thead>
-                <tbody id="playingHoursVertical">
-
-                <tr><td>Zo 21 Aug</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Ma 22 Aug</td><td>-</td><td><div class="other">20:00-22:00</div></td><td>-</td></tr><tr><td>Di 23 Aug</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Woe 24 Aug</td><td>-</td><td><div class="other">20:00-23:00</div></td><td>-</td></tr><tr><td>Do 25 Aug</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Vr 26 Aug</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Za 27 Aug</td><td>-</td><td>-</td><td>-</td></tr></tbody>
-            </table>
-            <table>
-                <tbody>
-                <tr>
-                    <td class="wielerpiste">&nbsp;&nbsp;&nbsp;</td>
-                    <td>Wielerpiste</td>
-                    <td class="bourgoyen">&nbsp;&nbsp;&nbsp;</td>
-                    <td>Bourgoyen</td>
-                    <td class="topsporthal">&nbsp;&nbsp;&nbsp;</td>
-                    <td>Topsporthal</td>
-                </tr>
-                </tbody>
-            </table>
-        </div>
-
         <div class="col-md-4">
             <div class="card mt-2">
                 <div class="card-header">
                     <h3>Laatste artikels</h3>
                     <ul class="latest-posts">
-                            {{ $latestArticles := where .Site.Pages "Params.categories" "intersect" (slice "volwassenen" "general") | first 10 }}
+                            {{ $latestArticles := where .Site.Pages "Params.categories" "intersect" (slice "algemeen") | first 20 }}
                             {{ range $latestArticles}}
                             <li>
                                 {{ .Render "summary_compact" }}
@@ -56,7 +30,7 @@
                 <div class="card-header">
                     <h3>Laatste artikels jeugd</h3>
                     <ul class="latest-posts">
-                            {{ $latestArticles := where .Site.Pages "Params.categories" "intersect" (slice "volwassenen" "general" | first 10) }}
+                            {{ $latestArticles := where .Site.Pages "Params.categories" "intersect" (slice "jeugd") | first 20 }}
                             {{ range $latestArticles}}
                             <li>
                                 {{ .Render "summary_compact" }}
