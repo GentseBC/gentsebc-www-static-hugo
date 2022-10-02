@@ -20,7 +20,7 @@ Je hoeft dit formulier niet opnieuw in te vullen als je reeds lid bent van Gents
 
 {{< warning-text >}}
 JEUGD <br />
-De inschrijvingen voor het seizoen 2022-2023 werden afgesloten. Wens je op de wachtlijst te komen voor het nieuwe seizoen, stuur dan een mailtje naar jeugd@gentsebc.be 
+De nieuwe inschrijvingen voor het seizoen 2022-2023 werden afgesloten. Wens je op de wachtlijst te komen voor het nieuwe seizoen, stuur dan een mailtje naar jeugd@gentsebc.be 
 {{< /warning-text>}}
 
 {{< clubcollect-signup-iframe uuid="54d4930a-deae-4db2-ab1e-8e70907798c1" >}}
