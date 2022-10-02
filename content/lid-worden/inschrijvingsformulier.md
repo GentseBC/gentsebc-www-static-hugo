@@ -9,15 +9,15 @@ menu:
     weight: 10
 ---
 Wens je lid te worden van Gentse BC? Vul dan hier je gegevens in.
-Gelieve enkel dit formulier in te vullen indien je definitief lid wenst te worden, aangezien hiermee jouw lidmaatschap bij de Badminton Federatie vastgelegd wordt. Je mag 2x gratis komen proberen alvorens te beslissen om lid te worden.
+Je mag 2x gratis komen proberen alvorens te beslissen om lid te worden. Gelieve enkel dit formulier in te vullen indien je definitief lid wenst te worden, aangezien hiermee jouw lidmaatschap bij de Badminton Federatie vastgelegd wordt. 
 
 We zenden je kort na het invullen van dit formulier een factuur via email toe voor het lidgeld. De lidgelden worden geïnd door ClubCollect. Krijg je bericht van ClubCollect, weet dat dit geen spam is of anderszins :)
 
-Je hoeft dit formulier niet opnieuw in te vullen als je reeds lid bent van Gentse BC, jouw lidmaatschap wordt automatisch verlengd, tenzij we een tegenbericht ontvangen natuurlijk. 
+Je hoeft dit formulier niet opnieuw in te vullen als je reeds lid bent van Gentse BC, jouw lidmaatschap wordt automatisch verlengd tenzij we een tegenbericht ontvangen natuurlijk. 
 
 {{< warning-text >}}
 JEUGD <br />
-Nieuwe leden: inschrijven voor het seizoen 2022-2023 kan enkel op woensdag (de groep op zaterdag is volzet). 
+De inschrijvingen voor het seizoen 2022-2023 werden afgesloten. Wens je op de wachtlijst te komen voor het nieuwe seizoen, stuur dan een mailtje naar jeugd@gentsebc.be 
 {{< /warning-text>}}
 
 {{< clubcollect-signup-iframe uuid="54d4930a-deae-4db2-ab1e-8e70907798c1" >}}

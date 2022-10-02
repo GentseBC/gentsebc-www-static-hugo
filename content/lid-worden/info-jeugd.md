@@ -10,19 +10,6 @@ menu:
 ---
 
 {{% alert-box %}}
-#### Proeflessen voor nieuwe leden
-* Woensdag 31/8/2022 18.30 – 20.00u
-* Woensdag 7/9/2022 18.30 – 20.00u
-* Woensdag 14/9/2022 18.30 – 20.00u
-* Woensdag 21/9/2022 18.30 – 20.00u
-
-🎯 Wielerpiste Eddy Merckx
-
-💶 Je mag 2x gratis proberen. Als je lid wil worden, graag het inschrijvingsformulier invullen (opgelet, inschrijven kan enkel voor woensdag, het speelmoment op zaterdag is reeds volzet.
-
-{{% /alert-box %}}
-
-# Concept
 
 Kinderen en jongeren vanaf 10 jaar kunnen spelen onder begeleiding op woensdag (18u30-20u00 in de Wielerpiste) en/of zaterdag (10u-12u in de Bourgoyen).
 Onze club biedt geen MiniBAD (badminton voor kinderen jonger dan 10 jaar) aan.
