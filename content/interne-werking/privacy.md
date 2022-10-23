@@ -15,7 +15,6 @@ aliases:
 
 
 ### 1. Algemeen
-TESTTDE1
 Gentse BC hecht veel waarde aan je privacy en de bescherming van je persoonsgegevens.
 
 In deze privacyverklaring willen we heldere en transparante informatie geven over hoe wij omgaan met persoonsgegevens. Wij doen er alles aan om je privacy te waarborgen en gaan daarom zorgvuldig om met persoonsgegevens. Gentse BC houdt zich in alle gevallen aan de toepasselijke wet- en regelgeving, waaronder de Algemene Verordening Gegevensbescherming (ook gekend als GDPR).
