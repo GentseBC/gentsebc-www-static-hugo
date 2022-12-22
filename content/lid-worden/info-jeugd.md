@@ -11,6 +11,12 @@ menu:
 aliases:
     - /nieuw-lid/jeugd/      
 ---
+{{< warning-text >}}
+JEUGD <br />
+De nieuwe inschrijvingen voor het seizoen 2022-2023 werden afgesloten. Wens je op de wachtlijst te komen voor het nieuwe seizoen, stuur dan een mailtje naar jeugd@gentsebc.be 
+{{< /warning-text>}}
+
+
 Kinderen en jongeren vanaf 10 jaar kunnen spelen onder begeleiding op woensdag (18u30-20u00 in de Wielerpiste) en/of zaterdag (10u-12u in de Bourgoyen).
 Onze club biedt geen MiniBAD (badminton voor kinderen jonger dan 10 jaar) aan.
 

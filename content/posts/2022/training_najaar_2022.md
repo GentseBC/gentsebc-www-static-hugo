@@ -22,7 +22,7 @@ Dagen:
 * __September__: 16, 23, 30
 * __Oktober__: 7, 14, 21, 28
 * __November__: 4, 18, 25
-* __December__: 9, 16, 23
+* __December__: 9, 16
 
 Deelnamebijdrage voor de trainingen bedraagt €40,00 voor de volledige reeks, naast het lidgeld.
 
