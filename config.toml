@@ -3,6 +3,7 @@ languageCode = 'nl-be'
 defaultContentLanguage = "nl"
 defaultContentLang = "nl"
 title = 'Gentse BC'
+timeout = '180s'
 
 disableKinds = ["RSS"]
 
