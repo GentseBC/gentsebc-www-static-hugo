@@ -3,7 +3,7 @@ title: "Activiteiten seizoen 2022-2023"
 date: 2022-08-18T10:07:44+02:00
 draft: false
 categories: ['algemeen']
-carousel: true
+carousel: false
 author: Secretaris
 ---
 * 16/10/2022 Victor PBO Jeugdcuptour @ Gentse BC
