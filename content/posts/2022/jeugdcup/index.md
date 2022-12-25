@@ -6,7 +6,8 @@ categories: ['algemeen','jeugd']
 carousel: false
 author: Thomas
 ---
-Enkel sfeerfoto's van jeugdcup 2022
+Zondag 16 oktober vond onze onze traditionele jeugdcup plaats. Het was een overweldigend succes met maar liefst 138 inschrijvingen in meer dan tien verschillende disciplines voor in totaal meer dan 200 wedstrijden. Van negen uur ’s ochtends tot zes uur ’s avonds gaven alle jeugdspelers het beste van zichzelf wat resulteerde in een heel leuke dag voor de spelers, de coaches, de ouders en voor ons natuurlijk. Aan alle deelnemers proficiat! Hieronder de foto’s van de winnaars en enkele sfeerbeelden.
+
 
 {{< nano-gallery  >}}
 
