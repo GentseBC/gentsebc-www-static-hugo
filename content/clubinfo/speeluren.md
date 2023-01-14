@@ -29,7 +29,6 @@ Er zijn geen jeugdspeelmomenten in de Kerst- en Paasvakantie en op feestdagen. R
 | [Wielerpiste](https://stad.gent/sport2/waar-kan-ik-sporten/wielercentrum-eddy-merckx) (volledig, 12 velden) | woensdag | 20u00-22u00 | 
 | [Topsporthal](https://stad.gent/sport2/waar-kan-ik-sporten/topsporthal) (4 velden, omnisportzaal op eerste verdieping) | donderdag | 19u00-22u00 <br>van 19u tot 20u op de middelste velden, van 20u tot 22u op de achterste terreinen met onze bevriende club Smash & Go | 
 | [Wielerpiste](https://stad.gent/sport2/waar-kan-ik-sporten/wielercentrum-eddy-merckx) (volledig, 12 velden) | vrijdag | 19u00-22u00 | 
-| [Hekers (4 velden)](https://stad.gent/sport2/waar-kan-ik-sporten/sporthal-hekers)   | zaterdag        | 19u00-22u00, iedere 14 dagen | 
 | [Bourgoyen](https://stad.gent/sport2/waar-kan-ik-sporten/sporthal-bourgoyen)  (volledig, 12 velden) | zondag | 19u00-22u00 | 
 {{< /table >}}
 

@@ -16,10 +16,10 @@ aliases:
 Het lidgeld van Gentse BC omvat ook de verzekering en aansluiting bij Badminton Vlaanderen.
 
 {{< table table table-striped table-bordered >}}
-|  | seizoen | volwassenen competitie/tornooi | volwassenen recreat |
+|  | seizoen | volwassenen competitie/tornooi | volwassenen recreant |
 | ----------- | ----------- | ----------- | ----------- |
 | 1 sept – 31 aug | volledig seizoen | 130 € (1 ploeg of enkel tornooien) <br> 150 € (2 ploegen) |  100 € |
-| 1 jan – 31 aug | 3/4 seizoen | 100 € |  70 € |
+| 1 jan – 31 aug | 3/4 seizoen | 100 € |  75 € |
 | 1 april – 31 aug | half seizoen | 70 € |  50 € |
 | 1 juni – 31 aug | zomerseizoen | - |  30 € |
 {{< /table >}}
