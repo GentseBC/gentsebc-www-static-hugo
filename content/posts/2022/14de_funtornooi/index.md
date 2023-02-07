@@ -3,7 +3,7 @@ title: "14de FUNtoernooi van Gentse BC op zondag 05 februari 2023"
 date: 2022-12-23T18:45:00+01:00
 draft: false
 categories: ['algemeen']
-carousel: true
+carousel: false
 author: Secretaris
 ---
 Op 5 februari 2023 heeft ons jaarlijks FUNtornooi terug plaats, de 14e editie al !!! Wat zijn we blij om dit na 2 lange jaren terug te kunnen organiseren voor IEDEREEN die graag eens op een pluimke mept.
