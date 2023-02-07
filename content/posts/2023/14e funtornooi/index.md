@@ -26,7 +26,8 @@ De resultaten vinden jullie [hier](https://www.badmintonvlaanderen.be/sport/winn
     
       
 
-Wie de smaak te pakken heeft en nog een tornooi wil spelen, via deze link en hieronder reclame voor een paar recreantentornooien in de buurt
+Wie de smaak te pakken heeft en nog een tornooi wil spelen, via  [deze link](https://www.badmintonvlaanderen.be/calendar/185/Recreanten-Kalender)en hieronder reclame voor een paar recreantentornooien in de buurt
+- 19/3 De Klinge
 -	26/3 Evergem
 -	24/6 Herzele
 
