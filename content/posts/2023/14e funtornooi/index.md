@@ -36,3 +36,9 @@ Wie de smaak te pakken heeft en nog een tornooi wil spelen, via  [deze link](htt
   Voor **competitiespelers** komt ons officieel tornooi op **1 en 2 april 2023** er ook aan dus zet het zeker met fluo in je agenda!  Kan je zelf niet deelnemen dan appreciëren we jouw helpende handen om dit 2-dagen tornooi mee in goede banen te leiden. Er zijn verschillende taken waarbij we jouw hulp kunnen gebruiken: kassa, wedstrijdtafel, omroeper, mascotte, zaal netjes houden, cake verkopen, opzetten/afbreken voor en na het tornooi,  … Voor elk wat wils 😜
 
 
+
+{{< nano-gallery  >}}
+
+  {{< nano-album match-dir="images/*.jpg" front-img="images/Image143315.jpg" id="1" title="FUNtornooi 2023">}}
+
+{{< /nano-gallery >}}
