@@ -3,7 +3,8 @@ title: "Verslag 14de FUNtoernooi - zondag 05 februari 2023"
 date: 2023-02-06T10:45:00+01:00
 draft: false
 categories: ['algemeen']
-carousel: false
+carousel: true
+carousel_img: '/images/posts/14defuntornooi_jan_2023.jpg'
 author: Secretaris
 ---
 Fioew, nog steeds aan het bekomen van een fantastische editie van ons FUNtornooi dit weekend!!
