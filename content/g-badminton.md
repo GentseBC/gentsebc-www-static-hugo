@@ -19,10 +19,10 @@ Dit seizoen (2022-2023) spelen we op volgende data:
 * december: 3
 * januari: 7, 14, 21 en 28
 * februari: 4, 18 en 25
-* maart: 4, 11, 18 en 25
+* maart: 4, 11 en 25 
 * april: 1, 8, 15, 22 en 29
 * mei: 6, 13 en 20
-* juni: 3, 10, 17 en 24
+* juni: 3, 10, 17 en 24 (in juni spelen we in de Wielerpiste)
 
 De speelmomenten worden begeleid door een team vrijwilligers. De data en locatie zijn onder voorbehoud van wijzigingen. Bekijk de kalender op onze homepage voor de meest recente info.
 
