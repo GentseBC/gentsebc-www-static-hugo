@@ -11,6 +11,8 @@ menu:
 aliases:
     - /club-gegevens/integriteit/
 ---
+Als badmintonclub proberen we een verschil maken op vlak van integriteit en inclusie. Dit doen we oa. door een warme, sympathiekste en veilige community creëren. We hebben daarom sinds begin 2020 API's in de club. 
+
 
 ## Aanspreekpersoon integriteit (API)
 De club-API is de persoon waarbij iedereen (spelers, ouders, begeleiders, andere betrokkenen) terecht kan met een vraag, vermoeden of klacht over grensoverschrijdend gedrag of lichamelijke en seksuele integriteit. Heb je een vraag, opmerking, klacht of andere boodschap en wil je hier met iemand over spreken? 
