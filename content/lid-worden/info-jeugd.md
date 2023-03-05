@@ -17,8 +17,8 @@ De nieuwe inschrijvingen voor het seizoen 2022-2023 werden afgesloten. In juni o
 {{< /warning-text>}}
 
 
-Kinderen en jongeren vanaf 10 jaar kunnen spelen onder begeleiding op woensdag (18u30-20u00 in de Wielerpiste) en/of zaterdag (10u-12u in de Bourgoyen).
-Onze club biedt geen MiniBAD (badminton voor kinderen jonger dan 10 jaar) aan.
+Kinderen en jongeren vanaf 10 jaar (vanaf 5e leerjaar) kunnen badmintonnen op woensdag (18u30-20u00 in de Wielerpiste) en/of zaterdag (10u-12u in de Bourgoyen).
+Onze club biedt helaas nog geen MiniBAD (badminton voor kinderen jonger dan 10 jaar) aan.
 
 Onze jeugd speelt in 2 groepen: een trainingsgroep en recreatieve groep. De speler kan zelf aangeven wat zijn/haar ambitie is binnen badminton. Recreatief blijven spelen is zeker mogelijk, er is geen automatische doorstroom naar de trainingsgroep bij bv. een bepaald niveau of de leeftijd als de speler dit niet wenst. Wisselen van groep kan elk semester. Door middel van aangepaste trainingen willen we sport, en in het bijzonder badminton, stimuleren bij kinderen en jongeren. We verkiezen een resultaat op lange termijn boven onmiddellijk succes.
 
@@ -52,7 +52,7 @@ Op woensdagavond is er een overlapmoment waarbij onze betere en oudere jeugdspel
 # Interesse?
 
 Wens je lid te worden, dien je het inschrijvingsformulier in te vullen. Na betaling van uw [Lidgeld]({{< ref "/clubinfo/lidgeld" >}}) ben je officieel ingeschreven.  De kostprijs voor beide groepen (recreatief of intensief) is dezelfde. Voor deze prijs kan je 1 of 2 keer per week komen spelen.
-Heb je nog vragen? Contacteer ons gerust op info@gentsebc.be of kom eens een keertje proefspelen (enkel in juni).
+Heb je nog vragen? Contacteer ons gerust op jeugd@gentsebc.be of kom eens een keertje proefspelen (enkel in juni).
 
 
 # Verzekering
