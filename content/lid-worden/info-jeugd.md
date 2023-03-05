@@ -13,7 +13,7 @@ aliases:
 ---
 {{< warning-text >}}
 JEUGD <br />
-De nieuwe inschrijvingen voor het seizoen 2022-2023 werden afgesloten. Wens je op de wachtlijst te komen voor het nieuwe seizoen, stuur dan een mailtje naar jeugd@gentsebc.be 
+De nieuwe inschrijvingen voor het seizoen 2022-2023 werden afgesloten. In juni organiseren we enkele proeflessen voor kinderen die vanaf september 2023 lid wensen te worden. Wil je hier graag van op de hoogte gehouden worden, stuur dan een mailtje naar jeugd@gentsebc.be 
 {{< /warning-text>}}
 
 
