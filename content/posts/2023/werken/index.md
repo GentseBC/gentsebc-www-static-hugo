@@ -3,8 +3,8 @@ title: "Bereikbaarheid Blaarmeersen"
 date: 2023-03-12T10:07:44+02:00
 draft: false
 categories: ['algemeen']
-carousel: false
-carousel_img: 'mapWSB.jpeg'
+carousel: true
+carousel_img: '/images/posts/mapWSB.jpeg'
 author: Secretaris
 ---
 BELANGRIJK VOOR WIE MET DE AUTO NAAR DE BLAARMEERSEN KOMT…
@@ -19,7 +19,7 @@ Vanaf maandag 15/5 is de ingang nog steeds de campinglaan maar is uitrijden via 
 Bij de uitgang zal enkel verkeer richting R4 mogelijk zijn en niet richting Basic Fit en rondpunt watersportbaan.
 
 💡 Zie stratenplan ter verduidelijking.
-![map](mapWSB.jpeg)
+![map](./mapWSB.jpeg)
 
 
 
