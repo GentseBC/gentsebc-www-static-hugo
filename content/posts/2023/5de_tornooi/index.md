@@ -7,6 +7,10 @@ carousel: false
 author: Secretaris
 
 ---
+{{< warning-text >}}
+Vooreerst een hartelijke dank voor alle inschrijvingen voor dit tornooi.
+Na veel wikken en wegen hebben we de knoop doorgehakt en de moeilijke beslissing genomen om ons tornooi editie 2023 af te gelasten.
+{{< /warning-text>}}
 
 
 Hallo Badmintonners,
