@@ -12,17 +12,10 @@ We bieden G-badminton aan voor mensen met een lichte mentale beperking vanaf 15 
 ## Praktisch
 Onze speelmomenten gaan door iedere zaterdag van 10u tot 12u in het Bloso Centrum Gent Topsporthal (Zuiderlaan 14, Gent).
 
-Dit seizoen (2022-2023) spelen we op volgende data:
+In juni 2023 spelen we echter in de Wielerpiste.
 
-* oktober: 15 en 29
-* november: 12, 19 en 26
-* december: 3
-* januari: 7, 14, 21 en 28
-* februari: 4, 18 en 25
-* maart: 4, 11 
-* april: 1, 8, 15, 22 
-* mei: 6, 13 en 20
-* juni: 3, 10, 17 en 24 (in juni spelen we in de *Wielerpiste*)
+{{< gcalendar-iframe set="gbadminton" mode="AGENDA" height="600">}}
+
 
 De speelmomenten worden begeleid door een team vrijwilligers. De data en locatie zijn onder voorbehoud van wijzigingen. Bekijk de kalender op onze homepage voor de meest recente info.
 

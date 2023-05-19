@@ -1,16 +1,21 @@
 {{ $agendaset := .Get "set" }}
 
+<!-- mode: AGENDA,MONTH -->
+{{ $agendamode := default "MONTH" (.Get "mode")}}
+{{ $height := default "1200" (.Get "height")}}
+
+
 {{$urlparts := slice}}
 {{ range $index, $data := index $.Site.Data.agenda $agendaset}}
 {{ $urlparts = $urlparts | append (printf "src=%s&color=%s" (.src | urlquery) (.color | urlquery)) }}
 {{ end }}
 {{ $gcalurlsuffix := delimit $urlparts "&"}}
 
-<iframe src="//calendar.google.com/calendar/embed?height=650&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FBrussels&showTitle=0&showDate=1&showTabs=1&{{ safeURL $gcalurlsuffix }}" 
+<iframe src="//calendar.google.com/calendar/embed?height=650&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FBrussels&mode={{ $agendamode }}&showTitle=0&showDate=1&showTabs=1&{{ safeURL $gcalurlsuffix }}" 
 allowtransparency="true" 
 style=" border:0 " 
 scrolling="no" 
 width="1200" 
-height="1200" 
+height="{{ $height }}" 
 frameborder="0">
 </iframe>   

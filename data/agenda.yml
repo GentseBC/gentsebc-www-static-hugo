@@ -129,6 +129,10 @@ competitie:
     name: 'Gentse 6G'
     src: '42npl5kciku20orbbfrlboek6c@group.calendar.google.com'
     color: '#8E24AA'
-
+gbadminton:
+  - agenda:
+    name: Speeldata G-badminton
+    src: 'l53h0hlcp0uhgpo7h796rf5bghhr7j8k@import.calendar.google.com'
+    color: '#F6BF26'
 # Other color codes that can be used
 #   #E67C73   #F6BF26   #F6BF26
