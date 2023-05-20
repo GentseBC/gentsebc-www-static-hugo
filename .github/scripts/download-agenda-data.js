@@ -1,4 +1,4 @@
-module.exports = async ({github, context, io}) => {
+module.exports = async ({github, context, io, fetch}) => {
     console.log("Starting downloading from google");
 
     function dateToYMD(date) {
