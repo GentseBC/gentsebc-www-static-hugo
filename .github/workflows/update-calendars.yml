@@ -13,4 +13,4 @@ jobs:
         with:
           script: |
             const script = require('./.github/scripts/download-agenda-data.js')
-            console.log(script({github, context, io}))
+            console.log(script({github, context, io, fetch}))
