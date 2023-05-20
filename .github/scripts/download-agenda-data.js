@@ -15,14 +15,7 @@ module.exports = async ({github, context, io, fetch, dayjs}) => {
       }
       
 
-    const numberOfDaysToDisplay =7;
-    var fromDate = new Date();
-    var toDate = new Date();
-    toDate.setDate(fromDate.getDate() + numberOfDaysToDisplay);    
-
-    URL = 'https://www.googleapis.com/calendar/v3/calendars/gentsebc%40gmail.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak';
-    console.log(URL);
-    let calendarData = fetchAsync(URL);
+    const numberOfDaysToDisplay =7; 
 
     function resolveEventType(summary) {
         if (summary === undefined) {
@@ -68,22 +61,28 @@ module.exports = async ({github, context, io, fetch, dayjs}) => {
         result.push(aDay);
     }
 
+    var fromDate = new Date();
+    var toDate = new Date();
+    toDate.setDate(fromDate.getDate() + numberOfDaysToDisplay);   
+    URL = 'https://www.googleapis.com/calendar/v3/calendars/gentsebc%40gmail.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak';
+    console.log(URL);
+    
+    fetchAsync(URL).then(calendarData => {
+        calendarData.items
+        .filter(item => item.start !== undefined && item.start.dateTime !== undefined && item.end !== undefined && item.end.dateTime !== undefined  && item.summary !== undefined)
+        .forEach(item => {
+            const dateIndex = dateToIndex.get(item.start.dateTime.substring(0,10));
+            const evenType = resolveEventType(item.summary);
+            if (dateToIndex !== undefined && evenType !== undefined)  {
+                result[dateIndex][evenType].push({
+                    "startDateTime": dayjs(item.start.dateTime).format("YYYY-MM-DD HH:mm:ss"),
+                    "endDateTime": dayjs(item.end.dateTime).format("YYYY-MM-DD HH:mm:ss"),
+                    "location": item.location,
+                    "locationCode": resolveLocationCode(item.location)
+                });
+            }
+        });
 
-    calendarData.items
-            .filter(item => item.start !== undefined && item.start.dateTime !== undefined && item.end !== undefined && item.end.dateTime !== undefined  && item.summary !== undefined)
-            .forEach(item => {
-                const dateIndex = dateToIndex.get(item.start.dateTime.substring(0,10));
-                const evenType = resolveEventType(item.summary);
-                if (dateToIndex !== undefined && evenType !== undefined)  {
-                    result[dateIndex][evenType].push({
-                        "startDateTime": dayjs(item.start.dateTime).format("YYYY-MM-DD HH:mm:ss"),
-                        "endDateTime": dayjs(item.end.dateTime).format("YYYY-MM-DD HH:mm:ss"),
-                        "location": item.location,
-                        "locationCode": resolveLocationCode(item.location)
-                    });
-                }
+        console.log(result);
     });
-    console.log(result); 
-
-    return result;
 }
