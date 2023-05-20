@@ -27,7 +27,7 @@ module.exports = async ({github, context, io, fetch, dayjs}) => {
             return "youthCalItems";
         } else if (lowerSummary.indexOf("volwassenen") !== -1) {
             return "adultCalItems";
-        } else if (lowerSummary.indexOf("G-sport") !== -1) {
+        } else if (lowerSummary.indexOf("g-sport") !== -1) {
             return "gSportCalItems";
         } 
         return undefined;
@@ -68,15 +68,11 @@ module.exports = async ({github, context, io, fetch, dayjs}) => {
     console.log(URL);
     
     fetchAsync(URL).then(calendarData => {
-        console.log("Looping calendarData");
-        console.log(calendarData);
         calendarData.items
         .filter(item => item.start !== undefined && item.start.dateTime !== undefined && item.end !== undefined && item.end.dateTime !== undefined  && item.summary !== undefined)
         .forEach(item => {
-            console.log(item);
             const dateIndex = dateToIndex.get(item.start.dateTime.substring(0,10));
             const evenType = resolveEventType(item.summary);
-            console.log("dateIndex:"+dateIndex+";evenType"+evenType);
             if (dateToIndex !== undefined && evenType !== undefined)  {
                 result[dateIndex][evenType].push({
                     "startDateTime": dayjs(item.start.dateTime).format("YYYY-MM-DD HH:mm:ss"),
