@@ -69,7 +69,7 @@ module.exports = async ({github, context, io, fetch, dayjs}) => {
     
     fetchAsync(URL).then(calendarData => {
         console.log("Looping calendarData");
-
+        console.log(calendarData);
         calendarData.items
         .filter(item => item.start !== undefined && item.start.dateTime !== undefined && item.end !== undefined && item.end.dateTime !== undefined  && item.summary !== undefined)
         .forEach(item => {
