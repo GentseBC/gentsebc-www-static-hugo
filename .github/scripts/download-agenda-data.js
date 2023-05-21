@@ -83,6 +83,6 @@ module.exports = async ({github, core, context, io, fetch, dayjs}) => {
             }
         });
         console.log(result);
-        core.setOutput('calendar-json', result);
+        core.setOutput('calendar-json', JSON.stringify(result));
     });
 }

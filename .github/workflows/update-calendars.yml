@@ -1,7 +1,9 @@
 name: Update calendars (WIP)
 on: 
-    workflow_dispatch:
-
+  workflow_dispatch:
+  schedule:
+    # 0 5 * * 1,3,5:  Every monday, wednesday, friday at 5AM"
+    - cron: "0 3 * * *"
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -9,6 +11,7 @@ jobs:
       group: ${{ github.workflow }}-${{ github.ref }}    
     steps:
       - uses: actions/checkout@v3
+        token: ${{ secrets.GH_TOKEN_THOMAS}}
       - uses: actions/setup-node@v3
         with:
           node-version: 16
@@ -25,8 +28,8 @@ jobs:
         run: |
           echo "${{steps.short-term-calendar.outputs.calendar-json}}" > static/shortTermCalendarV2.json
 
-          git config --global user.name 'Thomas Dekeyser'
-          git config --global user.email 'ThomasDekeyser@users.noreply.github.com'
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add static/shortTermCalendarV2.json
 
           set +e  # Grep succeeds with nonzero exit codes to show results.
