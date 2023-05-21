@@ -28,5 +28,15 @@ jobs:
           git config --global user.name 'Thomas Dekeyser'
           git config --global user.email 'ThomasDekeyser@users.noreply.github.com'
           git add static/shortTermCalendarV2.json
-          git commit -am "shortTermCalendar update"
-          git push
+
+          set +e  # Grep succeeds with nonzero exit codes to show results.
+          git status | grep modified
+          if [ $? -eq 0 ]
+          then
+              set -e
+              git commit -am "shortTermCalendar update - $(date)"
+              git push
+          else
+              set -e
+              echo "No changes since last run"
+          fi
