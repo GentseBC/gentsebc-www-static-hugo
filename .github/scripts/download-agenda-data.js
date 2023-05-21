@@ -1,4 +1,4 @@
-module.exports = async ({github, context, io, fetch, dayjs}) => {
+module.exports = async ({github, core, context, io, fetch, dayjs}) => {
     console.log("Starting downloading from google");
 
     function dateToYMD(date) {
@@ -83,6 +83,6 @@ module.exports = async ({github, context, io, fetch, dayjs}) => {
             }
         });
         console.log(result);
-        return result;
+        core.setOutput('calendar-json', result);
     });
 }
