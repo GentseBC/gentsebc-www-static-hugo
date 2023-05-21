@@ -27,7 +27,9 @@ jobs:
             await script({github, core, context, io, fetch, dayjs})
       - name: Get result
         run: |
-          echo "${{steps.short-term-calendar.outputs.calendar-json}}" > static/shortTermCalendarV2.json
+          cat << EOF > static/shortTermCalendarV2.json
+            ${{steps.short-term-calendar.outputs.calendar-json}}
+          EOF
 
           git config user.name github-actions
           git config user.email github-actions@github.com
