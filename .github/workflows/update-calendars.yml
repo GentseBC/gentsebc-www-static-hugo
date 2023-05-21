@@ -20,6 +20,6 @@ jobs:
             const script = require('./.github/scripts/download-agenda-data.js')
             const dayjs = require('dayjs')
             require('dayjs/locale/nl-be')
-            await script({github, context, io, fetch, dayjs})
+            script({github, context, io, fetch, dayjs}).then(x => {return x;});
       - name: Get result
         run: echo "${{steps.short-term-calendar.result}}"

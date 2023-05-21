@@ -83,6 +83,6 @@ module.exports = async ({github, context, io, fetch, dayjs}) => {
             }
         });
 
-         return result;
+        return result;
     });
 }
