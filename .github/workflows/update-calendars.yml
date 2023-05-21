@@ -11,7 +11,8 @@ jobs:
       group: ${{ github.workflow }}-${{ github.ref }}    
     steps:
       - uses: actions/checkout@v3
-        token: ${{ secrets.GH_TOKEN_THOMAS}}
+        with:
+          token: ${{ secrets.GH_TOKEN_THOMAS }}
       - uses: actions/setup-node@v3
         with:
           node-version: 16
