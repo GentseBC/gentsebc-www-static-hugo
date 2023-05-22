@@ -52,6 +52,7 @@ module.exports = async ({github, core, context, io, fetch, dayjs}) => {
     
     result = [];
     dayjs.locale('nl-be');
+    dayjs.tz.setDefault('Europe/Brussels')
     const dateToIndex= new Map();
     for(let i = 0; i < numberOfDaysToDisplay; i++) {
         const aDay = {"adultCalItems":[],"youthCalItems":[],"gSportCalItems":[]};
