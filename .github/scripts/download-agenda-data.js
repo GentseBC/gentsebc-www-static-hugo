@@ -52,7 +52,6 @@ module.exports = async ({github, core, context, io, fetch, dayjs}) => {
     
     result = [];
     dayjs.locale('nl-be');
-    dayjs.tz.setDefault('Europe/Brussels')
     const dateToIndex= new Map();
     for(let i = 0; i < numberOfDaysToDisplay; i++) {
         const aDay = {"adultCalItems":[],"youthCalItems":[],"gSportCalItems":[]};
@@ -76,8 +75,8 @@ module.exports = async ({github, core, context, io, fetch, dayjs}) => {
             const evenType = resolveEventType(item.summary);
             if (dateToIndex !== undefined && evenType !== undefined)  {
                 result[dateIndex][evenType].push({
-                    "startDateTime": dayjs(item.start.dateTime).format("YYYY-MM-DD HH:mm:ss"),
-                    "endDateTime": dayjs(item.end.dateTime).format("YYYY-MM-DD HH:mm:ss"),
+                    "startDateTime": dayjs(item.start.dateTime).tz("Europe/Brussels").format("YYYY-MM-DD HH:mm:ss"),
+                    "endDateTime": dayjs(item.end.dateTime).tz("Europe/Brussels").format("YYYY-MM-DD HH:mm:ss"),
                     "location": item.location,
                     "locationCode": resolveLocationCode(item.location)
                 });

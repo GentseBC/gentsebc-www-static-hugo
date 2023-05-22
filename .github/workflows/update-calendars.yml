@@ -24,7 +24,9 @@ jobs:
             const script = require('./.github/scripts/download-agenda-data.js')
             const dayjs = require('dayjs')
             require('dayjs/locale/nl-be')
+            var timezone = require('dayjs/plugin/utc')
             var timezone = require('dayjs/plugin/timezone')
+            dayjs.extend(utc)
             dayjs.extend(timezone)
             await script({github, core, context, io, fetch, dayjs})
       - name: Get result
