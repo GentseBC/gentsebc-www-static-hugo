@@ -1,5 +1,6 @@
 module.exports = async ({github, core, context, io, fetch, dayjs}) => {
     console.log("Starting downloading from google");
+    dayjs.locale('nl-be');
 
     function dateToYMD(date) {
         var d = date.getDate();
@@ -12,10 +13,7 @@ module.exports = async ({github, core, context, io, fetch, dayjs}) => {
         let response = await fetch(url);
         let data = await response.json();
         return data;
-      }
-      
-
-    const numberOfDaysToDisplay =7; 
+    }
 
     function resolveEventType(summary) {
         if (summary === undefined) {
@@ -50,39 +48,43 @@ module.exports = async ({github, core, context, io, fetch, dayjs}) => {
         }
     }
     
-    result = [];
-    dayjs.locale('nl-be');
-    const dateToIndex= new Map();
-    for(let i = 0; i < numberOfDaysToDisplay; i++) {
-        const aDay = {"adultCalItems":[],"youthCalItems":[],"gSportCalItems":[]};
-        const myDay = dayjs().add(i, 'day');
-        aDay.day =  myDay.format('dd D MMM')
-        dateToIndex.set(myDay.format('YYYY-MM-DD'), i);
-        result.push(aDay);
+    function downloadShortTermCalendar(numberOfDaysToDisplay, outputName ) {
+        result = [];
+        const dateToIndex= new Map();
+        for(let i = 0; i < numberOfDaysToDisplay; i++) {
+            const aDay = {"adultCalItems":[],"youthCalItems":[],"gSportCalItems":[]};
+            const myDay = dayjs().add(i, 'day');
+            aDay.day =  myDay.format('dd D MMM')
+            dateToIndex.set(myDay.format('YYYY-MM-DD'), i);
+            result.push(aDay);
+        }
+    
+        var fromDate = new Date();
+        var toDate = new Date();
+        toDate.setDate(fromDate.getDate() + numberOfDaysToDisplay);   
+        URL = 'https://www.googleapis.com/calendar/v3/calendars/gentsebc%40gmail.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak';
+        console.log(URL);
+        
+        fetchAsync(URL).then(calendarData => {
+            calendarData.items
+            .filter(item => item.start !== undefined && item.start.dateTime !== undefined && item.end !== undefined && item.end.dateTime !== undefined  && item.summary !== undefined)
+            .forEach(item => {
+                const dateIndex = dateToIndex.get(item.start.dateTime.substring(0,10));
+                const evenType = resolveEventType(item.summary);
+                if (dateToIndex !== undefined && evenType !== undefined)  {
+                    result[dateIndex][evenType].push({
+                        "startDateTime": dayjs(item.start.dateTime).tz("Europe/Brussels").format("YYYY-MM-DD HH:mm:ss"),
+                        "endDateTime": dayjs(item.end.dateTime).tz("Europe/Brussels").format("YYYY-MM-DD HH:mm:ss"),
+                        "location": item.location,
+                        "locationCode": resolveLocationCode(item.location)
+                    });
+                }
+            });
+            console.log(result);
+            core.setOutput(outputName, JSON.stringify(result));
+        });
     }
 
-    var fromDate = new Date();
-    var toDate = new Date();
-    toDate.setDate(fromDate.getDate() + numberOfDaysToDisplay);   
-    URL = 'https://www.googleapis.com/calendar/v3/calendars/gentsebc%40gmail.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak';
-    console.log(URL);
-    
-    fetchAsync(URL).then(calendarData => {
-        calendarData.items
-        .filter(item => item.start !== undefined && item.start.dateTime !== undefined && item.end !== undefined && item.end.dateTime !== undefined  && item.summary !== undefined)
-        .forEach(item => {
-            const dateIndex = dateToIndex.get(item.start.dateTime.substring(0,10));
-            const evenType = resolveEventType(item.summary);
-            if (dateToIndex !== undefined && evenType !== undefined)  {
-                result[dateIndex][evenType].push({
-                    "startDateTime": dayjs(item.start.dateTime).tz("Europe/Brussels").format("YYYY-MM-DD HH:mm:ss"),
-                    "endDateTime": dayjs(item.end.dateTime).tz("Europe/Brussels").format("YYYY-MM-DD HH:mm:ss"),
-                    "location": item.location,
-                    "locationCode": resolveLocationCode(item.location)
-                });
-            }
-        });
-        console.log(result);
-        core.setOutput('calendar-json', JSON.stringify(result));
-    });
+    downloadShortTermCalendar(7, 'calendar-json');
+   
 }
