@@ -2,14 +2,15 @@
 title: "Speeluren"
 date: 2022-08-15T15:49:05+02:00
 draft: false
+author: Secretaris
 
 menu:
   main:
     parent: clubinfo
-    weight: 10
+    weight: 50
 
 aliases:
-    - /club-gegevens/locatiespeeluren/   
+    - /club-gegevens/speeluren/   
 ---
 
 ## Speeluren JEUGD seizoen 2022-2023
@@ -47,12 +48,3 @@ Ook in de zomermaanden kan er gespeeld worden. Wij zoeken dan alternatieven in e
 {{< /table >}}
 Voor alle speelmomenten van G-sport: zie de aparte [pagina]({{< relref "/g-badminton" >}})
 
-## Zomerbadminton volwassenen 2022
-In juli spelen we op *dinsdag* en *vrijdag* in LAGO Rozebroeken, delen A en B, van 20u-22u
-
-In augustus spelen we op *maandag* in sporthal GUSB, deel A, van 20u-22u.
-Speelavonden: 1/8, 8/8, 22/8/2022
-Opgelet, 15/8 is een feestdag, dus geen badminton.
-
-Het tweede speelmoment voor augustus valt op *woensdag* in sporthal Keiskant, deel A+B, van 20u-23u
-Opgelet, op 24/8 spelen we in Hekers (zelfde uren)

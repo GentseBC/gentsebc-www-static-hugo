@@ -43,4 +43,4 @@ Alle spelers van de Gentse BC krijgen de kans om competitie te spelen. Elk jaar 
 Jaarlijks worden een aantal trainingsessies georganiseerd, toegankelijk voor wie lid is bij Gentse BC. Deze sessies vinden 2x per jaar plaats, in september en in januari/februari en bevatten ongeveer 12 lessen per reeks, voor zowel beginners als gevorderden. Meer informatie zal je terugvinden op deze website in een nieuwsbericht en een mail wordt verstuurd met alle informatie. Wees er op tijd bij om je in te schrijven. Hou daarom de website/facebookpagina in de gaten!
 Verzekering
 
-De Gentse BC is [verzekerd]({{< relref "/interne-werking/documenten#verzekering" >}}) voor alle ongevallen die gebeuren op de officiële speelmomenten. Vanaf 01/01/2010 is de verzekeraar “Arena”. Je hebt wel een getuige nodig die jouw ongeval bevestigt.
+De Gentse BC is verzekerd voor alle ongevallen die gebeuren op de officiële speelmomenten. Vanaf 01/01/2010 is de verzekeraar “Arena”. Je hebt wel een getuige nodig die jouw ongeval bevestigt.
