@@ -1,6 +1,6 @@
 ---
 title: "Locaties"
-date: 2023-06-05T15:49:05+02:00
+date: 2023-06-08T15:49:05+02:00
 draft: false
 author: Secretaris
 

@@ -6,7 +6,7 @@ draft: false
 menu:
   main:
     parent: clubinfo
-    weight: 30
+    weight: 10
 
 aliases:
     - /club-gegevens/medewerkers/       

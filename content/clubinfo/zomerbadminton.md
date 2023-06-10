@@ -23,4 +23,4 @@ Opgelet, op 4/7 spelen we uitzonderlijk in de *balsportzaal*
 In augustus spelen we op *maandag* in sporthal GUSB, deel A, van 20u-22u.
 Speelavonden: 7/8, 14/8, 21/8, 28/8/2023
 Het tweede speelmoment voor augustus valt op *vrijdag*, 
-Uren en sporthal nog te bevestigen. 
+Uren en sporthal nog te bevestigen.  
