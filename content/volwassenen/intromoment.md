@@ -6,11 +6,11 @@ author: Secretaris
 
 menu:
   main:
-    parent: lid-worden
-    weight: 40
+    parent: volwassenen
+    weight: 15
 
 aliases:
-    - /intromoment/  
+    - /volwassenen/intro 
 ---
 Zin om eens te mee spelen en ook de andere “nieuwelingen” van Gentse BC te ontmoeten?
 

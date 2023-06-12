@@ -7,7 +7,7 @@ author: Secretaris
 menu:
   main:
     parent: volwassenen
-    weight: 25
+    weight: 50
 
 aliases:
     - /volwassenen/zomerbadminton/

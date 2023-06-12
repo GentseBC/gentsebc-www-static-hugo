@@ -5,11 +5,11 @@ draft: false
 author: Secretaris
 menu:
   main:
-    parent: lid-worden
-    weight: 30
+    parent: volwassenen
+    weight: 10
 
 aliases:
-    - /nieuw-lid/volwassenen/     
+    - /volwassenen/info
 ---
 # Ons concept
 
@@ -17,11 +17,11 @@ Iedereen is welkom bij de Gentse BC, zowel competitief als recreatief, beginners
 
 Ons concept is eenvoudig: je komt gewoon af naar een speelmoment en speelt dan een wedstrijd tegen de mensen op dat moment aanwezig. Iedereen speelt met iedereen (van ongeveer hetzelfde niveau). Zo verhoog je jouw spelniveau en leer je ook andere mensen kennen.
 
-Er zijn [5 speelmomenten]({{< ref "/clubinfo/speeluren" >}}) per week waarop je kan komen spelen (je beslist zelf hoe vaak en hoelang je komt en wanneer, er zijn geen verplichtingen). Er worden ter plaatse duo’s gevormd met de aanwezige personen en wedstrijdjes onder elkaar gespeeld. Na afloop verlaat je het terrein en worden nieuwe duo’s gevormd voor een volgende wedstrijd. Enkelspel mag ook, maar alleen wanneer het niet te druk is in de zaal.
+Er zijn [5 speelmomenten]({{< ref "/volwassenen/speeluren" >}}) per week waarop je kan komen spelen (je beslist zelf hoe vaak en hoelang je komt en wanneer, er zijn geen verplichtingen). Er worden ter plaatse duo’s gevormd met de aanwezige personen en wedstrijdjes onder elkaar gespeeld. Na afloop verlaat je het terrein en worden nieuwe duo’s gevormd voor een volgende wedstrijd. Enkelspel mag ook, maar alleen wanneer het niet te druk is in de zaal.
 
 # Interesse?
 
-Je mag 2x gratis komen testspelen.
+Je mag 3x gratis komen testspelen.
 We organiseren ook regelmatig introductiemomenten voor nieuwe leden, meestal in het begin van het seizoen en na nieuwjaar. Zo proberen we de instap en drempelvrees zo laag mogelijk te houden.
 
 Is er geen intromoment in de nabije toekomst, dan mag je gewoon naar een speelmoment komen. Zo kan je meteen meespelen en proeven van de sfeer op het veld. Breng je raket en pluimen mee, spreek een paar mensen langs de kant aan om een match te spelen en je bent vertrokken. Bij ons speelt iedereen tegen iedereen.
@@ -31,7 +31,7 @@ Wens je lid te worden, dien je het inschrijvingsformulier in te vullen. Je krijg
 
 # Lidgeld
 
-Als lid kom je zoveel spelen als je wilt. Raadpleeg het lidgeld voor een volledig of een gedeeltelijk seizoen [hier]({{< ref "/clubinfo/lidgeld" >}}). Het lidgeld omvat ook de bijdrage voor de federatie Badminton Vlaanderen, via dewelke je verzekerd bent.
+Als lid kom je zoveel spelen als je wilt. Raadpleeg in het menu het lidgeld voor een volledig of een gedeeltelijk seizoen. Het lidgeld omvat ook de bijdrage voor de federatie Badminton Vlaanderen, via dewelke je verzekerd bent.
 Ben je al lid van een andere club aangesloten bij Badminton Vlaanderen, dan kan je als gastlid bij de Gentse BC spelen en krijg je een korting op het lidgeld van 15 EUR.
 
 # Competitie

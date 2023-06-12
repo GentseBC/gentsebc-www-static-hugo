@@ -7,7 +7,7 @@ author: Secretaris
 menu:
   main:
     parent: volwassenen
-    weight: 10
+    weight: 30
 
 aliases:
     - /volwassenen/lidgeld/

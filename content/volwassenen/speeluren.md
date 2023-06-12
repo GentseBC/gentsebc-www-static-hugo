@@ -7,7 +7,7 @@ author: Secretaris
 menu:
   main:
     parent: volwassenen
-    weight: 20
+    weight: 40
 
 aliases:
     - /volwassenen/speeluren/   
@@ -17,11 +17,11 @@ aliases:
 {{< table table table-striped table-bordered >}}
 | Locatie      | Dag | Uren | 
 | ----------- | ----------- | ----------- |
-| [Wielerpiste](https://stad.gent/sport2/waar-kan-ik-sporten/wielercentrum-eddy-merckx) (6 velden) | maandag | 20u00-22u00 | 
-| [Wielerpiste](https://stad.gent/sport2/waar-kan-ik-sporten/wielercentrum-eddy-merckx) (volledig, 12 velden) | woensdag | 20u00-22u00 | 
-| [Topsporthal](https://stad.gent/sport2/waar-kan-ik-sporten/topsporthal) (4 velden, omnisportzaal op eerste verdieping) | donderdag | 19u00-22u00 <br>van 19u tot 20u op de middelste velden, van 20u tot 22u op de achterste terreinen met onze bevriende club Smash & Go | 
-| [Wielerpiste](https://stad.gent/sport2/waar-kan-ik-sporten/wielercentrum-eddy-merckx) (volledig, 12 velden) | vrijdag | 19u00-22u00 | 
-| [Bourgoyen](https://stad.gent/sport2/waar-kan-ik-sporten/sporthal-bourgoyen)  (volledig, 12 velden) | zondag | 19u00-22u00 | 
+| Wielerpiste (6 velden) | maandag | 20u00-22u00 | 
+| Wielerpiste (volledig, 12 velden) | woensdag | 20u00-22u00 | 
+| Topsporthal (4 velden, omnisportzaal op eerste verdieping) | donderdag | 19u00-22u00 <br>van 19u tot 20u op de middelste velden, van 20u tot 22u op de achterste terreinen met onze bevriende club Smash & Go | 
+| Wielerpiste(volledig, 12 velden) | vrijdag | 19u00-22u00 | 
+| Bourgoyen  (volledig, 12 velden) | zondag | 19u00-22u00 | 
 {{< /table >}}
 
 Raadpleeg de kalender op de homepagina voor de dagen waarop uitzonderlijk niet kan gespeeld worden.
