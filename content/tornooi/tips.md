@@ -1,5 +1,5 @@
 ---
-title: "Tips"
+title: "Tornooi tips"
 date: 2020-05-10T09:23:22+02:00
 draft: false
 author: 'Trainer Steven'
@@ -7,7 +7,8 @@ author: 'Trainer Steven'
 menu:
   main:
     parent: 'tornooi'
-    weight: 40
+    weight: 30
+
 ---
 
 Hallo jumpsmashers,
