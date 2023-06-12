@@ -6,11 +6,11 @@ author: Secretaris
 
 menu:
   main:
-    parent: clubinfo
+    parent: volwassenen
     weight: 25
 
 aliases:
-    - /club-gegevens/zomerbadminton/
+    - /volwassenen/zomerbadminton/
 ---
 
 
