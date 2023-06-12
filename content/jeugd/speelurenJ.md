@@ -7,7 +7,7 @@ author: Secretaris
 menu:
   main:
     parent: jeugd
-    weight: 50
+    weight: 30
 
 aliases:
     - /jeugd/speeluren/   

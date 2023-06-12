@@ -7,7 +7,7 @@ author: Secretaris
 menu:
   main:
     parent: jeugd
-    weight: 20
+    weight: 10
 
 aliases:
     - /jeugd/info/     
