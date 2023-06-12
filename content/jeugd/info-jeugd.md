@@ -1,22 +1,28 @@
 ---
 title: "Info Jeugd"
-date: 2022-08-22T15:52:17+02:00
+date: 2023-06-11T15:52:17+02:00
 draft: false
+author: Secretaris
 
 menu:
   main:
-    parent: lid-worden
+    parent: jeugd
     weight: 20
 
 aliases:
-    - /nieuw-lid/jeugd/      
+    - /jeugd/info/     
 ---
-{{< warning-text >}}
-JEUGD <br />
-De nieuwe inschrijvingen voor het seizoen 2022-2023 werden afgesloten. In juni organiseren we enkele proeflessen voor kinderen die vanaf september 2023 lid wensen te worden. Wil je hier graag van op de hoogte gehouden worden, stuur dan een mailtje naar jeugd@gentsebc.be 
-{{< /warning-text>}}
 
 
+
+
+
+# JEUGD seizoen 2022-2023 <br />
+De nieuwe inschrijvingen voor het seizoen 2022-2023 werden afgesloten. In juni organiseren we enkele proeflessen voor kinderen die vanaf september 2023 lid wensen te worden. Wil je hier graag van op de hoogte gehouden worden, stuur dan een mailtje naar jeugd@gentsebc.be <br />
+
+
+ 
+# INFO
 Kinderen en jongeren vanaf 10 jaar (vanaf 5e leerjaar) kunnen badmintonnen op woensdag (18u30-20u00 in de Wielerpiste) en/of zaterdag (10u-12u in de Bourgoyen).
 Onze club biedt helaas nog geen MiniBAD (badminton voor kinderen jonger dan 10 jaar) aan.
 

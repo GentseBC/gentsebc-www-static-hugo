@@ -60,6 +60,7 @@ paginate = 10
   [[menu.main]]
     identifier = 'Jeugd'
     name = 'Jeugd'
+    URL = '/jeugd/'
     weight = 40
 
   [[menu.main]]
