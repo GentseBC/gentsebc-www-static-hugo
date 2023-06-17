@@ -5,12 +5,11 @@ draft: false
 
 menu:
   main:
-    parent: interne-werking
-    weight: 20
+    parent: clubinfo
+    weight: 60
 
 aliases:
-    - /interne-werking/huishoudelijk-reglement/
-    
+    - /club-gegevens/huishoudelijk-reglement/ 
 ---
 
 Hier kan je ons huishoudelijk reglement raadplegen. Indien je nog vragen hebt, aarzel niet om een berichtje te sturen naar info@gentsebc.be

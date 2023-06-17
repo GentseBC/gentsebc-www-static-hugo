@@ -5,11 +5,12 @@ draft: false
 
 menu:
   main:
-    parent: interne-werking
+    parent: clubinfo
     weight: 40
 
 aliases:
-    - /club-gegevens/integriteit/
+    - /club-gegevens/integriteit/   
+
 ---
 Als badmintonclub proberen we een verschil te maken op vlak van integriteit en inclusie. Dit doen we oa. door een warme, sympathiekste en veilige community te creëren. We hebben daarom sinds begin 2020 API's in de club. 
 

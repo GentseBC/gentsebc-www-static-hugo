@@ -57,7 +57,7 @@ Op woensdagavond is er een overlapmoment waarbij onze betere en oudere jeugdspel
 
 # Interesse?
 
-Wens je lid te worden, dien je het inschrijvingsformulier in te vullen. Na betaling van uw [Lidgeld]({{< ref "/clubinfo/lidgeld" >}}) ben je officieel ingeschreven.  De kostprijs voor beide groepen (recreatief of intensief) is dezelfde. Voor deze prijs kan je 1 of 2 keer per week komen spelen.
+Wens je lid te worden, dien je het inschrijvingsformulier in te vullen. Na betaling van uw lidgeld ben je officieel ingeschreven.  De kostprijs voor beide groepen (recreatief of intensief) is dezelfde. Voor deze prijs kan je 1 of 2 keer per week komen spelen.
 Heb je nog vragen? Contacteer ons gerust op jeugd@gentsebc.be of kom eens een keertje proefspelen (enkel in juni).
 
 

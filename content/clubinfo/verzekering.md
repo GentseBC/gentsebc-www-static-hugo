@@ -5,8 +5,11 @@ draft: false
 
 menu:
   main:
-    parent: interne-werking
-    weight: 10
+    parent: clubinfo
+    weight: 50
+
+aliases:
+    - /club-gegevens/verzekering/ 
 
 ---
 
