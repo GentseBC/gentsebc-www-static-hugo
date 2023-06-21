@@ -1,6 +1,6 @@
 ---
-title: "Lidgeld jeugd"
-date: 2023-06-15T15:50:16+02:00
+title: "Lidgeld Jeugd seizoen 2023-2024"
+date: 2023-06-20T15:50:16+02:00
 draft: false
 
 menu:
@@ -13,8 +13,9 @@ aliases:
 ---
 
 
-## Lidgeld Jeugd seizoen 2023-2024
 (jeugd = nog geen 18 jaar op 1/8)
+
+## Lidgeld
 {{< table table table-striped table-bordered >}}
 |  | Jeugd -18, 1 speelmoment | Jeugd -18, 2 speelmomenten |
 | ----------- | ----------- | ----------- | ----------- |

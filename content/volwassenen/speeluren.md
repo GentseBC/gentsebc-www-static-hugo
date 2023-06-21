@@ -1,6 +1,6 @@
 ---
-title: "Speeluren volwassenen"
-date: 2023-06-08T15:49:05+02:00
+title: "Speeluren VOLWASSENEN seizoen 2023-2024"
+date: 2023-06-20T15:49:05+02:00
 draft: false
 author: Secretaris
 
@@ -13,16 +13,21 @@ aliases:
     - /volwassenen/speeluren/   
 ---
 
-## Speeluren VOLWASSENEN seizoen 2022-2023
 {{< table table table-striped table-bordered >}}
-| Locatie      | Dag | Uren | 
+| Dag      | Uren | Locatie | 
 | ----------- | ----------- | ----------- |
-| Wielerpiste (6 velden) | maandag | 20u00-22u00 | 
-| Wielerpiste (volledig, 12 velden) | woensdag | 20u00-22u00 | 
-| Topsporthal (4 velden, omnisportzaal op eerste verdieping) | donderdag | 19u00-22u00 <br>van 19u tot 20u op de middelste velden, van 20u tot 22u op de achterste terreinen met onze bevriende club Smash & Go | 
-| Wielerpiste(volledig, 12 velden) | vrijdag | 19u00-22u00 | 
-| Bourgoyen  (volledig, 12 velden) | zondag | 19u00-22u00 | 
+| maandag | 20u00-22u00 | ⚠️ Wielerpiste (6 velden) | 
+| woensdag | 20u00-22u00 | ⚠️ Wielerpiste (volledig, 12 velden) | 
+| vrijdag | 19u00-22u00 | ⚠️ Wielerpiste (volledig, 12 velden) | 
+| zondag | 19u00-22u00 | Bourgoyen  (volledig, 12 velden) | 
 {{< /table >}}
+
+{{< warning-text >}}
+⚠️  Renovatie Wielerpiste <br />
+Door renovaties in de Wielerpiste kunnen we tot en met november niet spelen in de Wielerpiste. 
+Tijdens deze maanden (september-oktober-november 2023) spelen we op verschillende alternatieve locaties in Gent. 
+{{< /warning-text>}}
+
 
 Raadpleeg de kalender op de homepagina voor de dagen waarop uitzonderlijk niet kan gespeeld worden.
 De beschikbaarheid voor vrij spel op zaterdag en zondag wisselt wekelijks (afhankelijk van het aantal competitieploegen), dus houdt hiervoor zeker onze hoofdpagina in de gaten. 
