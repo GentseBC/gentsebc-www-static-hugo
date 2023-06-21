@@ -17,8 +17,10 @@ aliases:
 
 
 
-# JEUGD seizoen 2022-2023 <br />
-De nieuwe inschrijvingen voor het seizoen 2022-2023 werden afgesloten. In juni organiseren we enkele proeflessen voor kinderen die vanaf september 2023 lid wensen te worden. Wil je hier graag van op de hoogte gehouden worden, stuur dan een mailtje naar jeugd@gentsebc.be <br />
+# JEUGD seizoen 2023-2024 <br />
+De inschrijvingen voor het seizoen 2023-2024 werden afgesloten. 
+Om de kwaliteit van de trainingen te garanderen, werken wij met een maximum aantal leden. Hierdoor zijn alle jeugdgroepen volzet en hebben we al een lange wachtlijst. Momenteel kan je je daardoor niet meer aansluiten bij onze club en hebben we een ledenstop ingevoerd. Voor bestaande leden wordt jouw inschrijving bevestigd zodra de betaling van het jaarlijkse lidgeld werd ontvangen. Houd onze website in het oog voor verdere updates. 
+ <br />
 
 
  
@@ -32,8 +34,10 @@ Onze jeugd speelt in 2 groepen: een trainingsgroep en recreatieve groep. De spel
 
 * Een gekwalificeerde trainer ontfermt zich over de trainingsgroep, deze trainingen zijn technischer. Aan spelertjes die zich bij de trainingsgroep willen voegen vragen we vooral inzet en regelmatige aanwezigheid op de speelmomenten. Vaak spelen deze kinderen ook al eens een jeugdcup (jeugdtornooi) mee, wat we zeker aanmoedigen.
 
-# Jeugdcup
+* Sport toegankelijk maken en houden voor iedereen is een prioriteit van onze club. We houden het lidgeld zo laag mogelijk, maar bieden wel een training van uitstekende kwaliteit door ervaren en gediplomeerde trainers.
 
+
+# Jeugdcup
 We stimuleren de jeugdspelers graag om deel te nemen aan een jeugdcup. Hier spelen kinderen tegen leeftijdsgenootjes en de tornooien zijn erg laagdrempelig. Deelnemen is belangrijker dan winnen. Gentse BC organiseert ook ieder jaar in oktober zelf een jeugdcup en deelname hieraan is gratis voor onze leden.
 
 Op de jeugdcup worden de kinderen zo vaak mogelijk vergezeld door een trainer/begeleider van Gentse BC indien mogelijk. We rekenen echter ook op de hulp van de ouders bij de begeleiding van de kinderen tijdens deelname aan een jeugdcup vb. scores meetellen.

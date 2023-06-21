@@ -1,6 +1,6 @@
 ---
 title: "Lidgeld jeugd"
-date: 2023-05-15T15:50:16+02:00
+date: 2023-06-15T15:50:16+02:00
 draft: false
 
 menu:
@@ -13,20 +13,20 @@ aliases:
 ---
 
 
-## Lidgeld Jeugd seizoen 2022-2023
+## Lidgeld Jeugd seizoen 2023-2024
 (jeugd = nog geen 18 jaar op 1/8)
 {{< table table table-striped table-bordered >}}
 |  | Jeugd -18, 1 speelmoment | Jeugd -18, 2 speelmomenten |
 | ----------- | ----------- | ----------- | ----------- |
-| volledig seizoen |  65 € |  100 € |
+| volledig seizoen |  70 € |  105 € |
 {{< /table >}}
 
-## Uitpas
 
+
+## Uitpas
 Indien je aangesloten bent bij UiTPAS en in aanmerking komt voor sociaal tarief, kan je ook bij Gentse BC een korting krijgen van 80% op het lidgeld. Heb je recht op een kansentarief via UiTPAS, vul zeker jouw uitpasnummer in bij je aanvraag tot lidmaatschap, of geef het door aan de penningmeester. Opgelet: het kansentarief wordt elk jaar opnieuw bekeken.
 
-## Gastspelers
-Badmintonners die al lid zijn van een andere club, aangesloten bij Badminton Vlaanderen, kunnen als gastlid bij de Gentse BC spelen en krijgen een korting op het lidgeld van EUR 15,00. Vermeld dan zeker je VBL lidnummer en de gegevens van de club waarbij je al lid bent op het inschrijvingsformulier.
+
 
 ## Betalingstermijn
 De betaling van het lidgeld is voldoende bewijs om lid te blijven van onze club of lid te worden.  Deze betaling ontvangen we dan ook graag binnen de 30 dagen na factuurdatum. Je krijgt hiervan elk jaar een factuur per email. Zorg er dus steeds voor dat jouw gegevens up to date zijn.
