@@ -25,6 +25,7 @@ aliases:
 
 
 ## Uitpas
+{{< figure src="images/UiTpas.jpg" width="30%">}}
 Indien je aangesloten bent bij UiTPAS en in aanmerking komt voor sociaal tarief, kan je ook bij Gentse BC een korting krijgen van 80% op het lidgeld. Heb je recht op een kansentarief via UiTPAS, vul zeker jouw uitpasnummer in bij je aanvraag tot lidmaatschap, of geef het door aan de penningmeester. Opgelet: het kansentarief wordt elk jaar opnieuw bekeken.
 
 
