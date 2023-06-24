@@ -73,7 +73,8 @@ module.exports = async ({github, core, context, io, fetch, dayjs}) => {
             result.push(aDay);
         }
     
-        var fromDate = new Date();
+        //var fromDate = new Date();
+        var fromDate = new Date("2023-06-12T00:00:01.000Z");//TESTING!
         var toDate = new Date();
         toDate.setDate(fromDate.getDate() + numberOfDaysToDisplay);   
 
