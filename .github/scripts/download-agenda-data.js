@@ -9,26 +9,24 @@ module.exports = async ({github, core, context, io, fetch, dayjs}) => {
         return '' + y + '-' + (m<=9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);
     }
 
+    async function fetchAll(fromDate,toDate) {
+        const [volwassenenResponse, jeugdResponse, gsportResponse] = await Promise.all([
+                                                                           fetch('https://www.googleapis.com/calendar/v3/calendars/gentsebc%40gmail.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak'),
+                                                                           fetch('https://www.googleapis.com/calendar/v3/calendars/gentsebc%40gmail.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak'),
+                                                                           fetch('https://www.googleapis.com/calendar/v3/calendars/gentsebc%40gmail.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak')
+                                                                       ]);
+
+        const volwassenen = await volwassenenResponse.json();
+        const jeugd = await jeugdResponse.json();
+        const gsport = await gsportResponse.json();
+
+        return [volwassenen, jeugd, gsport];
+    }
+
     async function fetchAsync (url) {
         let response = await fetch(url);
         let data = await response.json();
         return data;
-    }
-
-    function resolveEventType(summary) {
-        if (summary === undefined) {
-            return undefined
-        }
-        lowerSummary = summary.toLowerCase();
-
-        if (lowerSummary.indexOf("jeugd") !== -1) {
-            return "youthCalItems";
-        } else if (lowerSummary.indexOf("volwassenen") !== -1) {
-            return "adultCalItems";
-        } else if (lowerSummary.indexOf("g-sport") !== -1) {
-            return "gSportCalItems";
-        } 
-        return undefined;
     }
 
     function resolveLocationCode(location) {
@@ -47,6 +45,22 @@ module.exports = async ({github, core, context, io, fetch, dayjs}) => {
             return "other";
         }
     }
+
+    function mapCalendarData(calendarData, evenType, result) {
+        calendarData.items
+            .filter(item => item.start !== undefined && item.start.dateTime !== undefined && item.end !== undefined && item.end.dateTime !== undefined  && item.summary !== undefined)
+            .forEach(item => {
+                const dateIndex = dateToIndex.get(item.start.dateTime.substring(0,10));
+                if (dateToIndex !== undefined && evenType !== undefined)  {
+                    result[dateIndex][evenType].push({
+                                                         "startDateTime": dayjs(item.start.dateTime).tz("Europe/Brussels").format("YYYY-MM-DD HH:mm:ss"),
+                                                         "endDateTime": dayjs(item.end.dateTime).tz("Europe/Brussels").format("YYYY-MM-DD HH:mm:ss"),
+                                                         "location": item.location,
+                                                         "locationCode": resolveLocationCode(item.location)
+                                                     });
+                }
+            });
+    }
     
     function downloadShortTermCalendar(numberOfDaysToDisplay, outputName ) {
         result = [];
@@ -62,27 +76,17 @@ module.exports = async ({github, core, context, io, fetch, dayjs}) => {
         var fromDate = new Date();
         var toDate = new Date();
         toDate.setDate(fromDate.getDate() + numberOfDaysToDisplay);   
-        URL = 'https://www.googleapis.com/calendar/v3/calendars/gentsebc%40gmail.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak';
-        console.log(URL);
-        
-        fetchAsync(URL).then(calendarData => {
-            calendarData.items
-            .filter(item => item.start !== undefined && item.start.dateTime !== undefined && item.end !== undefined && item.end.dateTime !== undefined  && item.summary !== undefined)
-            .forEach(item => {
-                const dateIndex = dateToIndex.get(item.start.dateTime.substring(0,10));
-                const evenType = resolveEventType(item.summary);
-                if (dateToIndex !== undefined && evenType !== undefined)  {
-                    result[dateIndex][evenType].push({
-                        "startDateTime": dayjs(item.start.dateTime).tz("Europe/Brussels").format("YYYY-MM-DD HH:mm:ss"),
-                        "endDateTime": dayjs(item.end.dateTime).tz("Europe/Brussels").format("YYYY-MM-DD HH:mm:ss"),
-                        "location": item.location,
-                        "locationCode": resolveLocationCode(item.location)
-                    });
-                }
-            });
+
+        fetchAll(fromDate, toDate).then(([volwassenen, jeugd, gsport]) => {
+            mapCalendarData(volwassenen, "adultCalItems", result);
+            mapCalendarData(jeugd, "youthCalItems", result);
+            mapCalendarData(gsport, "gSportCalItems", result);
+
             console.log(result);
             core.setOutput(outputName, JSON.stringify(result));
-        });
+        }).catch(error => {
+            console.log("Failed to fetch" + error);
+        })
     }
 
     downloadShortTermCalendar(7, 'calendar-json');
