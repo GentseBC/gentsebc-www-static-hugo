@@ -46,7 +46,7 @@ module.exports = async ({github, core, context, io, fetch, dayjs}) => {
         }
     }
 
-    function mapCalendarData(calendarData, evenType, result) {
+    function mapCalendarData(calendarData, evenType, result, dateToIndex) {
         calendarData.items
             .filter(item => item.start !== undefined && item.start.dateTime !== undefined && item.end !== undefined && item.end.dateTime !== undefined  && item.summary !== undefined)
             .forEach(item => {
@@ -78,9 +78,9 @@ module.exports = async ({github, core, context, io, fetch, dayjs}) => {
         toDate.setDate(fromDate.getDate() + numberOfDaysToDisplay);   
 
         fetchAll(fromDate, toDate).then(([volwassenen, jeugd, gsport]) => {
-            mapCalendarData(volwassenen, "adultCalItems", result);
-            mapCalendarData(jeugd, "youthCalItems", result);
-            mapCalendarData(gsport, "gSportCalItems", result);
+            mapCalendarData(volwassenen, "adultCalItems", result, dateToIndex);
+            mapCalendarData(jeugd, "youthCalItems", result, dateToIndex);
+            mapCalendarData(gsport, "gSportCalItems", result, dateToIndex);
 
             console.log(result);
             core.setOutput(outputName, JSON.stringify(result));
