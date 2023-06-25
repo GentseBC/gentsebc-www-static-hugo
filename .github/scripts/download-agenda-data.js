@@ -12,6 +12,7 @@ module.exports = async ({github, core, context, io, fetch, dayjs}) => {
     async function fetchAll(fromDate,toDate) {
         console.log('https://www.googleapis.com/calendar/v3/calendars/gentsebc%40gmail.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak');
         console.log('https://www.googleapis.com/calendar/v3/calendars/rsf3mrfd9ogbq81vloolrvmigc%40group.calendar.google.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak');
+        console.log('https://www.googleapis.com/calendar/v3/calendars/d09fb84a6c6997f49d75d2bbc32d40a18cf64481a90094c12c61fde4f4147e6f%40group.calendar.google.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak');
         const [adultResponse, youthResponse, gsportResponse] = await Promise.all([
                                                                            fetch('https://www.googleapis.com/calendar/v3/calendars/gentsebc%40gmail.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak'),
                                                                            fetch('https://www.googleapis.com/calendar/v3/calendars/rsf3mrfd9ogbq81vloolrvmigc%40group.calendar.google.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak'),
@@ -22,6 +23,7 @@ module.exports = async ({github, core, context, io, fetch, dayjs}) => {
         const youth = await youthResponse.json();
         const gsport = await gsportResponse.json();
 
+        console.log("Fetched calendar data");
         return [adult, youth, gsport];
     }
 
@@ -50,6 +52,7 @@ module.exports = async ({github, core, context, io, fetch, dayjs}) => {
                 if (dateToIndex !== undefined)  {
                     result[dateIndex][evenType].push({
                                                          "startDateTime": dayjs(item.start.dateTime).tz("Europe/Brussels").format("YYYY-MM-DD HH:mm:ss"),
+                                                         "startDateTime": dayjs(item.start.dateTime).tz("Europe/Brussels").format("YYYY-MM-DD HH:mm:ss"),
                                                          "endDateTime": dayjs(item.end.dateTime).tz("Europe/Brussels").format("YYYY-MM-DD HH:mm:ss"),
                                                          "location": item.location,
                                                          "locationCode": resolveLocationCode(item.location)
@@ -75,8 +78,11 @@ module.exports = async ({github, core, context, io, fetch, dayjs}) => {
         toDate.setDate(fromDate.getDate() + numberOfDaysToDisplay);   
 
         fetchAll(fromDate, toDate).then(([volwassenen, jeugd, gsport]) => {
+            console.log("Processing calendar items.")
             mapCalendarData(volwassenen, "adultCalItems", result, dateToIndex);
+            console.log("youth");
             mapCalendarData(jeugd, "youthCalItems", result, dateToIndex);
+            console.log("gsport");
             mapCalendarData(gsport, "gSportCalItems", result, dateToIndex);
 
             console.log(result);
