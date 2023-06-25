@@ -66,14 +66,15 @@ module.exports = async ({github, core, context, io, fetch, dayjs}) => {
         const dateToIndex= new Map();
         for(let i = 0; i < numberOfDaysToDisplay; i++) {
             const aDay = {"adultCalItems":[],"youthCalItems":[],"gSportCalItems":[]};
-            const myDay = dayjs("2023-06-12T00:00:01.000Z").add(i, 'day'); // TESTING
+            //const myDay = dayjs("2023-06-12T00:00:01.000Z").add(i, 'day'); // TESTING
+            const myDay = dayjs().add(i, 'day'); // TESTING
             aDay.day =  myDay.format('dd D MMM')
             dateToIndex.set(myDay.format('YYYY-MM-DD'), i);
             result.push(aDay);
         }
     
-        //var fromDate = new Date();
-        var fromDate = new Date("2023-06-12T00:00:01.000Z");//TESTING!
+        var fromDate = new Date();
+        //var fromDate = new Date("2023-06-12T00:00:01.000Z");//TESTING!
         var toDate = new Date();
         toDate.setDate(fromDate.getDate() + numberOfDaysToDisplay);   
 
