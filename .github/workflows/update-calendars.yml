@@ -31,13 +31,13 @@ jobs:
             await script({github, core, context, io, fetch, dayjs})
       - name: Get result
         run: |
-          cat << EOF > static/shortTermCalendarV2.json
+          cat << EOF > data/shortTermCalendar.json
             ${{steps.short-term-calendar.outputs.calendar-json}}
           EOF
 
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add static/shortTermCalendarV2.json
+          git add data/shortTermCalendar.json
 
           git commit -am "shortTermCalendar update - $(date)" || echo "No changes to commit"
           git push
