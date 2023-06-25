@@ -8,7 +8,7 @@ function calItemsHtmlHorizonal($, calItems, isIntromoment) {
     } else {
         divs = "";
         $.each(calItems, function(index){
-            myContent=giveHourMin(calItems[index].startDateTime.date,calItems[index].endDateTime.date);
+            myContent=giveHourMin(calItems[index].startDateTime,calItems[index].endDateTime);
             myLocationCode=calItems[index].locationCode;
             myLocation=calItems[index].location;
 
@@ -29,7 +29,7 @@ function calItemsHtmlVertical($, calItems) {
     } else {
         divs = "";
         $.each(calItems, function(index){
-            myContent=giveHourMin(calItems[index].startDateTime.date,calItems[index].endDateTime.date);
+            myContent=giveHourMin(calItems[index].startDateTime,calItems[index].endDateTime);
             myLocationCode=calItems[index].locationCode;
             myLocation=calItems[index].location;
 
@@ -43,7 +43,7 @@ function calItemsHtmlVertical($, calItems) {
 
 function addShortTermCalendar($, baseURL){
     console.log("Adding short term calendar from:"+baseURL);
-    $.get(baseURL+"mashup/processCalendar/shortTermCalendar", function( data ) {
+    $.get(baseURL+"shortTermCalendarV2.json", function( data ) {
         $.each(data,function(index) {
             //  console.log(data[index]);
 
