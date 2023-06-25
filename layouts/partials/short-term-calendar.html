@@ -1,37 +1,81 @@
 {{ $sp := cond .Site.IsServer  "" .Site.Params.static_content_prefix }}
+{{ $calItems := $.Site.Data.shortTermCalendar}}
+
 <div class="d-none d-md-block">
     <div class="span12">
         <table class="table">
             <thead>
             <tr id="playingHoursHorizontal">
                 <th>&nbsp;</th>
+{{ range $calItems}}
+                <th>{{ .day}}</th>
+{{ end }}
             </tr>
             </thead>
             <tbody>
-            <tr id="playingHoursHorizontalJeugd">
-                <td>Jeugd</td>
-            </tr>
-            <tr id="playingHoursHorizontalVolwassenen">
-                <td>Volwassenen</td>
-            </tr>
-            <tr id="playingHoursHorizontalGSport">
-                <td><a href="/g-badminton">G-Sport <i class="fa fa-wheelchair-alt"></i></a></td>
-            </tr>
+                <tr id="playingHoursHorizontalJeugd">
+                    <td>Jeugd</td>
+{{ range $calItems}}
+     {{ if ( gt (.youthCalItems | len ) 0) }}
+                    <td>
+                    {{ range .youthCalItems}}
+                        <div class="{{ .locationCode }}">
+                            {{ substr .startDateTime 11 5}} - {{ substr .endDateTime 11 5}}
+                            {{ if (eq .locationCode "other")}}
+                                <br>Uitzonderlijke locatie! <br>{{ .location }}
+                            {{ end }}
+                        </div>
+                    {{ end}}
+                    </td>
+     {{ else }}
+                    <th> - </th>
+     {{ end }}
+{{ end }}
+                </tr>
+                <tr id="playingHoursHorizontalVolwassenen">
+                    <td>Volwassenen</td>
+{{ range $calItems}}
+    {{ if ( gt (.adultCalItems | len ) 0) }}
+                    <td>
+                        {{ range .adultCalItems}}
+                        <div class="{{ .locationCode }}">
+                            {{ substr .startDateTime 11 5}} - {{ substr .endDateTime 11 5}}
+                            {{ if (eq .locationCode "other")}}
+                            <br>Uitzonderlijke locatie! <br>{{ .location }}
+                            {{ end }}
+                        </div>
+                        {{ end}}
+                    </td>
+    {{ else }}
+                    <th> - </th>
+    {{ end }}
+{{ end }}
+
+
+                </tr>
+                <tr id="playingHoursHorizontalGSport">
+                    <td><a href="/g-badminton">G-Sport <i class="fa fa-wheelchair-alt"></i></a></td>
+{{ range $calItems}}
+    {{ if ( gt (.gSportCalItems | len ) 0) }}
+                    <td>
+                        {{ range .gSportCalItems}}
+                        <div class="{{ .locationCode }}">
+                            {{ substr .startDateTime 11 5}} - {{ substr .endDateTime 11 5}}
+                            {{ if (eq .locationCode "other")}}
+                            <br>Uitzonderlijke locatie! <br>{{ .location }}
+                            {{ end }}
+                        </div>
+                        {{ end}}
+                    </td>
+                    {{ else }}
+                    <th> - </th>
+    {{ end }}
+{{ end }}
+                </tr>
             </tbody>
         </table>
     </div>
 </div>
-<script
-			  src="https://code.jquery.com/jquery-3.6.0.min.js"
-			  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-			  crossorigin="anonymous"></script>
-<script type='text/javascript' src='{{$sp}}/js/shortTermCalendar.js'></script>
-<script>
-    jQuery(document).ready(function() {
-        console.log("Adding short term calendar");
-        addShortTermCalendar(jQuery,'{{cond .Site.IsServer  "https://www.gentsebc.be/" "/" }}');
-    });
-</script>
 <div class="d-none d-md-block">
     <div class="col-md-3 offset-md-9">
         <table class="shorttermcalenderindex">
@@ -43,7 +87,6 @@
                 <td>Bourgoyen</td>
                 <td class="topsporthal">&nbsp;&nbsp;&nbsp;</td>
                 <td>Topsporthal</td>
-
             </tr>
             </tbody>
         </table>
@@ -64,7 +107,40 @@
                 </tr>
                 </thead>
                 <tbody id="playingHoursVertical">
+{{ range $calItems }}
+                <tr>
+                    <td>{{ .day }}</td>
+                    <td>
+    {{ if ( gt (.youthCalItems | len ) 0) }}
+                    {{ range .youthCalItems}}
+                    <div class="{{ .locationCode}}">{{ substr .startDateTime 11 5}} - {{ substr .endDateTime 11 5}}</div>
+                    {{ end }}
+    {{ else }}
+                    -
+    {{ end }}
+                    </td>
 
+                    <td>
+    {{ if ( gt (.adultCalItems | len ) 0) }}
+                    {{ range .adultCalItems}}
+                    <div class="{{ .locationCode}}">{{ substr .startDateTime 11 5}} - {{ substr .endDateTime 11 5}}</div>
+                    {{ end }}
+    {{ else }}
+                    -
+    {{ end }}
+                    </td>
+
+                    <td>
+    {{ if ( gt (.gSportCalItems | len ) 0) }}
+                        {{ range .gSportCalItems}}
+                        <div class="{{ .locationCode}}">{{ substr .startDateTime 11 5}} - {{ substr .endDateTime 11 5}}</div>
+                        {{ end }}
+    {{ else }}
+                        -
+    {{ end }}
+                    </td>
+                </tr>
+{{ end }}
                 </tbody>
             </table>
             <table>
