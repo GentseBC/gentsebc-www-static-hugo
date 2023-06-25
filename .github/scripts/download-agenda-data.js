@@ -84,11 +84,12 @@ module.exports = async ({github, core, context, io, fetch, dayjs}) => {
             mapCalendarData(jeugd, "youthCalItems", result, dateToIndex);
             console.log("gsport");
             mapCalendarData(gsport, "gSportCalItems", result, dateToIndex);
+            console.log("done")
 
-            console.log(result);
+            //console.log(result);
             core.setOutput(outputName, JSON.stringify(result));
         }).catch(error => {
-            console.log("Failed to fetch" + error);
+            console.log("Failed to fetch:" + error);
         })
     }
 
