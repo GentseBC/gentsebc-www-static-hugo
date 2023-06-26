@@ -4,6 +4,7 @@ date: 2023-06-19T10:07:44+02:00
 draft: false
 categories: ['algemeen']
 carousel: true
+carousel_img: "/images/posts/zomerbadminton.jpeg"
 author: Secretaris
 
 ---
