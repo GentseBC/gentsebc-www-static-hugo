@@ -1,7 +1,8 @@
 ---
-title: "Medewerkers"
-date: 2022-03-24T15:50:16+02:00
+title: "Werking en bestuur"
+date: 2023-06-25T15:50:16+02:00
 draft: false
+author: Secretaris
 
 menu:
   main:
@@ -12,34 +13,37 @@ aliases:
     - /club-gegevens/medewerkers/       
 ---
 
+
+Het bestuur van de Gentse Badmintonclub vzw bestaat uit enkele gepassioneerde mensen die een stuk van hun vrije tijd opofferen aan de organisatie en administratie. Onze club draait voor en door vrijwilligers. Hulp en ondersteuning vanuit expertise is altijd welkom (vb. events, admin, hulp op tornooien,...) dus laat je zeker horen. 
+
+Heb je een vraag, een probleem of wil je je mening over iets kwijt? Kijk op deze website of kom gerust naar ons toe op een speelavond, schrijf ons een mailtje of bel ons op. Wij helpen je graag verder. Tot binnenkort!
+
+
 # Bestuursleden
-Het bestuur van de Gentse Badmintonclub vzw bestaat uit enkele gepassioneerde mensen die een stuk van hun vrije tijd opofferen aan de organisatie en administratie. Heb je een vraag, een probleem of wil je je mening over iets kwijt? Kijk op deze website of kom gerust naar ons toe op een speelavond, schrijf ons een mailtje of bel ons op. Wij helpen je graag verder. Tot binnenkort!
-
-
 {{< container-row >}}
     {{< card-in-column img="images/Maarten-VW.jpg" title="Maarten Van Wassenhove" >}}
-      Voorzitter, competitieverantwoordelijke<br>voorzitter@gentsebc.be<br>tel. 0472/62.06.42
+      Voorzitter, G-sport verantwoordelijke<br>aansturing algemene werking, sponsoring en groei, aanspreekpunt VBL <br>voorzitter@gentsebc.be<br>tel. 0472/62.06.42
     {{< /card-in-column >}}
 
     {{< card-in-column img="images/isabelle.jpg" title="Isabelle Vercaigne" >}}
-      Secretaris<br>secretaris@gentsebc.be<br>tel. 0485/44.89.25
+      Secretaris<br>communicatie leden, zaalplanning, administratie <br>secretaris@gentsebc.be<br>tel. 0485/44.89.25
     {{< /card-in-column >}}
 
 
     {{< card-in-column img="images/evi.jpg" title="Evi Weymaere" >}}
-      Penningmeester, G-sport verantwoordelijke<br>penningmeester@gentsebc.be
+      Penningmeester<br>financiën, lidgeldadministratie <br>penningmeester@gentsebc.be
     {{< /card-in-column >}}
 
     {{< card-in-column img="images/blomme.jpg" title="Blomme Molenstra" >}}
-      Trainingen<br>trainingen@gentsebc.be
+      Training volwassenen<br>trainingen@gentsebc.be
     {{< /card-in-column >}}
 
     {{< card-in-column img="images/elisa.jpg" title="Elisa Verhaeghe" >}}
-      Competitie en verplaatsingen<br>competitie@gentsebc.be
+      Competitieverantwoordelijke<br> planning kalenders, wedstrijden en verplaatsingen<br>competitie@gentsebc.be
     {{< /card-in-column >}}
 
     {{< card-in-column img="images/boye.jpg" title="Boye Buyens" >}}
-      Jeugdverantwoordelijke<br>jeugd@gentsebc.be
+      Jeugdverantwoordelijke<br>sportieve coördinatie jeugd, communicatie jeugd<br>jeugd@gentsebc.be
     {{< /card-in-column >}}
 
 {{< /container-row >}}
@@ -51,7 +55,7 @@ Onze groep trainers is razend enthousiast! Graag willen ze hun passie aan jou ov
     {{< card-in-column n="4" img="images/steven.jpg" title="Steven Verbruggen" />}}
     {{< card-in-column n="4" img="images/joachim.jpg" title="Joachim Bonte" />}}
     {{< card-in-column n="4" img="images/bert.jpg" title="Bert Mullaert" />}}
-    {{< card-in-column n="4" img="images/nele.jpg" title="Nele Van der Haegen" />}}
+    {{< card-in-column n="4" img="images/alwin.jpg" title="Alwin De Moor" />}}
 {{< /container-row >}}
 
 # Medewerkers
