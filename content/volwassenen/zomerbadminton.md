@@ -1,6 +1,6 @@
 ---
 title: "Zomerbadminton"
-date: 2023-05-09T05:49:05+02:00
+date: 2023-06-28T05:49:05+02:00
 draft: false
 author: Secretaris
 
