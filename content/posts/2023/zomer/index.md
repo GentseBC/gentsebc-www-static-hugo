@@ -10,9 +10,7 @@ author: Secretaris
 Hallo Badmintonners,
 
 De laatste week van juni wordt er niet gebadmintond, maar vanaf juli zijn we er weer!  Jullie kunnen het zomerregime hier raadplegen: https://www.gentsebc.be/volwassenen/zomerbadminton/
-
-    Juli: We spelen  2x per week in de Rozebroeken, op dinsdag en vrijdag, telkens van 20-22u, terrein A+B (op 4/7 spelen we uitzonderlijk in de balsportzaal). 
-    Augustus: In Augustus spelen we in de GUBS op maandag, een tweede speelmoment wordt nog bevestigd.
+ 
 
 
 
