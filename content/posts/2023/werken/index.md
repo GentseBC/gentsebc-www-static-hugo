@@ -3,7 +3,7 @@ title: "Bereikbaarheid Blaarmeersen"
 date: 2023-03-12T10:07:44+02:00
 draft: false
 categories: ['algemeen']
-carousel: true
+carousel: false
 carousel_img: '/images/posts/mapWSB.jpeg'
 author: Secretaris
 ---
