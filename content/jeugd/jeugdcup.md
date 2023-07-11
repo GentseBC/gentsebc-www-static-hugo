@@ -8,6 +8,9 @@ menu:
   main:
     parent: 'jeugd'
     weight: 40
+
+    aliases:
+    - /jeugd/jeugdcup/
 ---
 
 ### Algemene informatie
