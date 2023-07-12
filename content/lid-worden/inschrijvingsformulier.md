@@ -3,11 +3,6 @@ title: "Inschrijvingsformulier"
 date: 2022-08-15T15:51:40+02:00
 draft: false
 
-menu:
-  main:
-    parent: lid-worden
-    weight: 10
-
 aliases:
     - /inschrijvingsformulier/  
 ---

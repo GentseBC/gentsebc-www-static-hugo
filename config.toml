@@ -50,6 +50,7 @@ paginate = 10
   [[menu.main]]
     identifier = 'lid-worden'
     name = 'LID worden?'
+    URL = '/lid-worden/inschrijvingsformulier/'
     weight = 30
 
   [[menu.main]]
