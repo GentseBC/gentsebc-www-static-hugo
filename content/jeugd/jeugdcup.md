@@ -6,7 +6,7 @@ author: 'Secretaris'
 
 menu:
   main:
-    parent: 'jeugd'
+    parent: 'Jeugd'
     weight: 40
 
     aliases:

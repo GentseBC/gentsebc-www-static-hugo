@@ -5,7 +5,7 @@ draft: false
 
 menu:
   main:
-    parent: jeugd
+    parent: Jeugd
     weight: 20
 
 aliases:
