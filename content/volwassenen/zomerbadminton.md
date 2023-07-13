@@ -27,9 +27,10 @@ Speelavonden: 4/7, 7/7, 11/7, 14/7, 18/7, 21/7, 25/7, 28/7 en *maandag* 31/7<br>
 
 In __augustus__ spelen we 
 Elke maandag in sporthal GUSB, deel A, van 20u-22u.<br>
+Op woensdag 2/8  in Bourgoyen, deel A+B, van 20u-22u<br>
 Op woensdag 9/8, 23/8 en 30/8  in sporthal Driebeek, deel A+C, van 20u-22u<br>
-Op vrijdag  4/8 in sporthal Bourgoyen, deel B+C, van 20u-22u.
-Op vrijdag 18/8 en 25/8 spelen we in Tondelier, van 20-22u
+Op vrijdag  4/8 in sporthal Bourgoyen, deel B+C, van 20u-22u.<br>
+Op vrijdag 18/8 en 25/8 spelen we in Tondelier, van 20-22u<br>
 
 
 
