@@ -1,0 +1,214 @@
+ploegen:
+- naam: 1H
+  niveau: PBO 1A
+  link: https://www.toernooi.nl/sport/team.aspx?id=0131343E-0198-48F4-A75B-4995C6B9095F&team=4
+  ploegkapitein: Tim Rombaut
+  spelers:
+  - Jonathan Govaerts
+  - Patrick Govaerts
+  - Alwin De Moor
+  - Tim Rombaut
+  papieren_spelers:
+  - Jonathan Govaerts
+  - Patrick Govaerts
+  - Tim Rombaut
+  - Maarten Van Wassenhove
+
+- naam: 2H
+  niveau: PBO 2A
+  link: https://www.toernooi.nl/sport/team.aspx?id=0131343E-0198-48F4-A75B-4995C6B9095F&team=39
+  ploegkapitein: Hans Verheyden
+  spelers:
+  - Hans Verheyden
+  - Bram Remue
+  - Joachim Bonte
+  - Stefaan Schoutteeten
+  - Blomme Molenstra
+  papieren_spelers:
+  - Alwin De Moor
+  - Hans Verheyden
+  - Bert Mullaert
+  - Thomas Dekeyser
+
+- naam: 3H
+  niveau: PBO 3A
+  link: https://www.toernooi.nl/sport/team.aspx?id=0131343E-0198-48F4-A75B-4995C6B9095F&team=69
+  ploegkapitein: Simon Standaert
+  spelers:
+  - Daan Nelen
+  - Robin Packo
+  - Pieter Kortlevel
+  - Simon Standaert
+  - Benoit Huyghe
+  papieren_spelers:
+  - Daan Nelen
+  - Robin Packo
+  - Pieter Kortlevel
+  - Simon Standaert
+
+- naam: 4H
+  niveau: PBO 5B
+  link: https://www.toernooi.nl/sport/team.aspx?id=0131343E-0198-48F4-A75B-4995C6B9095F&team=150
+  ploegkapitein: Bart Pauwels, Kevin Vandenbossche
+  spelers:
+  - Senne Cornelis
+  - Eric Maes
+  - Bart Pauwels
+  - Kevin Vandenbossche
+  - Elias Waterschoot
+  - Lyon Chen
+  papieren_spelers:
+  - Senne Cornelis
+  - Eric Maes
+  - Bart Pauwels
+  - Kevin Vandenbossche
+
+- naam: 5H
+  niveau: PBO 5A
+  link: https://www.toernooi.nl/sport/team.aspx?id=0131343E-0198-48F4-A75B-4995C6B9095F&team=149
+  ploegkapitein: Ruben Vervaeke
+  spelers:
+  - Simon Daled
+  - Jonas Vandicke
+  - Ruben Vervaeke
+  - Jonas Vanhove
+  - Zefeng Li
+  - Pradeep Chouhan
+  papieren_spelers:
+  - Simon Daled
+  - Jonas Vandicke
+  - Matthew De Vuyst
+  - Bram Demeester
+
+- naam: 1G
+  niveau: Liga 3
+  link:
+  ploegkapitein: Sarah Claeys
+  spelers:
+  - Maarten Van Wassenhove
+  - Jonathan Govaerts
+  - Patrick Govaerts
+  - Sarah Claeys
+  - Sibbel De Mits
+  papieren_spelers:
+  - Jonathan Govaerts
+  - Patrick Govaerts
+  - Sarah Claeys
+  - Sibbel De Mits
+
+- naam: 2G
+  niveau: PBO 1A
+  link: https://www.toernooi.nl/sport/team.aspx?id=0131343E-0198-48F4-A75B-4995C6B9095F&team=19
+  ploegkapitein: Tim Rombaut
+  spelers:
+  - Tim Rombaut
+  - Pieter Kortleven
+  - Bert Mullaert
+  - Florence Pluquet
+  - Jera Van Nieuwenhuyse
+  - Ekaterina Evdokimova
+  papieren_spelers:
+  - Thomas Dekeyser
+  - Maarten Van Wassenhove
+  - Jera Van Nieuwenhuyse
+  - Ekaterina Evdokimova
+
+- naam: 3G
+  niveau: PBO 2B
+  link: https://www.toernooi.nl/sport/team.aspx?id=0131343E-0198-48F4-A75B-4995C6B9095F&team=55
+  ploegkapitein: ???
+  spelers:
+  - Hans Verheyden
+  - Robin John Vargese
+  - Joachim Bonte
+  - Veronique Cloquet
+  - Sarah Missine
+  - Kamasha Robertson-Martens
+  papieren_spelers:
+  - Hans Verheyden
+  - Veronique Cloquet
+  - Florence Pluquet
+  - Bert Mullaert
+
+- naam: 4G
+  niveau: PBO 3B
+  link: https://www.toernooi.nl/sport/team.aspx?id=0131343E-0198-48F4-A75B-4995C6B9095F&team=98
+  ploegkapitein: Benoit Huyghe
+  spelers:
+  - Daan Nelen
+  - Robin Packo
+  - Benoit Huyghe
+  - Katrin Müller
+  - Aurelie Khammavong
+  - Elisa D'Haese
+  papieren_spelers:
+  - Daan Nelen
+  - Pieter Leven
+  - Kamasha Robertson-Martens
+  - Sarah Missine
+
+- naam: 5G
+  niveau: PBO 4A
+  link: https://www.toernooi.nl/sport/team.aspx?id=0131343E-0198-48F4-A75B-4995C6B9095F&team=135
+  ploegkapitein: Melanie Desegher
+  spelers:
+  - Jan Vossaert
+  - Bart Pauwels
+  - Bram Demeester
+  - Melanie Desegher
+  - Feline Morlion
+  - Elisa Verhaeghe
+  papieren_spelers:
+  - Jan Vossaert
+  - Bart Pauwels
+  - Katrin Müller
+  - Aurelie Khammavong
+
+- naam: 6G
+  niveau: PBO 5B
+  link: https://www.toernooi.nl/sport/team.aspx?id=0131343E-0198-48F4-A75B-4995C6B9095F&team=56
+  ploegkapitein: ???
+  spelers:
+  - Matthew De Vuyst
+  - Eric Maes
+  - Kevin Vandenbossche
+  - Xiaojuan Xue
+  - Isabeau Van Acker
+  - Krisuda Yooyen
+  papieren_spelers:
+  - Matthew De Vuyst
+  - Eric Maes
+  - Melanie Desegher
+  - Feline Morlion
+
+- naam: 1D
+  niveau: PBO 1A
+  link: https://www.toernooi.nl/sport/team.aspx?id=0131343E-0198-48F4-A75B-4995C6B9095F&team=14
+  ploegkapitein: Veronique Cloquet
+  spelers:
+  - Sibbel De Mits
+  - Sarah Claeys
+  - Jera Van Nieuwenhuyze
+  - Veronique Cloquet
+  - Sarah Missine
+  papieren_spelers:
+  - Sibbel De Mits
+  - Sarah Claeys
+  - Jera Van Nieuwenhuyze
+  - Caroline Wellens
+
+- naam: 2D
+  niveau: PBO 1A
+  link: https://www.toernooi.nl/sport/team.aspx?id=0131343E-0198-48F4-A75B-4995C6B9095F&team=11
+  ploegkapitein: ???
+  spelers:
+  - Ekaterina Evdokimova
+  - Florence Pluquet
+  - Kamasha Robertson-Martens
+  - Elisa D’haese
+  - Isabeau Van Acker
+  papieren_spelers:
+  - Ekaterina Evdokimova
+  - Florence Pluquet
+  - Evi Weymaere
+  - Liese Missine
