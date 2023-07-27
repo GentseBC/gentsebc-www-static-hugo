@@ -7,7 +7,7 @@ carousel: true
 carousel_img: '/images/posts/paris2024.jpg'
 author: Secretaris
 ---
-Kamasha speelt al vele jaren competitie bij ons, in het gemengde team en de dames. 
+Kamasha speelt al vele jaren competitie bij ons, in het gemengde team en de dames.  
 Daarnaast is ze ook umpire badminton.
 Misschien zag je haar als eens aan de slag op de televisie?<br>
 ![Kamasha](./kamasha.jpg)
