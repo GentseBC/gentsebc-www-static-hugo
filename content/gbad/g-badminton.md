@@ -1,11 +1,16 @@
 ---
-title: "G-badminton"
+title: "Info G-badminton"
 date: 2023-06-20T15:50:16+02:00
 draft: false
 author: Secretaris
+menu:
+ main:
+    parent: g-badminton
+    weight: 10
 
 aliases:
-    - /g-badminton/ 
+    - /gbad/info
+
 ---
 ## Voor wie?
 We bieden G-badminton aan voor mensen met een lichte mentale beperking vanaf 15 jaar.
