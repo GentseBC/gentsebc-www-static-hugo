@@ -70,6 +70,8 @@ paginate = 10
     URL = '/g-badminton/'
     weight=50
 
+
+
   [[menu.main]]
     identifier = 'competitie'
     name = 'Competitie'
