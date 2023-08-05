@@ -1,6 +1,6 @@
 ---
 title: "Agenda"
-date: 2022-08-21T13:57:44+02:00
+date: 2023-08-05T13:57:44+02:00
 draft: false
 author: 'Secretaris'
 
@@ -27,12 +27,16 @@ De PBO competitie kalenders kan je synchroniseren via [PBO competitie kalenders]
 {{< table table table-striped table-bordered >}}
 | Kalender      | code (bv. Android) | ical-URL (bv. Apple iOS) | CalDAV-URL (other) | 
 | ----------- | ----------- | ----------- | ----------- |
-| Gentse BC algemeen | gentsebc@gmail.com | [iCal](https://www.google.com/calendar/ical/gentsebc@gmail.com/public/basic.ics) |  [CalDAV](https://gentsebc%2Eexternal%40gmail%2Ecom:DUqupre8@www.google.com/calendar/dav/gentsebc@gmail.com/events) |
-| Gentse BC training | h7fbpfklfespjs5c3nseqeneb4@group.calendar.google.com | [iCal](https://www.google.com/calendar/ical/h7fbpfklfespjs5c3nseqeneb4@group.calendar.google.com/public/basic.ics) |  [CalDAV](https://gentsebc%2Eexternal%40gmail%2Ecom:DUqupre8@www.google.com/calendar/dav/h7fbpfklfespjs5c3nseqeneb4@group.calendar.google.com/events) |
-| jeugdcub | rsf3mrfd9ogbq81vloolrvmigc@group.calendar.google.com | [iCal](https://www.google.com/calendar/ical/rsf3mrfd9ogbq81vloolrvmigc@group.calendar.google.com/public/basic.ics) |  [CalDAV](https://gentsebc%2Eexternal%40gmail%2Ecom:DUqupre8@www.google.com/calendar/dav/rsf3mrfd9ogbq81vloolrvmigc@group.calendar.google.com/events) |
-| officiële tornooien | 3j72eskldk70t4pl5jiqv21oa0@group.calendar.google.com | [iCal](https://www.google.com/calendar/ical/3j72eskldk70t4pl5jiqv21oa0@group.calendar.google.com/public/basic.ics) |  [CalDAV](https://gentsebc%2Eexternal%40gmail%2Ecom:DUqupre8@www.google.com/calendar/dav/3j72eskldk70t4pl5jiqv21oa0@group.calendar.google.com/events) |
-| recreatieve tornooien | 4b12h7rmo36unhddtfuqr33048@group.calendar.google.com | [iCal](https://www.google.com/calendar/ical/4b12h7rmo36unhddtfuqr33048@group.calendar.google.com/public/basic.ics) |  [CalDAV](https://gentsebc%2Eexternal%40gmail%2Ecom:DUqupre8@www.google.com/calendar/dav/4b12h7rmo36unhddtfuqr33048@group.calendar.google.com/events) |
+| Gentse BC volwassenen (competitiespelers en recreanten) | https://calendar.google.com/calendar/u/0?cid=Z2VudHNlYmNAZ21haWwuY29t | [iCal](https://www.google.com/calendar/ical/gentsebc@gmail.com/public/basic.ics) |  [CalDAV](https://gentsebc%2Eexternal%40gmail%2Ecom:DUqupre8@www.google.com/calendar/dav/gentsebc@gmail.com/events) |
+| Gentse BC training volwassenen | h7fbpfklfespjs5c3nseqeneb4@group.calendar.google.com | [iCal](https://www.google.com/calendar/ical/h7fbpfklfespjs5c3nseqeneb4@group.calendar.google.com/public/basic.ics) |  [CalDAV](https://gentsebc%2Eexternal%40gmail%2Ecom:DUqupre8@www.google.com/calendar/dav/h7fbpfklfespjs5c3nseqeneb4@group.calendar.google.com/events) |
+| Gentse BC jeugd | https://calendar.google.com/calendar/u/0?cid=cnNmM21yZmQ5b2dicTgxdmxvb2xydm1pZ2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ | [iCal](https://www.google.com/calendar/ical/rsf3mrfd9ogbq81vloolrvmigc@group.calendar.google.com/public/basic.ics) |  [CalDAV](https://gentsebc%2Eexternal%40gmail%2Ecom:DUqupre8@www.google.com/calendar/dav/rsf3mrfd9ogbq81vloolrvmigc@group.calendar.google.com/events) |
+| Gentse BC G-sport | https://calendar.google.com/calendar/u/0?cid=ZDA5ZmI4NGE2YzY5OTdmNDlkNzVkMmJiYzMyZDQwYTE4Y2Y2NDQ4MWE5MDA5NGMxMmM2MWZkZTRmNDE0N2U2ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t |  |   |
+<!---| officiële tornooien | 3j72eskldk70t4pl5jiqv21oa0@group.calendar.google.com | [iCal](https://www.google.com/calendar/ical/3j72eskldk70t4pl5jiqv21oa0@group.calendar.google.com/public/basic.ics) |  [CalDAV](https://gentsebc%2Eexternal%40gmail%2Ecom:DUqupre8@www.google.com/calendar/dav/3j72eskldk70t4pl5jiqv21oa0@group.calendar.google.com/events) |
+| recreatieve tornooien | 4b12h7rmo36unhddtfuqr33048@group.calendar.google.com | [iCal](https://www.google.com/calendar/ical/4b12h7rmo36unhddtfuqr33048@group.calendar.google.com/public/basic.ics) |  [CalDAV](https://gentsebc%2Eexternal%40gmail%2Ecom:DUqupre8@www.google.com/calendar/dav/4b12h7rmo36unhddtfuqr33048@group.calendar.google.com/events) |--->
 {{< /table >}}
+
+
+
 
 #### Android gebruikers (met google account)
 Volg instructies op [Google : De agenda van een kennis toevoegen](https://support.google.com/calendar/answer/37099?hl=nl&ref_topic=1672445).
