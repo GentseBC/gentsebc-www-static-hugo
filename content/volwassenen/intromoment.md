@@ -21,5 +21,12 @@ Regelmatig worden nieuwe introductiemomenten ingepland. Hou deze webpagina in de
 
 Dit intro-moment richt zich specifiek op de volwassenen. Jeugdspelers kunnen met hun vragen terecht bij Boye via jeugd@gentsebc.be
 
+{{< warning-text >}}
+⚠️  Renovatie Wielerpiste <br />
+Onze sporthal wordt gerenoveerd sept-nov 2023 en we kunnen hier tijdelijk niet spelen. Om die reden nemen we ook tijdelijk geen nieuwe leden aan tot de renovaties afgerond zijn, jammergenoeg.
+Houd zeker onze website in de gaten voor een update. Vanaf december kan je normaalgezien als nieuw lid aansluiten en een proefles meepikken. Sorry voor dit ongemak. 
+{{< /warning-text>}}
+
+
 
 {{< intro-form >}}
