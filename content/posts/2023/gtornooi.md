@@ -9,7 +9,7 @@ author: Secretaris
 ---
 
 Hopelijk heeft iedereen al wat kunnen genieten van de zon en de vakantie.
-Als herinnering aan het geweldige badmintontoernooi van 17 juni, willen we graag de foto's met jullie delen. Jullie vinden ook de rangschikking hier: https://www.gentsebc.be/gbad/tornooi2023/. 
+Als herinnering aan het geweldige badmintontoernooi van 17 juni, willen we graag de foto's met jullie delen. Jullie vinden ook de rangschikking hier: <a href="{{<ref "gbad/gtornooi2023">}}">gbad/gtornooi2023</a>. 
 
 Proficiat aan de winnaars, maar ook een bedankt aan iedereen die erbij was: voor de inzet en het enthousiasme, zowel op de trainingen als op het toernooi!  En niet te vergeten: ook een dankwoordje voor de supporters!
 

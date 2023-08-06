@@ -7,12 +7,8 @@ menu:
  main:
     parent: g-badminton
     weight: 20
-
-aliases:
-    - /gbad/tornooi2023
-
 ---
-Het G-tornooi was weer een geslaagde dag!
+Het G-tornooi was weer een geslaagde dag!!
 
 De uitslag vinden jullie hieronder en de foto's ook :)
 | Ranglijst                  |             |
@@ -37,6 +33,6 @@ De uitslag vinden jullie hieronder en de foto's ook :)
 
 {{< nano-gallery  >}}
 
-  {{< nano-album match-dir="gtornooi2023/*.jpg" front-img="gtornooi2023/start.jpg" id="1" title="G-tornooi 2023">}}
+  {{< nano-album match-dir="images/*.jpg" front-img="images/start.jpg" id="1" title="G-tornooi 2023">}}
 
 {{< /nano-gallery >}}
