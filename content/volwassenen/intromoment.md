@@ -23,7 +23,7 @@ Dit intro-moment richt zich specifiek op de volwassenen. Jeugdspelers kunnen met
 
 {{< warning-text >}}
 ⚠️  Renovatie Wielerpiste <br />
-Onze sporthal wordt gerenoveerd sept-nov 2023 en we kunnen hier tijdelijk niet spelen. Om die reden nemen we ook tijdelijk geen nieuwe leden aan tot de renovaties afgerond zijn, jammergenoeg.
+Omwille van renovaties aan onze sporthal kunenn we tot en met november 2023 hier niet spelen. Om die reden nemen we ook tijdelijk geen nieuwe leden aan tot de renovaties afgerond zijn, jammergenoeg.
 Houd zeker onze website in de gaten voor een update. Vanaf december kan je normaalgezien als nieuw lid aansluiten en een proefles meepikken. Sorry voor dit ongemak. 
 {{< /warning-text>}}
 
