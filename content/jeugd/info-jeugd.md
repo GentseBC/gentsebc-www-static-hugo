@@ -1,5 +1,5 @@
 ---
-title: "Info Jeugd"
+title: "Algemene info jeugd"
 date: 2023-06-11T15:52:17+02:00
 draft: false
 author: Secretaris

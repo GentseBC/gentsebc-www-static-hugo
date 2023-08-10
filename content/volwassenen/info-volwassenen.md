@@ -1,5 +1,5 @@
 ---
-title: "Info Volwassenen"
+title: "Info Volwassenen: competitiespelers en recreanten"
 date: 2022-05-25T15:52:10+02:00
 draft: false
 author: Secretaris

@@ -1,5 +1,5 @@
 ---
-title: "Speeluren VOLWASSENEN seizoen 2023-2024"
+title: "Speeluren  seizoen 2023-2024"
 date: 2023-06-20T15:49:05+02:00
 draft: false
 author: Secretaris

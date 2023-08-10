@@ -77,15 +77,7 @@ paginate = 10
     name = 'Competitie'
     weight=60
  
-  [[menu.main]]
-    identifier = 'tornooi'
-    name = 'Tornooi'
-    weight=61
-
-  [[menu.main]]
-    identifier = 'training'
-    name = 'Training'
-    weight=70
+  
 
   [[menu.main]]
     identifier = 'interne-werking'

@@ -1,5 +1,5 @@
 ---
-title: "Tornooi 2023"
+title: "G-bad Tornooi"
 date: 2023-07-20T15:50:16+02:00
 draft: false
 author: Secretaris
@@ -8,6 +8,7 @@ menu:
     parent: g-badminton
     weight: 20
 ---
+## Editie 2023
 Het G-tornooi was weer een geslaagde dag!!
 
 De uitslag vinden jullie hieronder en de foto's ook :)
@@ -29,7 +30,7 @@ De uitslag vinden jullie hieronder en de foto's ook :)
 
 
 
-<br><br><br>
+<br>
 
 {{< nano-gallery  >}}
 

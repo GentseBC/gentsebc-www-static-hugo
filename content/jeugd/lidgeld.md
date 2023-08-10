@@ -1,5 +1,5 @@
 ---
-title: "Lidgeld Jeugd seizoen 2023-2024"
+title: "Lidgeld jeugd seizoen 2023-2024"
 date: 2023-06-20T15:50:16+02:00
 draft: false
 

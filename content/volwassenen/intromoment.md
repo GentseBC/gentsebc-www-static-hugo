@@ -1,5 +1,5 @@
 ---
-title: "Introductie momenten voor volwassenen"
+title: "Introductiemomenten"
 date: 2022-08-08T15:51:40+02:00
 draft: false
 author: Secretaris
