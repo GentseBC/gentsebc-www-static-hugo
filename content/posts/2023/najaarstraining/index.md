@@ -7,6 +7,8 @@ carousel: true
 carousel_img: '/images/posts/shuttles_basket_chair.webp'
 author: Blomme Molenstra
 ---
+(English version below)
+
 Dag badmintonners,
 
 Binnenkort gaan we weer van start met de training. Door de werkzaamheden in de Wielerpiste wijken we tijdelijk uit naar [Atheneum Wispelberg](https://goo.gl/maps/rwe7TWoTNxWB4Wiy6) (Wispelbergstraat 2, 9000 Gent)
@@ -29,9 +31,8 @@ Inschrijven en betalen kan [hier](https://app.clubcollect.com/forms/nl-BE/gentse
 
 (Opgelet: Deze training is enkel toegankelijk voor leden van de Gentse BC. Lid worden doe je [hier]({{< relref "/lid-worden/inschrijvingsformulier" >}})
 
-=================================================
 
-(ENGLISH VERSION)
+*********** **English version**
 
 A new badminton season has arrived, and a new season = new training! We’re temporarly relocating to [Atheneum Wispelberg](https://goo.gl/maps/rwe7TWoTNxWB4Wiy6) (Wispelbergstraat 2, 9000 Gent) as our usual venue is being renovated.
 
