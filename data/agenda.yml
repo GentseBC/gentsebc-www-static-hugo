@@ -7,6 +7,10 @@ homepage:
     name: training
     src: h7fbpfklfespjs5c3nseqeneb4@group.calendar.google.com
     color: '#C0CA33'
+  - agenda:
+    name: 'jeugd'
+    src: 'rsf3mrfd9ogbq81vloolrvmigc@group.calendar.google.com'
+    color: '#8E24AA'
 nieuws:
   - agenda:
     name: 'algemeen'
