@@ -48,10 +48,14 @@ nieuws:
     name: 'Gentse 5H'
     src: 'c9r6nbhv7mvnkq51k2l7197euo@group.calendar.google.com'
     color: '#8E24AA'
+  #- agenda:
+  #  name: 'Gentse 6H'
+  #  src: 'ceh113h6js7crebpqo7ls4n31c@group.calendar.google.com'
+  #  color: '#9E69AF'
   - agenda:
-    name: 'Gentse 6H'
-    src: 'ceh113h6js7crebpqo7ls4n31c@group.calendar.google.com'
-    color: '#9E69AF'
+    name: 'Gentse 1D'
+    src: '5258frodbqmi535lshgsrr28t4@group.calendar.google.com'
+    color: '#E67C73'
   - agenda:
     name: 'Gentse 2D'
     src: 'mh9ji22d6s16j0clkcr0s2l488@group.calendar.google.com'
@@ -101,10 +105,14 @@ competitie:
     name: 'Gentse 5H'
     src: 'c9r6nbhv7mvnkq51k2l7197euo@group.calendar.google.com'
     color: '#8E24AA'
+  #- agenda:
+  #  name: 'Gentse 6H'
+  #  src: 'ceh113h6js7crebpqo7ls4n31c@group.calendar.google.com'
+  #  color: '#9E69AF'
   - agenda:
-    name: 'Gentse 6H'
-    src: 'ceh113h6js7crebpqo7ls4n31c@group.calendar.google.com'
-    color: '#9E69AF'
+    name: 'Gentse 1D'
+    src: '5258frodbqmi535lshgsrr28t4@group.calendar.google.com'
+    color: '#E67C73'
   - agenda:
     name: 'Gentse 2D'
     src: 'mh9ji22d6s16j0clkcr0s2l488@group.calendar.google.com'
@@ -139,4 +147,4 @@ gbadminton:
     src: 'l53h0hlcp0uhgpo7h796rf5bghhr7j8k@import.calendar.google.com'
     color: '#F6BF26'
 # Other color codes that can be used
-#   #E67C73   #F6BF26   #F6BF26
+# #F6BF26   #F6BF26
