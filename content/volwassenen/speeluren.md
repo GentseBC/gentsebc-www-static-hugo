@@ -25,7 +25,7 @@ aliases:
 {{< warning-text >}}
 ⚠️  Renovatie Wielerpiste <br />
 Door renovaties in de Wielerpiste kunnen we tot en met november niet spelen in de Wielerpiste. 
-Tijdens deze maanden (september-oktober-november 2023) spelen we op verschillende alternatieve locaties in Gent. 
+Tijdens deze maanden (september-oktober-november 2023) spelen we op verschillende alternatieve locaties in Gent. Alle leden krijgen een link naar SuperSaas waar je een tijdsslot kan reserveren. 
 {{< /warning-text>}}
 
 

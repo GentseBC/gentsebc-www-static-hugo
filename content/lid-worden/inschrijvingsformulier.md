@@ -15,7 +15,7 @@ Om de kwaliteit van de trainingen te garanderen, werken wij met een maximum aant
 
 {{< warning-text >}}
 ⚠️  VOLWASSENEN  <br />
-Omwille van renovatiewerken aan onze thuislocatie Wielerpiste kunnen wij tot en met november maar een beperkt aantal speelmomenten aanbieden. We ontvangen tijdens deze periode tijdelijk geen nieuwe leden meer. Aansluiten kan terug vanaf 1 december. Houd onze website in het oog voor verdere updates. 
+Omwille van renovatiewerken aan onze thuislocatie Wielerpiste kunnen wij tot en met november maar een beperkt aantal speelmomenten aanbieden. We ontvangen tijdens deze periode enkel nieuwe leden op de speelmomenten in de Topsporthal (maandag, woendag en donderdag). Vanaf 1 december kunnen we normaalgezien terug volgend ons oude regime spelen. Houd onze website in het oog voor verdere updates. 
 {{< /warning-text>}}
 
 <div class="alert-success"> ✅ G-SPORT    <br />
