@@ -6,7 +6,7 @@ categories: ['algemeen','jeugd']
 carousel: false
 author: Secretaris
 ---
-Zondag 15 oktober vond onze onze jeugdcup plaats. Het was een overweldigend succes met meer dan 100 inschrijvingen en 12 dappere Gentse BC'ers! Van negen uur ’s ochtends tot zes uur ’s avonds gaven alle jeugdspelers het beste van zichzelf wat resulteerde in een heel leuke dag voor de spelers, de coaches, de ouders en voor ons natuurlijk. Aan alle deelnemers proficiat! Hieronder de foto’s van de winnaars.
+Zondag 15 oktober vond onze onze jeugdcup plaats. Het was een overweldigend succes met meer dan 100 inschrijvingen en 12 dappere Gentse BC'ers! Van negen uur ’s ochtends tot zes uur ’s avonds gaven alle jeugdspelers het beste van zichzelf wat resulteerde in een heel leuke dag voor de spelers, de coaches, de ouders en voor ons natuurlijk. Aan alle deelnemers proficiat! Hieronder de foto’s van de winnaars en enkele sfeerbeelden.
 
 
 {{< nano-gallery  >}}
