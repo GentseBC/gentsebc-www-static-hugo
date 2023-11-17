@@ -16,17 +16,13 @@ aliases:
 {{< table table table-striped table-bordered >}}
 | Dag      | Uren | Locatie | 
 | ----------- | ----------- | ----------- |
-| maandag | 20u00-22u00 | ⚠️ Wielerpiste (6 velden) | 
-| woensdag | 20u00-22u00 | ⚠️ Wielerpiste (volledig, 12 velden) | 
-| vrijdag | 19u00-22u00 | ⚠️ Wielerpiste (volledig, 12 velden) | 
+| maandag | 20u00-22u00 | Wielerpiste (6 velden) | 
+| woensdag | 20u00-22u00 | Wielerpiste (volledig, 12 velden) | 
+| vrijdag | 19u00-22u00 | Wielerpiste (volledig, 12 velden) | 
 | zondag | 19u00-22u00 | Bourgoyen  (volledig, 12 velden) | 
 {{< /table >}}
 
-{{< warning-text >}}
-⚠️  Renovatie Wielerpiste <br />
-Door renovaties in de Wielerpiste kunnen we tot en met november niet spelen in de Wielerpiste. 
-Tijdens deze maanden (september-oktober-november 2023) spelen we op verschillende alternatieve locaties in Gent. Alle leden krijgen een link naar SuperSaas waar je een tijdsslot kan reserveren. 
-{{< /warning-text>}}
+
 
 
 Raadpleeg de kalender op de homepagina voor de dagen waarop uitzonderlijk niet kan gespeeld worden.

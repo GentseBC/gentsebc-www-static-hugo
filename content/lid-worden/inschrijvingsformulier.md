@@ -13,13 +13,6 @@ De inschrijvingen voor het seizoen 2023-2024 werden afgesloten.
 Om de kwaliteit van de trainingen te garanderen, werken wij met een maximum aantal leden. Momenteel zijn alle jeugdgroepen volzet en hebben we al een lange wachtlijst. Ook de wachtlijst werd daarom tijdelijk afgesloten. Houd onze website in het oog voor verdere updates. 
 {{< /warning-text>}}
 
-{{< warning-text >}}
-⚠️  VOLWASSENEN  <br />
-Omwille van renovatiewerken aan onze thuislocatie Wielerpiste kunnen wij tot en met november maar een beperkt aantal speelmomenten aanbieden. We ontvangen tijdens deze periode enkel nieuwe leden op de speelmomenten in de Topsporthal (maandag, woendag en donderdag). Vanaf 1 december kunnen we normaalgezien terug volgend ons oude regime spelen. Houd onze website in het oog voor verdere updates. 
-{{< /warning-text>}}
-
-<div class="alert-success"> ✅ G-SPORT    <br />
-G-sporters spelen in de Topsporthal, voor deze groep kan er wel nog ingeschreven worden. Welkom!   </div>  
 
    <br /> <br />Wens je lid te worden van Gentse BC? Vul dan hier je gegevens in.
 Gelieve enkel dit formulier in te vullen indien je definitief lid wenst te worden, aangezien hiermee jouw lidmaatschap bij de Badminton Federatie vastgelegd wordt. 
