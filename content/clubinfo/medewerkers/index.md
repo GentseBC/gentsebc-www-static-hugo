@@ -83,14 +83,19 @@ De avondverantwoordelijken zijn te bereiken op volgend emailadres: avondverantwo
 # Aanspreekpersoon integriteit (API)
 Een belangrijke schakel in het voorkomen en opvangen van grensoverschrijdend gedrag, is een aanspreekpunt integriteit (API). Ongepast gedrag gezien of meegemaakt in de club en je wil dit melden? Dan is deze persoon (API) het eerste aanspreekpunt waarbij je terecht kan. Wij hopen hiermee als sportclub inzetten op een veilige en respectvolle omgeving voor alle leden!
 
-Elena Kuypers is de AanspreekPersoon Integriteit (API) van Gentse BC. Als sporter, ouder, trainer, bestuurder of vrijwilliger van onze club kan je bij haar terecht met een vraag, vermoeden of klacht over grensoverschrijdend gedrag. Je kan een mailtje sturen (api@gentsebc.be) of bellen op 0472/426874. Elena is ook aanwezig op verschillende speelmomenten en ook daar kan je haar persoonlijk aanspreken.
-
-De club-API luistert naar je vraag of verhaal, behandelt jouw melding in alle discretie en bespreekt de mogelijke vervolgstappen of doorverwijzing. Elena maakt geen deel uit van het bestuur (maar kan eventueel wel een boodschap doorgeven als je dit wenst) zodat je in alle vertrouwen bij haar terecht kan met jouw probleem. 
- 
-
+Elena Kuypers is de AanspreekPersoon Integriteit (API) van Gentse BC. Als sporter, ouder, trainer, bestuurder of vrijwilliger van onze club kan je bij haar terecht met een vraag, vermoeden of klacht over grensoverschrijdend gedrag. De club-API luistert naar je vraag of verhaal, behandelt jouw melding in alle discretie en bespreekt de mogelijke vervolgstappen of doorverwijzing. Elena maakt geen deel uit van het bestuur (maar kan eventueel wel een boodschap doorgeven als je dit wenst) zodat je in alle vertrouwen bij haar terecht kan met jouw probleem. In deze [folder]({{< sp >}}/docs/SSA-API.pdf)  stelt ze zichzelf voor.
 {{< container-row >}}
     {{< card-in-column img="images/elena.jpg" title="Elena Kuypers" >}}
       API
     {{< /card-in-column >}}
 
 {{< /container-row >}}
+
+
+# Werkgroepen
+Inspraak binnen onze vereniging is zeker belangrijk. De stap naar “zetelen binnen de Raad van Bestuur” is voor sommigen soms te tijdrovend en ook niet nodig om ideeën te lanceren binnen de Gentse BC.
+
+Zo zijn er altijd lopende werkgroepen waar we een helpende hand kunnen gebruiken. vb meehelpen op een tornooi, organisatie van een seizoens bbq of intern tornooi, ....
+
+We houden ons ook bezig met de immer durende zoektocht naar extra sponsoring. Heb je interesse om hieromtrent mee te denken: laat je dan zeker horen.
+Ook het uitstippelen van een goede communicatiemethode binnen de steeds veranderende wereld van de technologie drong zich al een tijdje op. Er werd  een [communicatiematrix]({{< sp >}}/docs/20130526_COMMUNICATIEMATRIX_GENTSEBC.xlsx) opgesteld. Nog vragen hieromtrent? Eén adres: secretaris@gentsebc.be

@@ -5,11 +5,11 @@ draft: false
 
 menu:
   main:
-    parent: interne-werking
-    weight: 50
+    parent: clubinfo
+    weight: 70
 
 aliases:
-    - /privacyverklaring/
+    - /club-gegevens/privacy/   
 ---
 
 
