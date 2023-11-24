@@ -3,7 +3,7 @@ title: "Gentse BC BBQ op 2 sept 2023"
 date: 2023-08-03T10:07:44+02:00
 draft: false
 categories: ['algemeen']
-carousel: true
+carousel: false
 carousel_img: '/images/posts/bbq.jpg'
 author: Secretaris
 
