@@ -78,12 +78,6 @@ paginate = 10
     weight=60
  
   
-
-  [[menu.main]]
-    identifier = 'interne-werking'
-    name = 'Interne werking'
-    weight=80
-
   [[menu.main]]
     identifier = 'contact'
     name = 'Contact'

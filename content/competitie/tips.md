@@ -6,8 +6,8 @@ author: 'Trainer Steven'
 
 menu:
   main:
-    parent: 'tornooi'
-    weight: 30
+    parent: competitie
+    weight: 60
 
 ---
 

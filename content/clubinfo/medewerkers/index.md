@@ -52,10 +52,10 @@ Heb je een vraag, een probleem of wil je je mening over iets kwijt? Kijk op deze
 Onze groep trainers is razend enthousiast! Graag willen ze hun passie aan jou overbrengen. Iedereen is welkom op de trainingen; van jong tot oud en van absolute beginners tot (ver)gevorderden. Voor onze jongste spelertjes vanaf 10 jaar zorgen we voor het aanleren van de sport die aansluit bij hun leefwereld.
 
 {{< container-row >}}
+   {{< card-in-column n="4" img="images/bert.jpg" title="Bert Mullaert" />}}
     {{< card-in-column n="4" img="images/steven.jpg" title="Steven Verbruggen" />}}
     {{< card-in-column n="4" img="images/joachim.jpg" title="Joachim Bonte" />}}
-    {{< card-in-column n="4" img="images/bert.jpg" title="Bert Mullaert" />}}
-    {{< card-in-column n="4" img="images/alwin.jpg" title="Alwin De Moor" />}}
+       {{< card-in-column n="4" img="images/pepijn.jpg" title="Pepijn Van Rossom" />}}
 {{< /container-row >}}
 
 # Medewerkers

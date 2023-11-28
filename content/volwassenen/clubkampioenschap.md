@@ -6,8 +6,8 @@ author: 'Secretaris'
 
 menu:
   main:
-    parent: 'tornooi'
-    weight: 30
+    parent: volwassenen
+    weight: 70
 ---
 
 Het clubkampioenschap (CK) is in de eerste plaats bedoeld voor alle Gentse BC spelers, die eens voor “echt” tegen elkaar willen spelen of die eens een aantal spelers willen uitdagen. Of je wilt gewoon op onze erelijst terechtkomen.
