@@ -10,7 +10,7 @@ Op 4 februari 2024 heeft ons jaarlijks FUNtornooi terug plaats, de 15e editie al
 
 Alle wedstrijden worden in poule gespeeld. De deelnemers worden opgedeeld in 4 niveaus: beginners, middelmatig, goed en sterk. Je mag dus gerust vrienden en familie meebrengen, kortom iedereen is welkom die op een recreatieve manier wil spelen.<br>
 
-Prijs: €7 voor 1 discipline, €12 voor 2 disciplines. Te betalen in de zaal op de dag zelf (cas of payconiq).
+Prijs: €7 voor 1 discipline, €12 voor 2 disciplines. Te betalen in de zaal op de dag zelf (cash of payconiq).
 
 Inschrijven kan makkelijk door te mailen naar voorzitter@gentsebc.be  of online via https://www.toernooi.nl/tournament/47192074-8129-4852-83E6-872661460BAC
 
