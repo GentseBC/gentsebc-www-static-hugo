@@ -3,7 +3,8 @@ title: "15de FUNtoernooi van Gentse BC op zondag 4 februari 2024"
 date: 2023-12-17T18:45:00+01:00
 draft: false
 categories: ['algemeen']
-carousel: false
+carousel: true
+carousel_img: '/images/posts/shuttles_basket_chair.webp'
 author: Secretaris
 ---
 Op 4 februari 2024 heeft ons jaarlijks FUNtornooi terug plaats, de 15e editie al !!! 
@@ -18,4 +19,5 @@ Inschrijven kan makkelijk door te mailen naar voorzitter@gentsebc.be  of online 
 
 Geef de namen van beide personen door, een emailadres en het niveau waarvoor je wenst in te schrijven, alsook de discipline (dames, heren of gemengd)
 
-Inschrijven kan tem 21 januari 2024.
+Inschrijven kan tem 21 januari 2024.<br>
+![Flyer](./flyer2024.jpg)
