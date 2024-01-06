@@ -3,7 +3,7 @@ title: "Najaars training 2023"
 date: 2023-08-12T22:07:44+02:00
 draft: false
 categories: ['algemeen']
-carousel: true
+carousel: false
 carousel_img: '/images/posts/shuttles_basket_chair.webp'
 author: Blomme Molenstra
 ---
