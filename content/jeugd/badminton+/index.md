@@ -17,10 +17,11 @@ aliases:
 Onze club heeft met trots het Jeugdbadminton C+ label behaald! <br><br>
 ![Badminton+](/images/Logo_Bad_PlusC.png)
 
- 
 
 Jeugdbadminton+ is een project van Badminton Vlaanderen met steun van de Vlaamse Gemeenschap. 
 Dit jeugdsportfonds focust zich op  Vlaamse badmintonclubs om hun initiatieven te ontplooien die hun jeugdwerking kwalitatief verbeteren, in  het bijzonder aan de kwalitatieve verbetering ervan.<br>
-Wil je meer weten over alle facetten van dit label? Verdere info vind je op de site van badmintonplus https://www.jeugdbadmintonplus.be/.
+Wil je meer weten over alle facetten van dit label? Verdere info vind je op de site van [badmintonplus](https://www.jeugdbadmintonplus.be/).
 
-![Vlaamse Gemeenschap](../../static/images/SportVlaanderen.png)![BadmintonVlaanderen](../../static/images/BadVla_Lang-2.png)
+
+{{< imgresize "images/SportVlaanderen.png" "350x">}}
+{{< imgresize "images/BadVla_Lang-2.png" "350x">}}
