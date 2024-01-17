@@ -13,13 +13,9 @@ aliases:
     - /jeugd/label/     
 ---
 
-
-
-
-
 # Gentse BC verdient kwaliteitslabel C+ voor zijn jeugdwerking <br />
 Onze club heeft met trots het Jeugdbadminton C+ label behaald! <br><br>
-![Badminton+](../../static/images/Logo_Bad_PlusC.png)
+![Badminton+](/images/Logo_Bad_PlusC.png)
 
  
 
