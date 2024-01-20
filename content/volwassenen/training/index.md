@@ -20,7 +20,7 @@ Deze training staat open voor zowel competitiespelers als recreanten. Een eerste
 <br><br>
 # Trainingsmateriaal
 ## BWF level 1 (Groep 1: initiatie + gevorderd)
-Bekijk de 32 BWF(Badminton World Federation) video’s van alle lesmaterie: grepen, footwork, slagen in voor, midden -en achterveld en biomechanica + tactiek. Al deze materie zal tijdens de 12 trainingslessen aan bod komen. <br>
+Bekijk de 32 BWF(Badminton World Federation) video’s van alle lesmaterie: grepen, footwork, slagen in voor, midden -en achterveld en biomechanica + tactiek. Al dit materie zal tijdens de 12 trainingslessen aan bod komen. <br>
 Nota: bij de “slagen”-video’s is er GEEN stembegeleiding.
 
 {{< bwf-trainings-materlaal level="level1">}}
