@@ -183,7 +183,7 @@ function sendIntroNotificationMail($field_data) {
 }
 
 function getIntroPost() {
-	$data = getDatabase()->all('select DATE_FORMAT(intro_date,"%a %d %b %Y") as intro_date, name from form_intro where intro_date > now() ORDER BY intro_date ASC');
+	$data = getDatabase()->all('select DATE_FORMAT(intro_date,"%a %d %b %Y") as intro_date, name from form_intro where intro_date > now() - INTERVAL 90 DAY ORDER BY intro_date ASC');
 
     header("Content-type: text/html");
     //header("Content-Disposition: attachment; filename=intro_data.html");
