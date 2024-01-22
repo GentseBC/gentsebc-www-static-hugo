@@ -3,7 +3,7 @@ title: "Kamasha gaat naar de Olympische Spelen!"
 date: 2023-07-27T10:07:44+02:00
 draft: false
 categories: ['algemeen']
-carousel: true
+carousel: false
 carousel_img: '/images/posts/paris2024.jpg'
 author: Secretaris
 ---
