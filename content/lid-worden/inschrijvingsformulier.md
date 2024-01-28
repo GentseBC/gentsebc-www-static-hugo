@@ -7,11 +7,6 @@ aliases:
     - /inschrijvingsformulier/  
 ---
 
-{{< warning-text >}}
-⚠️  JEUGD <br />
-De inschrijvingen voor het seizoen 2023-2024 werden afgesloten. 
-Om de kwaliteit van de trainingen te garanderen, werken wij met een maximum aantal leden. Momenteel zijn alle jeugdgroepen volzet en hebben we al een lange wachtlijst. Ook de wachtlijst werd daarom tijdelijk afgesloten. Houd onze website in het oog voor verdere updates. 
-{{< /warning-text>}}
 
 
    <br /> <br />Wens je lid te worden van Gentse BC? Vul dan hier je gegevens in.

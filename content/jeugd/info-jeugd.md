@@ -18,12 +18,7 @@ aliases:
 
 
 # JEUGD seizoen 2023-2024 <br />
-{{< warning-text >}}
-De inschrijvingen voor het seizoen 2023-2024 werden afgesloten. 
-Om de kwaliteit van de trainingen te garanderen, werken wij met een maximum aantal leden. Hierdoor zijn alle jeugdgroepen volzet en hebben we al een lange wachtlijst. Momenteel kan je je daardoor niet meer aansluiten bij onze club en hebben we een ledenstop ingevoerd. 
-{{< /warning-text>}}
-Voor bestaande leden wordt jouw inschrijving bevestigd zodra de betaling van het jaarlijkse lidgeld werd ontvangen. Houd onze website in het oog voor verdere updates. 
- <br />
+
 
 
  
