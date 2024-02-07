@@ -24,7 +24,7 @@ aliases:
  
 # INFO
 Kinderen en jongeren vanaf 10 jaar (vanaf 5e leerjaar) kunnen badmintonnen op woensdag (18u30-20u00 in de Wielerpiste) en/of zaterdag (10u-12u in de Bourgoyen).
-Onze club biedt helaas nog geen MiniBAD (badminton voor kinderen jonger dan 10 jaar) aan.
+Onze club biedt helaas geen MiniBAD (badminton voor kinderen jonger dan 10 jaar) aan.
 
 Onze jeugd speelt in 2 groepen: een trainingsgroep en recreatieve groep. De speler kan zelf aangeven wat zijn/haar ambitie is binnen badminton. Recreatief blijven spelen is zeker mogelijk, er is geen automatische doorstroom naar de trainingsgroep bij bv. een bepaald niveau of de leeftijd als de speler dit niet wenst. Wisselen van groep kan elk semester. Door middel van aangepaste trainingen willen we sport, en in het bijzonder badminton, stimuleren bij kinderen en jongeren. We verkiezen een resultaat op lange termijn boven onmiddellijk succes.
 
@@ -48,7 +48,6 @@ Op de jeugdcup worden de kinderen zo vaak mogelijk vergezeld door een trainer/be
 * Geen buitenschoenen in de zaal. Enkel sportschoenen met witte zool zijn toegelaten. Deze doe je aan in de kleedkamers.
 * Na de training wordt het materiaal opgeruimd.
 
-Op woensdagavond is er een overlapmoment waarbij onze betere en oudere jeugdspelers samen met de volwassenen kunnen spelen indien zij dat wensen. Jeugdspelers krijgen in dat half uur voorrang om te spelen.
 
 # Benodigdheden
 
@@ -59,7 +58,7 @@ Op woensdagavond is er een overlapmoment waarbij onze betere en oudere jeugdspel
 
 # Interesse?
 
-Wens je lid te worden, dien je het inschrijvingsformulier in te vullen. Na betaling van uw lidgeld ben je officieel ingeschreven.  De kostprijs voor beide groepen (recreatief of intensief) is dezelfde. Voor deze prijs kan je 1 of 2 keer per week komen spelen.
+Wens je lid te worden, dien je het inschrijvingsformulier in te vullen. Na betaling van uw lidgeld ben je officieel ingeschreven.  Je kan 1 of 2 keer per week komen spelen.
 Heb je nog vragen? Contacteer ons gerust op jeugd@gentsebc.be of kom eens een keertje proefspelen (enkel in juni).
 
 

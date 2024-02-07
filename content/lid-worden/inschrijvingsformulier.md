@@ -16,6 +16,10 @@ We zenden je kort na het invullen van dit formulier een factuur via email toe vo
 
 Je hoeft dit formulier niet opnieuw in te vullen als je reeds lid bent van Gentse BC, jouw lidmaatschap wordt automatisch verlengd tenzij we een tegenbericht ontvangen natuurlijk. 
 
+> ☝️  Inschrijvingen voor de jeugd worden afgesloten in het begin van het seizoen. Contacteer de jeugdverantwoordelijke op jeugd@gentsebc.be indien je later op het jaar nog wil instappen of wil uitgenodigd worden voor een testmoment. 
+<br>
+
+
 
 
 {{< clubcollect-signup-iframe uuid="54d4930a-deae-4db2-ab1e-8e70907798c1" >}}
