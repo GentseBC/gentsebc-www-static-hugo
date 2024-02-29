@@ -33,6 +33,7 @@ Dus ken je iemand die misschien ook zin heeft om eens vrijblijvend te komen prob
 
 ## Lidgeld
 Het lidgeld voor G-badminton bedraagt € 80 voor een seizoen (van september tot juni). Hierin is inbegrepen: deelname aan alle speelmomenten (inclusief toernooi), begeleiding en verzekering bij Badminton Vlaanderen.
+Wens je aan te sluiten later op het jaar (vb vanaf januari), dan bedraagt het lidgeld 55 euro. 
 {{< figure src="images/UiTpas.jpg" width="50p">}}
 Heb je een UiTPAS en recht op kansentarief, dan krijg je 80% korting op het lidgeld. 
 

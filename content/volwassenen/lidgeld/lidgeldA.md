@@ -1,6 +1,6 @@
 ---
 title: "Lidgeld recreanten en competitiespelers seizoen 2023-2024"
-date: 2023-06-20T15:50:16+02:00
+date: 2024-02-27T15:50:16+02:00
 draft: false
 author: Secretaris
 
@@ -16,12 +16,12 @@ aliases:
 
 
 {{< table table table-striped table-bordered >}}
-|  | seizoen 2023-2024 | volwassenen competitie/tornooi | volwassenen recreant |
-| ----------- | ----------- | ----------- | ----------- |
-| 1 sept – 31 aug | volledig seizoen | 145 € (1 ploeg of enkel tornooien) <br> 170 € (2 ploegen) |  105 € |
-| 1 jan – 31 aug | 3/4 seizoen | 115 € |  80 € |
-| 1 april – 31 aug | half seizoen | 75 € |  55 € |
-| 1 juni – 31 aug | zomerseizoen | - |  35 € |
+|  | seizoen 2023-2024 | competitiespeler | tornooispeler | recreant |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1 sept – 31 aug | volledig seizoen | 145 € (1 ploeg) <br> 170 € (2 ploegen) | 125 € |  105 € |
+| 1 jan – 31 aug | 3/4 seizoen | 115 € | 105 €|  80 € |
+| 1 april – 31 aug | half seizoen | - | 80 €|  55 € |
+| 1 juni – 31 aug | zomerseizoen | - | - |  35 € |
 {{< /table >}}
 
 Competitiespelers betalen EUR 145,00 voor een volledig seizoen in 1 ploeg. Speel je in 2 competitieploegen (vb. heren en mix ploeg), dan betaal je EUR 170,00. 
