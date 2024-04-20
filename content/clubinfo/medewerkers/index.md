@@ -30,16 +30,8 @@ Heb je een vraag, een probleem of wil je je mening over iets kwijt? Kijk op deze
     {{< /card-in-column >}}
 
 
-    {{< card-in-column img="images/evi.jpg" title="Evi Weymaere" >}}
-      Penningmeester<br>financiën, lidgeldadministratie <br>penningmeester@gentsebc.be
-    {{< /card-in-column >}}
-
-    {{< card-in-column img="images/blomme.jpg" title="Blomme Molenstra" >}}
-      Training volwassenen<br>trainingen@gentsebc.be
-    {{< /card-in-column >}}
-
     {{< card-in-column img="images/elisa.jpg" title="Elisa Verhaeghe" >}}
-      Competitieverantwoordelijke<br> planning kalenders, wedstrijden en verplaatsingen<br>competitie@gentsebc.be
+      Penningmeester<br>financiën, Competitieverantwoordelijke, planning wedstrijkalender <br>penningmeester@gentsebc.be
     {{< /card-in-column >}}
 
     {{< card-in-column img="images/boye.jpg" title="Boye Buyens" >}}
