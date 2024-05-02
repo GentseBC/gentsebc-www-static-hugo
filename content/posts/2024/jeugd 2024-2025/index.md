@@ -3,7 +3,8 @@ title: "JEUGD seizoen 2024-2025"
 date: 2024-05-01T09:40:00+01:00
 draft: false
 categories: ['algemeen','jeugd']
-carousel: false
+carousel: true
+carousel_img: '/images/posts/shuttles_basket_chair.webp'
 author: Boye
 ---
 De inschrijvingen voor jeugdleden (vanaf 8 jaar) voor het seizoen 2024-2025 staan open!!

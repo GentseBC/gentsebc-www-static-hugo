@@ -3,7 +3,7 @@ title: "15de FUNtoernooi van Gentse BC op zondag 4 februari 2024"
 date: 2023-12-17T18:45:00+01:00
 draft: false
 categories: ['algemeen']
-carousel: true
+carousel: false
 carousel_img: '/images/posts/shuttles_basket_chair.webp'
 author: Secretaris
 ---
