@@ -28,12 +28,12 @@ Competitiespelers betalen EUR 145,00 voor een volledig seizoen in 1 ploeg. Speel
 Speel je officiële tornooien maar geen competitie, betaal je ook EUR 145,00. Dit omwille van het hogere bijdrage aan de badminton federatie.
 Het lidgeld van Gentse BC omvat ook de verzekering en aansluiting bij Badminton Vlaanderen.
 
-* geen gasttarief van toepassing voor zomerbadminton
+* geen gast- of kansentarief van toepassing voor zomerbadminton
 
 ## Uitpas
 {{< figure src="images/UiTpas.jpg" width="30%">}}
 
-Indien je aangesloten bent bij UiTPAS en in aanmerking komt voor het kansentarief, kan je ook bij Gentse BC een korting krijgen van 80% op het lidgeld. Heb je recht op een kansentarief via UiTPAS, vul zeker jouw uitpasnummer in bij je aanvraag tot lidmaatschap, of geef het door aan de penningmeester. Opgelet: het kansentarief wordt elk jaar opnieuw bekeken.
+Indien je aangesloten bent bij UiTPAS en in aanmerking komt voor het kansentarief, kan je ook bij Gentse BC een korting krijgen van 80% op het lidgeld. Heb je recht op een kansentarief via UiTPAS, vul zeker jouw uitpasnummer in bij je aanvraag tot lidmaatschap, of geef het door aan de penningmeester. Opgelet: het kansentarief wordt elk jaar opnieuw bekeken. De korting geldt niet voor spelers die enkel willen aansluiten voor zomerbadminton. 
 
 ## Gastspelers
 Badmintonners die al lid zijn van een andere club, aangesloten bij Badminton Vlaanderen, kunnen als gastlid bij de Gentse BC spelen en krijgen een korting op het lidgeld van EUR 15,00. Vermeld dan zeker je VBL lidnummer en de gegevens van de club waarbij je al lid bent op het inschrijvingsformulier.
