@@ -1,6 +1,6 @@
 ---
 title: "Lidgeld recreanten en competitiespelers seizoen 2023-2024"
-date: 2024-02-27T15:50:16+02:00
+date: 2024-06-12T15:50:16+02:00
 draft: false
 author: Secretaris
 
@@ -16,16 +16,16 @@ aliases:
 
 
 {{< table table table-striped table-bordered >}}
-|  | seizoen 2023-2024 | competitiespeler | tornooispeler | recreant |
+|  | seizoen 2024-2025 | competitiespeler | tornooispeler | recreant |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 sept – 31 aug | volledig seizoen | 145 € (1 ploeg) <br> 170 € (2 ploegen) | 125 € |  105 € |
-| 1 jan – 31 aug | 3/4 seizoen | 115 € | 105 €|  80 € |
+| 1 sept – 31 aug | volledig seizoen | 150 € (1 ploeg) <br> 175 € (2 ploegen) | 125 € |  105 € |
+| 1 jan – 31 aug | 3/4 seizoen | 120 € | 110 €|  85 € |
 | 1 april – 31 aug | half seizoen | - | 80 €|  55 € |
 | 1 juni – 31 aug | zomerseizoen* | - | - |  35 € |
 {{< /table >}}
 
-Competitiespelers betalen EUR 145,00 voor een volledig seizoen in 1 ploeg. Speel je in 2 competitieploegen (vb. heren en mix ploeg), dan betaal je EUR 170,00. 
-Speel je officiële tornooien maar geen competitie, betaal je ook EUR 145,00. Dit omwille van het hogere bijdrage aan de badminton federatie.
+Competitiespelers betalen EUR 150,00 voor een volledig seizoen in 1 ploeg. Speel je in 2 competitieploegen (vb. heren en mix ploeg), dan betaal je EUR 175,00. 
+Speel je officiële tornooien maar geen competitie, betaal je ook EUR 150,00. Dit omwille van het hogere bijdrage aan de badminton federatie.
 Het lidgeld van Gentse BC omvat ook de verzekering en aansluiting bij Badminton Vlaanderen.
 
 * geen gast- of kansentarief van toepassing voor zomerbadminton

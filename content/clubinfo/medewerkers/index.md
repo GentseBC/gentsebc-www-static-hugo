@@ -41,7 +41,7 @@ Heb je een vraag, een probleem of wil je je mening over iets kwijt? Kijk op deze
 {{< /container-row >}}
 
 # Trainers
-Onze groep trainers is razend enthousiast! Graag willen ze hun passie aan jou overbrengen. Iedereen is welkom op de trainingen; van jong tot oud en van absolute beginners tot (ver)gevorderden. Voor onze jongste spelertjes vanaf 10 jaar zorgen we voor het aanleren van de sport die aansluit bij hun leefwereld.
+Onze groep trainers is razend enthousiast! Graag willen ze hun passie aan jou overbrengen. Iedereen is welkom op de trainingen; van jong tot oud en van absolute beginners tot (ver)gevorderden. 
 
 {{< container-row >}}
    {{< card-in-column n="4" img="images/bert.jpg" title="Bert Mullaert" />}}

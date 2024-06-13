@@ -29,11 +29,13 @@ Schrijf je hier in op de wachtlijst voor seizoen 2024-2025 en wordt uitgenodigd 
 # INFO
 Kinderen en jongeren vanaf 8 jaar kunnen badmintonnen op woensdag (18u30-20u00 in de Wielerpiste). De minimumleeftijd op zaterdag (10-12u, Bourgoyen) is 10 jaar.  
 
-Onze jeugd speelt in 2 groepen: een trainingsgroep en recreatieve groep. De speler kan zelf aangeven wat zijn/haar ambitie is binnen badminton. Recreatief blijven spelen is zeker mogelijk, er is geen automatische doorstroom naar de trainingsgroep bij bv. een bepaald niveau of de leeftijd als de speler dit niet wenst. Wisselen van groep kan elk semester. Door middel van aangepaste trainingen willen we sport, en in het bijzonder badminton, stimuleren bij kinderen en jongeren. We verkiezen een resultaat op lange termijn boven onmiddellijk succes.
+De speler kan zelf aangeven wat zijn/haar ambitie is binnen badminton. recreatief  spelen of stevig doortrainen. Er is geen automatische doorstroom bij bv. een bepaald niveau of de leeftijd als de speler dit niet wenst. Door middel van aangepaste trainingen willen we sport, bewegen, en in het bijzonder badminton, stimuleren bij kinderen en jongeren. We verkiezen een resultaat op lange termijn boven onmiddellijk succes.
 
-* De recreatieve groep leert de badminton basisvaardigheden aan op een speelse manier en er is ruimte voor vrij spel. De recreatieve groep wordt altijd begeleid en technisch bijgestuurd.
+* Iedereen leert de badminton basisvaardigheden aan. De oefeningen zijn aangepast een de leeftijd en niveau van het kind en er is ruimte voor vrij spel. Alle groepen worden begeleid en technisch bijgestuurd.
 
-* Een gekwalificeerde trainer ontfermt zich over de trainingsgroep, deze trainingen zijn technischer. Aan spelertjes die zich bij de trainingsgroep willen voegen vragen we vooral inzet en regelmatige aanwezigheid op de speelmomenten. Vaak spelen deze kinderen ook al eens een jeugdcup (jeugdtornooi) mee, wat we zeker aanmoedigen.
+* Voor de meer gedreven spelers zijn de trainingen technischer. Van deze spelers vragen we inzet en regelmatige aanwezigheid op de speelmomenten. Vaak spelen deze kinderen ook al eens een jeugdcup (jeugdtornooi) mee, wat we zeker aanmoedigen. Doorstroming naar een competitieploeg is mogelijk en zal aangegeven worden door de trainers. 
+
+* Voor de oudere jeugd (16-18j), en zij die zeer sterk spelen, begeleiden we de overgang naar de volwassenen, zodat iedereen op zijn nieveau en met veel plezier kan verder blijven spelen. 
 
 * Sport toegankelijk maken en houden voor iedereen is een prioriteit van onze club. We houden het lidgeld zo laag mogelijk, maar bieden wel een training van uitstekende kwaliteit door ervaren en gediplomeerde trainers.
 

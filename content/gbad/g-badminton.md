@@ -1,6 +1,6 @@
 ---
 title: "Info G-badminton"
-date: 2023-06-20T15:50:16+02:00
+date: 2024-06-12T15:50:16+02:00
 draft: false
 author: Secretaris
 menu:

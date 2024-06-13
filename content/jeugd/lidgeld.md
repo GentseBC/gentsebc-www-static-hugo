@@ -1,6 +1,6 @@
 ---
-title: "Lidgeld jeugd seizoen 2023-2024"
-date: 2023-06-20T15:50:16+02:00
+title: "Lidgeld jeugd "
+date: 2024-06-12T15:50:16+02:00
 draft: false
 
 menu:
@@ -15,11 +15,11 @@ aliases:
 
 (jeugd = nog geen 18 jaar op 1/8)
 
-## Lidgeld
+## Lidgeld seizoen 2024-2025
 {{< table table table-striped table-bordered >}}
 |  | Jeugd -18, 1 speelmoment | Jeugd -18, 2 speelmomenten |
 | ----------- | ----------- | ----------- | ----------- |
-| volledig seizoen |  70 € |  105 € |
+| volledig seizoen |  75 € |  115 € |
 {{< /table >}}
 
 
