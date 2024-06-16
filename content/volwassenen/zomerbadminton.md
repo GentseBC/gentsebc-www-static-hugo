@@ -1,6 +1,6 @@
 ---
-title: "Zomerbadminton"
-date: 2023-07-12T05:49:05+02:00
+title: "Zomerbadminton volwassenen 2024"
+date: 2024-06-12T05:49:05+02:00
 draft: false
 author: Secretaris
 
@@ -15,25 +15,24 @@ aliases:
 
 
 
-## UPDATE
+<br>Vanaf 1/7/2024 schakelen we over naar zomermodus, met andere speeluren en -locaties gedurende de maanden juli en augustus <br>
 
-Zomerbadminton volwassenen 2023
-Vanaf 1/7 schakelen we over naar zomermodus, met andere speeluren en -locaties gedurende de maanden juli en augustus <br>
+    - Juli: We spelen 2x per week in de Rozebroeken, op dinsdag en vrijdag, telkens van 20-22u, terrein A+B. 
 
-In __juli__ spelen we op _dinsdag en vrijdag_ in LAGO Rozebroeken, delen A en B, van 20u-22u<br>
-Speelavonden: 4/7, 7/7, 11/7, 14/7, 18/7, 21/7, 25/7, 28/7 en *maandag* 31/7<br>
-⚠️ Opgelet, op _dinsdag 4/7_ spelen we uitzonderlijk in de _balsportzaal_<br>
-⚠️ Op _maandag 31/7_ spelen we van _19-21u_ in de _balsportzaal_
+    - Augustus: In Augustus spelen we 2x per week in de sporthal van Artevelde, campus Watersportbaan, op dinsdag en donderdag. 
+    Eenmalig spelen we in de GUSB, en dat op dinsdag 6 aug. De speeluren zijn ook van 20 tot 22u (terrein A + B).
+    
+    speeldagen Artevelde:
+      * di 13 aug
+      * di + do 20 + 22 aug
+      * di + do 27 + 29 aug
+      * di + do 3 + 5 sept
+      * di + do 10 + 12 sept
 
-In __augustus__ spelen we 
-Elke maandag in sporthal GUSB, deel A, van 20u-22u.<br>
-Op woensdag 2/8  in Bourgoyen, deel A+B, van 20u-22u<br>
-Op woensdag 9/8, 23/8 en 30/8  in sporthal Driebeek, deel A+C, van 20u-22u<br>
-Op vrijdag  4/8 in sporthal Bourgoyen, deel B+C, van 20u-22u.<br>
-Op vrijdag 18/8 en 25/8 spelen we in Tondelier, van 20-22u<br>
+    - September: De Wielerpiste opent terug vanaf 16 september 2024 zijn zalen. 
+    Geen nood: op dinsdag en donderdag 3/5/10/12 september kunnen we nog terecht in de sporthal van Artevelde Hogeschool. 
 
+ 
+--> raadpleeg zoals steeds de actuale speelkalender op onze homepagen of nog makkelijk, importeer 'em meteen in je smartphone!
+https://calendar.google.com/calendar/u/0?cid=Z2VudHNlYmNAZ21haWwuY29t
 
-
-
-Zonnige groetjes,<br>
-het bestuur
