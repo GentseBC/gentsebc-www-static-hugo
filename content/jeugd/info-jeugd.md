@@ -18,11 +18,7 @@ aliases:
 
 
 # JEUGD seizoen 2024-2025 <br />
-
-
-# Interesse om te badmintonnen bij Gentse BC?
-Schrijf je hier in op de wachtlijst voor seizoen 2024-2025 en wordt uitgenodigd voor een proeftraining in juni:  https://forms.gle/V4CphYhmWwFCLTze6
-<p> vragen? Contacteer ons gerust via jeugd@gentsebc.be 
+De inschrijvingen voor dit seizoen voor nieuwe spelers zijn afgesloten. We werken met een wachtlijst. Gelieve het bestuur te contacteren via jeugd@gentsebc.be 
 
 
  

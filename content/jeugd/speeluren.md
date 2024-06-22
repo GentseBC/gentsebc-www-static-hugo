@@ -17,8 +17,8 @@ aliases:
 | Leeftijd      | Dag | Uren | Locatie  | 
 | ----------- | ----------- | ----------- | -----------|
 | MiniBad (8-10 jaar) | woensdag | 18u30-20u00 | Wielerpiste (Blaarmeersen)
-| Badminton (+10 jaar) | woensdag | 18u30-20u00 | Wielerpiste (Blaarmeersen)
-| Badminton (+10 jaar)    | zaterdag        | 10u00-12u00 | Bourgoyen
+| Badminton +10 jaar | woensdag | 18u30-20u00 | Wielerpiste (Blaarmeersen)
+| Badminton +10 jaar    | zaterdag        | 10u00-12u00 | Bourgoyen
 {{< /table >}}
 
 
