@@ -1,5 +1,5 @@
 ---
-title: "Lidgeld recreanten en competitiespelers seizoen 2023-2024"
+title: "Lidgeld recreanten en competitiespelers"
 date: 2024-06-12T15:50:16+02:00
 draft: false
 author: Secretaris
