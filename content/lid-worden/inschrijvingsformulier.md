@@ -16,7 +16,7 @@ We zenden je kort na het invullen van dit formulier een factuur via email toe vo
 
 Je hoeft dit formulier niet opnieuw in te vullen als je reeds lid bent van Gentse BC, jouw lidmaatschap wordt automatisch verlengd tenzij we een tegenbericht ontvangen natuurlijk. 
 
-> ☝️  Inschrijvingen voor de jeugd gaan via een aparte wachtlijst --> Schrijf je hier in op de wachtlijst en proefmoment in juni 2024: https://forms.gle/V4CphYhmWwFCLTze6  
+> ☝️  Inschrijvingen voor de jeugd voor nieuwe leden gaan via een aparte wachtlijst --> Schrijf je hier in op de wachtlijst door te mailen naar jeugd@gentsebc.be  
 <br>
 
 
