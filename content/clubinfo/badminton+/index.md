@@ -1,5 +1,5 @@
 ---
-title: "Badminton+ kwaliteitslabel C+ voor de jeugdwerking"
+title: "Kwaliteitslabel C+ voor de jeugdwerking"
 date: 2024-01-17T05:52:17+02:00
 draft: false
 author: Secretaris
