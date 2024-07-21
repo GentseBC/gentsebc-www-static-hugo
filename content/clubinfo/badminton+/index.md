@@ -6,15 +6,14 @@ author: Secretaris
 
 menu:
   main:
-    parent: Jeugd
-    weight: 15
+    parent: clubinfo
+    weight: 40
 
 aliases:
-    - /jeugd/label/     
+    - /club-gegevens/label/   
 ---
 
 # Gentse BC verdient kwaliteitslabel C+ voor zijn jeugdwerking <br />
-Onze club heeft met trots het Jeugdbadminton C+ label behaald! <br><br>
 ![Badminton+](/images/Logo_Bad_PlusC.png)
 
 

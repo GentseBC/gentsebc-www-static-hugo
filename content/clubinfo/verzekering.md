@@ -6,7 +6,7 @@ draft: false
 menu:
   main:
     parent: clubinfo
-    weight: 50
+    weight: 60
 
 aliases:
     - /club-gegevens/verzekering/ 
