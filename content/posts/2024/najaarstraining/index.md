@@ -3,7 +3,7 @@ title: "Najaarstraining sept-dec 2024"
 date: 2024-09-01T09:40:00+01:00
 draft: false
 categories: ['algemeen']
-carousel: false
+carousel: true
 carousel_img: '/images/posts/shuttles_basket_chair.webp'
 author: secretaris
 ---
