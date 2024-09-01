@@ -22,9 +22,7 @@ plaats: Topsporthal, Zuiderlaan 14, 9000 Gent van 10-12u (eerste verdieping)
 
 Wie een Uitpas heeft en recht op kansentarief krijgt 80% korting.
 
-speeldagen: zie bijlage (wijzigingen zullen tijdig worden meegedeeld)
-
-afspraken: zie bijlage
+speeldagen en afspraken: kalender wordt apart doorgemaild en beschikbaar op twizzit
 
 
 We hopen dat jullie komend seizoen terug van de partij zullen zijn en verwelkomen graag ook nieuwe spelers!
@@ -47,12 +45,8 @@ De bestaande én de nieuwe spelers zullen in de loop van september een uitnodigi
 
 Om ieders spelplezier te garanderen en om de organisatie praktisch haalbaar te houden, werken we met een maximaal aantal inschrijvingen.
 
-## Afspraken
-In [bijgevoegd document]({{< sp >}}/docs/Afspraken G-badminton.pdf) kan je de afspraken vinden die door de leden moeten worden nageleefd.
 
 ## Meer informatie of eens proberen?
 Twijfel je of het iets voor jou is? Je mag 3 keer proberen alvorens je lid te maken.
 Wens je meer informatie? Stuur gerust een mailtje naar gbadminton@gentsebc.be!
 
-## Kalender
-{{< gcalendar-iframe set="gbadminton" mode="AGENDA" height="600">}}   Je kan de [speelkalender]({{< sp >}}/docs/2023_2024_Gspeelmomenten.pdf) ook  downloaden. 
