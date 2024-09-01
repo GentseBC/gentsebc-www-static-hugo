@@ -11,7 +11,9 @@ aliases:
 
    <br /> <br />Wens je lid te worden van Gentse BC? Vul dan hier je gegevens in.
 Gelieve enkel dit formulier in te vullen indien je definitief lid wenst te worden, aangezien hiermee jouw lidmaatschap bij de Badminton Federatie vastgelegd wordt. 
-We zenden je kort na het invullen van dit formulier een factuur via email toe voor het lidgeld. De lidgelden worden geïnd door ClubCollect. Krijg je bericht van ClubCollect, weet dat dit geen spam is of anderszins :)
+We zenden je kort na het invullen van dit formulier een factuur via email toe voor het lidgeld. 
+
+Vanaf seizoen 2024-2025 werkt Gentse BC met Twizzit voor alle verdere ledencommunicatie. Een uitnodiginge voor de account wordt je na inschrijving toegestuurd. 
 
 
 > ☝️  ! Inschrijvingen voor de jeugd voor nieuwe leden gaan via een aparte wachtlijst --> Schrijf je hier in op de wachtlijst door te mailen naar jeugd@gentsebc.be  
