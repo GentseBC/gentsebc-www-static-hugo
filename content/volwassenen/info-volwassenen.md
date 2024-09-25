@@ -13,7 +13,7 @@ aliases:
 ---
 # Ons concept
 
-Iedereen is welkom bij Gentse BC, zowel competitief als recreatief, beginners en gevorderden. Er wordt geen startniveau verwacht, maar wel inzet bij het spelen.
+Iedereen is welkom bij Gentse BC, zowel competitief als recreatief, beginners en gevorderden. Er wordt geen startniveau verwacht, maar wel inzet bij het spelen. Volwassenen en jongeren vanaf 16 met een minimum spelniveau kunnen aansluiten bij de sessies.
 
 Ons concept is eenvoudig: je komt gewoon af naar een speelmoment en speelt dan een wedstrijd tegen de mensen op dat moment aanwezig. Iedereen speelt met iedereen (van ongeveer hetzelfde niveau). Zo verhoog je jouw spelniveau en leer je ook andere mensen kennen.
 

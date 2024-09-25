@@ -1,5 +1,5 @@
 ---
-title: "Speeluren jeugd "
+title: "Speeluren jeugd 2024-2025"
 date: 2024-06-12T15:49:05+02:00
 draft: false
 author: Secretaris
