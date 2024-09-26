@@ -16,8 +16,9 @@ Inschrijven voor het tornooi van Gentse BC op 13 okt kan via de site van [Badmin
 De inschrijvingen sluiten op zondag 6 oktober om 23:59.
 
 ! om in te schrijven heb je een account nodig bij BadmintonVlaanderen. Onderstaande handleiding helpt jou op weg. <p>
-[BadVlaManual]({{< sp >}}/docs/BadVlaManual.pdf) <p>
+![BadmintonVlaanderen Manual](./BadVlaManual.pdf) <p>
 Jouw VBL nummer kan je terugvinden in je twizzit account. In het menu ga je naar contact details. Scoll helemaal naar beneden. Daar staat het 'OLDID' van Badminton Belgium. Dat is jouw lidnummer. 
+voor de nieuwe leden (hebben mogelijks nog geen twizzit account) --> stuur even een mailtje naar info@gentsebc.be
 
 
 Groetjes en hopelijk tot dan!<br>
