@@ -31,7 +31,7 @@ De speler kan zelf aangeven wat zijn/haar ambitie is binnen badminton. recreatie
 
 * Voor de meer gedreven spelers zijn de trainingen technischer. Van deze spelers vragen we inzet en regelmatige aanwezigheid op de speelmomenten. Vaak spelen deze kinderen ook al eens een jeugdcup (jeugdtornooi) mee, wat we zeker aanmoedigen. Doorstroming naar een competitieploeg is mogelijk en zal aangegeven worden door de trainers. 
 
-* Voor de oudere jeugd (16-18j), en zij die zeer sterk spelen, begeleiden we de overgang naar de volwassenen, zodat iedereen op zijn nieveau en met veel plezier kan verder blijven spelen. 
+* Voor de oudere jeugd (16-18j), en zij die zeer sterk spelen, begeleiden we de overgang naar de volwassenen, zodat iedereen op zijn niveau en met veel plezier kan verder blijven spelen. 
 
 * Sport toegankelijk maken en houden voor iedereen is een prioriteit van onze club. We houden het lidgeld zo laag mogelijk, maar bieden wel een training van uitstekende kwaliteit door ervaren en gediplomeerde trainers.
 
@@ -52,10 +52,13 @@ Op de jeugdcup worden de kinderen zo vaak mogelijk vergezeld door een trainer/be
 
 # Benodigdheden
 
-* Badmintonracket
+*  Badmintonracket
 *  Sportschoenen, non marking: geen zwarte zolen
 *  Sportkledij
 *  Water om de dorst te lessen.
+
+Heb je nog geen raket kan je er eentje lenen op de introductiemomenten. Voor wie al lid is vragen we hun eigen materiaal mee te brengen.  
+
 
 
 # Verzekering
