@@ -13,10 +13,13 @@ aliases:
 Gelieve enkel dit formulier in te vullen indien je definitief lid wenst te worden, aangezien hiermee jouw lidmaatschap bij de Badminton Federatie vastgelegd wordt. 
 We zenden je kort na het invullen van dit formulier een factuur via email toe voor het lidgeld. 
 
-Vanaf seizoen 2024-2025 werkt Gentse BC met Twizzit voor alle verdere ledencommunicatie. Een uitnodiginge voor de account wordt je na inschrijving toegestuurd. 
+! Voor volwassenen die recreatief wensen te spelen, geldt er momenteel een LEDENSTOP/wachtlijst. Inschrijvingen via dit formulier moeten eerst bevestigd worden door de beheerder. Gelieve de bevestiging af te wachten alvorens naar een speelmoment te komen. Wegens het groot aantal nieuwe spelers zitten onze zalen momenteel propvol en zijn er te lange wachttijden om te kunnen spelen, vooral op maandag en woensdag. 
+
+Vanaf seizoen 2024-2025 werkt Gentse BC met Twizzit voor alle verdere ledencommunicatie. Een uitnodiging voor de account wordt je na inschrijving toegestuurd. 
 
 
-> ☝️  ! Inschrijvingen voor de jeugd voor nieuwe leden gaan via een aparte wachtlijst --> Schrijf je hier in op de wachtlijst door te mailen naar jeugd@gentsebc.be  
+> ☝️  ! Inschrijvingen voor de jeugd voor nieuwe leden gaan via een aparte wachtlijst --> Schrijf je in op de wachtlijst door te mailen naar jeugd@gentsebc.be  
+
 <br>
 
 

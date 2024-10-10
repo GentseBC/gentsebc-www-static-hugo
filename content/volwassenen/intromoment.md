@@ -21,7 +21,7 @@ Breng zeker jouw sportgerief (raket, shuttles, sportkledij en indoor sportschoen
 
 Regelmatig worden nieuwe introductiemomenten ingepland. Hou deze webpagina in de gaten wanneer de volgende introductiemomenten zullen doorgaan. 
 
-Het is mogelijk dat er geen toekomstige intro-momenten meer gepland zijn of dat de data niet passen. Contacteer ons dan vooraf even op info@gentsebc.be wanneer je graag wil langskomen voor een proefmoment en/of woordje uitleg, dan ontvangen we je graag persoonlijk. 
+Momenteel zijn er geen intromomenten meer gepland. Voor volwassenen die recreatief wensen te spelen, geldt er momenteel een ledenstop/wachtlijst. Wegens het groot aantal nieuwe spelers zitten onze zalen momenteel propvol en zijn er te lange wachttijden om te kunnen spelen. Houd onze website in de gaten om de capaciteit te kunnen opvolgen. 
 
 Dit intro-moment richt zich specifiek op de volwassenen. Jeugdspelers kunnen met hun vragen terecht bij Boye via jeugd@gentsebc.be
 
