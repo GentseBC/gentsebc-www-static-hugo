@@ -28,6 +28,7 @@ Is er geen intromoment in de nabije toekomst, dan mag je gewoon naar een speelmo
 Uiteraard geven we je graag een woordje uitleg en koppelen we je aan enkele mensen met vergelijkbaar spelniveau of ervaring indien nodig. Dan graag dan een seintje vooraf op info@gentsebc.be wanneer je graag zou langskomen.
 
 Wens je lid te worden, dien je het inschrijvingsformulier in te vullen. Je krijgt nadien een factuur toegestuurd. Na betaling van het lidgeld ben je officieel ingeschreven en kan je onbeperkt spelen bij ons.
+Opgelet, we hebben op dit moment een ledenstop ingevoerd voor recreatief spel. 
 
 # Lidgeld
 
