@@ -35,9 +35,6 @@ Het lidgeld van Gentse BC omvat ook de verzekering en aansluiting bij Badminton 
 
 Indien je aangesloten bent bij UiTPAS en in aanmerking komt voor het kansentarief, kan je ook bij Gentse BC een korting krijgen van 80% op het lidgeld. Heb je recht op een kansentarief via UiTPAS, vul zeker jouw uitpasnummer in bij je aanvraag tot lidmaatschap, of geef het door aan de penningmeester. Opgelet: het kansentarief wordt elk jaar opnieuw bekeken. De korting geldt niet voor spelers die enkel willen aansluiten voor zomerbadminton. 
 
-## Gastspelers
-Badmintonners die al lid zijn van een andere club, aangesloten bij Badminton Vlaanderen, kunnen als gastlid bij de Gentse BC spelen en krijgen een korting op het lidgeld van EUR 15,00. Vermeld dan zeker je VBL lidnummer en de gegevens van de club waarbij je al lid bent op het inschrijvingsformulier.
-De korting geldt niet voor spelers die enkel willen aansluiten voor zomerbadminton. 
 
 ## Betalingstermijn
 De betaling van het lidgeld is voldoende bewijs om lid te blijven van onze club of lid te worden.  Deze betaling ontvangen we dan ook graag binnen de 30 dagen na factuurdatum. Je krijgt hiervan elk jaar een factuur per email. Zorg er dus steeds voor dat jouw gegevens up to date zijn.
