@@ -4,15 +4,13 @@ date: 2023-12-07T10:07:44+02:00
 draft: false
 categories: ['algemeen']
 carousel: true
-carousel_img: '/images/posts/weneedyou.png'
+carousel_img: '/images/posts/weneedyou.jpg'
 author: Secretaris
 
 ---
 
 {{< warning-text >}}
-Wij zijn  op zoek naar bestuursleden:<br>
-* Een jeugdcoördinator: 1ste aanspreekpunt voor de trainers/jeugdspelers/ouders <br>
-* Een extra bestuurslid: variabele functies<br>
+Wij zijn  op zoek naar verschillende bestuursleden:<br>
 {{< /warning-text >}}
 
 Heb jij zin om bestuurslid of medewerker te worden van jouw fantastische club?

@@ -12,7 +12,7 @@ aliases:
    <br /> <br />Wens je lid te worden van Gentse BC? Vul dan hier je gegevens in.
 Gelieve enkel dit formulier in te vullen indien je definitief lid wenst te worden, aangezien hiermee jouw lidmaatschap bij de Badminton Federatie vastgelegd wordt. 
 Inschrijvingen gebeuren via Twizzit --> https://twizzit.com/go/InschrijvingGentseBC
-
+<p><p>
 
 ! Onze badmintonclub heeft de afgelopen tijd veel nieuwe leden mogen verwelkomen. Om ervoor te zorgen dat iedereen voldoende speelruimte heeft, hebben we tijdelijk een ledenstop ingevoerd. 
 <p>--> Volwassen recreanten kunnen zich nog wel inschrijven op de wachtlijst (kies hiervoor de optie wachtlijst). 
