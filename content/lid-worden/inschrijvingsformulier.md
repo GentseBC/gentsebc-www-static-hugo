@@ -15,10 +15,10 @@ Inschrijvingen gebeuren via Twizzit --> https://twizzit.com/go/InschrijvingGents
 
 
 ! Onze badmintonclub heeft de afgelopen tijd veel nieuwe leden mogen verwelkomen. Om ervoor te zorgen dat iedereen voldoende speelruimte heeft, hebben we tijdelijk een ledenstop ingevoerd. 
---> Volwassen recreanten kunnen zich nog wel inschrijven op de wachtlijst (kies hiervoor de optie wachtlijst). 
---> Voor de jeugd hebben we de wachtlijst helaas moeten sluiten wegens te grote interesse.
+<p>--> Volwassen recreanten kunnen zich nog wel inschrijven op de wachtlijst (kies hiervoor de optie wachtlijst). 
+<p>--> Voor de jeugd hebben we de wachtlijst helaas moeten sluiten wegens te grote interesse.
 
-Er is wel nog plaats voor G-sport. 
+<p>Er is wel nog plaats voor G-sport. 
 
 We danken iedereen voor het begrip en hopen binnenkort weer nieuwe leden te kunnen verwelkomen!
 
