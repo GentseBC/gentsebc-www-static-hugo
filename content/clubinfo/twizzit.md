@@ -25,6 +25,10 @@ Heb je geen uitnodigingsmail ontvangen? Ga naar twizzit via https://app.twizzit.
 Vie het shuttletje kom je in de agenda terecht. Hier kan je alle speelmomenten zien en de locatie wanneer er gebadmintond kan worden. 
 Je ziet hier enkel de agenda voor de groep waarvoor je ingeschreven bent (dus volwassenen zullen de jeugdkalender niet zien) en  activiteiten voor de hele club vb FUNtornooi. Voor sommige activiteiten moet je ook inschrijven, dus is duidelijk aangegeven als er een inschrijvingsformulier is. 
 
+Wil je de Gentse BC agenda synchroniseren met jouw persoonlijke agenda: zie hier een instructiefilmpje.
+https://www.youtube.com/watch?v=nl3h87faMzg&ab_channel=Twizzit
+
+
 
 ## Startscherm
 ![Twizzit](/images/Twizzit_start.jpeg)
