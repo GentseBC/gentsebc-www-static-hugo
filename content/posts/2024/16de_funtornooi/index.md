@@ -21,5 +21,11 @@ Inschrijven kan makkelijk door te mailen naar voorzitter@gentsebc.be  of nog mak
 
 Geef de namen van beide personen door, een emailadres en gsmnr van iedere speler en het niveau waarvoor je wenst in te schrijven, alsook de discipline (dames, heren of gemengd)
 
+! om online in te schrijven heb je een account nodig bij BadmintonVlaanderen. Op twizzit staat een handleiding bij "Media" als je niet goed weet hoe de account aan te maken. 
+ <p>
+Jouw VBL nummer kan je terugvinden in je twizzit account. In het menu ga je naar contact details. Scoll helemaal naar beneden. Daar staat het 'OLDID' van Badminton Belgium. Dat is jouw lidnummer. 
+voor de nieuwe leden (hebben mogelijks nog geen twizzit account) --> stuur even een mailtje naar info@gentsebc.be
+
+
 Tot dan !!
 ![Flyer](./funtornooi2025.jpeg)
