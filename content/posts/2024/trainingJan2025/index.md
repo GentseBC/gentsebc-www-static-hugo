@@ -9,7 +9,7 @@ author: secretaris
 ---
 
 
-Op vrijdag 24 januari gaat een tweede reeks traingingen door met Steven. 
+Vanaf januari gaat een tweede reeks traingingen door met Steven. 
 Deze training staat open voor zowel competitiespelers als recreanten. 
 De kostprijs is *55 euro voor de reeks. Hierin zijn de veren shuttles waarmee getraind wordt inbegrepen!
 
