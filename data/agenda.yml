@@ -1,28 +1,20 @@
 homepage:
   - agenda:
-    name: algemeen
-    src: gentsebc@gmail.com
+    name: 'twizzit volwassenen'
+    src: '2l08prgcjs85td5d62pbi2snqm0koj6q@import.calendar.google.com'
     color: '#F6BF26'
   - agenda:
-    name: training
-    src: h7fbpfklfespjs5c3nseqeneb4@group.calendar.google.com
-    color: '#C0CA33'
-  - agenda:
-    name: 'jeugd'
-    src: 'rsf3mrfd9ogbq81vloolrvmigc@group.calendar.google.com'
+    name: 'twizzit jeugd'
+    src: '28slvkett57tcftbhfg6afl5dioluboh@import.calendar.google.com'
     color: '#8E24AA'
 nieuws:
   - agenda:
-    name: 'algemeen'
-    src: gentsebc@gmail.com
+    name: 'twizzit volwassenen'
+    src: '2l08prgcjs85td5d62pbi2snqm0koj6q@import.calendar.google.com'
     color: '#F6BF26'
   - agenda:
-    name: 'training'
-    src: h7fbpfklfespjs5c3nseqeneb4@group.calendar.google.com
-    color: '#C0CA33'
-  - agenda:
-    name: 'jeugd'
-    src: 'rsf3mrfd9ogbq81vloolrvmigc@group.calendar.google.com'
+    name: 'twizzit jeugd'
+    src: '28slvkett57tcftbhfg6afl5dioluboh@import.calendar.google.com'
     color: '#8E24AA'
   - agenda:
     name: 'officiele tornooien'
@@ -144,7 +136,7 @@ competitie:
 gbadminton:
   - agenda:
     name: Speeldata G-badminton
-    src: 'l53h0hlcp0uhgpo7h796rf5bghhr7j8k@import.calendar.google.com'
+    src: 'a8d5rv4mn09nr97soatg64kfe01bq3ld@import.calendar.google.com'
     color: '#F6BF26'
 # Other color codes that can be used
 # #F6BF26   #F6BF26

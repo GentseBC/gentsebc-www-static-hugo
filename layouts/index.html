@@ -88,7 +88,24 @@
         </div>
     </div>
 
+    <div class="row mt-4">
+        <div class="col-md-12 text-center">
+            {{$urlparts := slice}}
+            {{ range $index, $data := index $.Site.Data.agenda.homepage}}
+            {{ $urlparts = $urlparts | append (printf "src=%s&color=%s" (.src | urlquery) (.color | urlquery)) }}
+            {{ end }}
+            {{ $gcalurlsuffix := delimit $urlparts "&"}}
 
+            <iframe src="//calendar.google.com/calendar/embed?height=650&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FBrussels&showTitle=0&showDate=1&showTabs=1&{{ safeURL $gcalurlsuffix }}"
+                    allowtransparency="true"
+                    style=" border:0 "
+                    scrolling="no"
+                    width="925"
+                    height="650"
+                    frameborder="0">
+            </iframe>
+        </div>
+    </div>
 
 </div>
 
