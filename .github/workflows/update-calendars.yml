@@ -1,4 +1,4 @@
-name: Update calendars (WIP)
+name: Update calendars
 on: 
   workflow_dispatch:
   schedule:
