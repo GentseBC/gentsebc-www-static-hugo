@@ -10,13 +10,13 @@ module.exports = async ({github, core, context, io, fetch, dayjs}) => {
     }
 
     async function fetchAll(fromDate,toDate) {
-        console.log('https://www.googleapis.com/calendar/v3/calendars/gentsebc%40gmail.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak');
-        console.log('https://www.googleapis.com/calendar/v3/calendars/rsf3mrfd9ogbq81vloolrvmigc%40group.calendar.google.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak');
-        console.log('https://www.googleapis.com/calendar/v3/calendars/d09fb84a6c6997f49d75d2bbc32d40a18cf64481a90094c12c61fde4f4147e6f%40group.calendar.google.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak');
+        console.log('https://www.googleapis.com/calendar/v3/calendars/2l08prgcjs85td5d62pbi2snqm0koj6q%40import.calendar.google.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak');
+        console.log('https://www.googleapis.com/calendar/v3/calendars/28slvkett57tcftbhfg6afl5dioluboh%40import.calendar.google.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak');
+        console.log('https://www.googleapis.com/calendar/v3/calendars/a8d5rv4mn09nr97soatg64kfe01bq3ld%40import.calendar.google.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak');
         const [adultResponse, youthResponse, gsportResponse] = await Promise.all([
-                                                                           fetch('https://www.googleapis.com/calendar/v3/calendars/gentsebc%40gmail.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak'),
-                                                                           fetch('https://www.googleapis.com/calendar/v3/calendars/rsf3mrfd9ogbq81vloolrvmigc%40group.calendar.google.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak'),
-                                                                           fetch('https://www.googleapis.com/calendar/v3/calendars/d09fb84a6c6997f49d75d2bbc32d40a18cf64481a90094c12c61fde4f4147e6f%40group.calendar.google.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak')
+                                                                           fetch('https://www.googleapis.com/calendar/v3/calendars/2l08prgcjs85td5d62pbi2snqm0koj6q%40import.calendar.google.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak'),
+                                                                           fetch('https://www.googleapis.com/calendar/v3/calendars/28slvkett57tcftbhfg6afl5dioluboh%40import.calendar.google.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak'),
+                                                                           fetch('https://www.googleapis.com/calendar/v3/calendars/a8d5rv4mn09nr97soatg64kfe01bq3ld%40import.calendar.google.com/events?orderBy=startTime&q=speelmoment&singleEvents=true&timeMax=' + dateToYMD(toDate) +'T00%3A00%3A00-00%3A00&timeMin='+ dateToYMD(fromDate) + 'T00%3A00%3A00-00%3A00&key=AIzaSyBRQRMJ_sZC4vIiPbtvyscTaXWknlp7Pak')
                                                                        ]);
 
         const adult = await adultResponse.json();
@@ -33,7 +33,7 @@ module.exports = async ({github, core, context, io, fetch, dayjs}) => {
         }
         lowerLocation = location.toLowerCase();
 
-        if (lowerLocation.indexOf("merckx") !== -1) {
+        if (lowerLocation.indexOf("merckx") !== -1 || lowerLocation.indexOf("wielerpiste") !== -1) {
             return "wielerpiste";
         } else if (lowerLocation.indexOf("bourgoyen") !== -1) {
             return "bourgoyen";

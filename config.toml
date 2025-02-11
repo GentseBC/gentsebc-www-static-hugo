@@ -71,18 +71,11 @@ paginate = 10
     weight=50
 
 
-
   [[menu.main]]
     identifier = 'competitie'
     name = 'Competitie'
     weight=60
- 
-  [[menu.main]]
-    identifier = 'Twizzit'
-    name = 'Twizzit'
-    URL = '/clubinfo/Twizzit/'
-  
-    weight=70
+
  
   [[menu.main]]
     identifier = 'contact'
