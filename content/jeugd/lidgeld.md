@@ -1,6 +1,6 @@
 ---
 title: "Lidgeld jeugd "
-date: 2024-06-12T15:50:16+02:00
+date: 2025-04-12T15:50:16+02:00
 draft: false
 
 menu:
@@ -15,11 +15,11 @@ aliases:
 
 (jeugd = nog geen 18 jaar op 1/8)
 
-## Lidgeld seizoen 2024-2025
+## Lidgeld seizoen 2025-2026
 {{< table table table-striped table-bordered >}}
 |  | Jeugd -18, 1 speelmoment | Jeugd -18, 2 speelmomenten |
 | ----------- | ----------- | ----------- | ----------- |
-| volledig seizoen |  75 € |  115 € |
+| volledig seizoen |  105 € |  145 € |
 {{< /table >}}
 
 
@@ -31,6 +31,4 @@ Indien je aangesloten bent bij UiTPAS en in aanmerking komt voor sociaal tarief,
 
 
 ## Betalingstermijn
-De betaling van het lidgeld is voldoende bewijs om lid te blijven van onze club of lid te worden.  Deze betaling ontvangen we dan ook graag binnen de 30 dagen na factuurdatum. Je krijgt hiervan elk jaar een factuur per email. Zorg er dus steeds voor dat jouw gegevens up to date zijn.
-De lidgelden worden geïnd door ClubCollect. Krijg je bericht van ClubCollect, weet dat dit geen spam is of anderszins :)
-Voor onze ‘vergeetachtige’ leden: indien je te laat betaalt komt hier EUR 10 administratieve kost bij! Voor iedere extra maand te laat komt er EUR 10 bij.
+De betaling van het lidgeld is voldoende bewijs om lid te blijven/worden van onze club of lid te worden.  Deze betaling ontvangen we dan ook graag zo snel mogelijk na de inschrijving. Zorg er dus steeds voor dat jouw gegevens up to date zijn.

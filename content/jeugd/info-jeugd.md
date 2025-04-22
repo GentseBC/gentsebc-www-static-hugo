@@ -1,6 +1,6 @@
 ---
 title: "Algemene info jeugd"
-date: 2024-04-20T15:52:17+02:00
+date: 2025-04-20T15:52:17+02:00
 draft: false
 author: Secretaris
 
@@ -17,8 +17,8 @@ aliases:
 
 
 
-# JEUGD seizoen 2024-2025 <br />
-De inschrijvingen voor dit seizoen voor nieuwe spelers zijn afgesloten. We werken met een wachtlijst. Gelieve het bestuur te contacteren via jeugd@gentsebc.be 
+# JEUGD seizoen 2025-2026 <br />
+Een aantal proefmomenten worden georganiseerd midden-eind mei/begin juni, met nadien mogelijkheid tot inschrijven afhankelijk van het aantal vrije plaatsen. Houd onze website in de gaten voor een update. 
 
 
  
@@ -31,7 +31,7 @@ De speler kan zelf aangeven wat zijn/haar ambitie is binnen badminton. recreatie
 
 * Voor de meer gedreven spelers zijn de trainingen technischer. Van deze spelers vragen we inzet en regelmatige aanwezigheid op de speelmomenten. Vaak spelen deze kinderen ook al eens een jeugdcup (jeugdtornooi) mee, wat we zeker aanmoedigen. Doorstroming naar een competitieploeg is mogelijk en zal aangegeven worden door de trainers. 
 
-* Voor de oudere jeugd (16-18j), en zij die zeer sterk spelen, begeleiden we de overgang naar de volwassenen, zodat iedereen op zijn niveau en met veel plezier kan verder blijven spelen. 
+* Voor de oudere jeugd (16-18j), en zij die zeer sterk spelen, begeleiden we de overgang naar de volwassenen, zodat iedereen op zijn niveau en met veel plezier kan verder blijven spelen. Ook het deelnemen aan competitie is een optie. 
 
 * Sport toegankelijk maken en houden voor iedereen is een prioriteit van onze club. We houden het lidgeld zo laag mogelijk, maar bieden wel een training van uitstekende kwaliteit door ervaren en gediplomeerde trainers.
 
