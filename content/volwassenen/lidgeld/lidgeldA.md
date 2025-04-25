@@ -1,6 +1,6 @@
 ---
 title: "Lidgeld recreanten en competitiespelers"
-date: 2024-06-12T15:50:16+02:00
+date: 2025-04-12T15:50:16+02:00
 draft: false
 author: Secretaris
 
@@ -37,6 +37,4 @@ Indien je aangesloten bent bij UiTPAS en in aanmerking komt voor het kansentarie
 
 
 ## Betalingstermijn
-De betaling van het lidgeld is voldoende bewijs om lid te blijven van onze club of lid te worden.  Deze betaling ontvangen we dan ook graag binnen de 30 dagen na factuurdatum. Je krijgt hiervan elk jaar een factuur per email. Zorg er dus steeds voor dat jouw gegevens up to date zijn.
-De lidgelden worden geïnd door ClubCollect. Krijg je bericht van ClubCollect, weet dat dit geen spam is of anderszins :)
-Voor onze ‘vergeetachtige’ leden: indien je te laat betaalt komt hier EUR 10 administratieve kost bij! Voor iedere extra maand te laat komt er EUR 10 bij.
+De betaling van het lidgeld is voldoende bewijs om lid te blijven van onze club of lid te worden.  Deze betaling ontvangen we dan ook graag zo snel mogelijk. Je krijgt hiervan elk jaar een melding per email en/of via twizzit. Zorg er dus steeds voor dat jouw gegevens up to date zijn.

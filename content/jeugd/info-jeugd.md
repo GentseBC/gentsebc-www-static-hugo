@@ -13,13 +13,8 @@ aliases:
     - /jeugd/info/     
 ---
 
-
-
-
-
 # JEUGD seizoen 2025-2026 <br />
-Een aantal proefmomenten worden georganiseerd midden-eind mei/begin juni, met nadien mogelijkheid tot inschrijven afhankelijk van het aantal vrije plaatsen. Houd onze website in de gaten voor een update. 
-
+Voor de jeugd werken we met een wachtlijst wegens te grote interesse. Jammergenoeg moeten we elk jaar kinderen ontgoochelen, maar helaas zitten onze trainers en zalen momenteel aan hun maximum capaciteit. Op het einde van elk seizoen (mei/juni) maken we de berekening en bekijken we hoeveel vrije plaatsen er zijn. We organiseren dan enkele testmomenten voor geïnteresseerden met mogelijkheid tot inschrijven. Hou dus zeker onze website in te gaten. 
 
  
 # INFO
