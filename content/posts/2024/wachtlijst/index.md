@@ -3,7 +3,7 @@ title: "Wachtlijst seizoen 2024-2025"
 date: 2024-10-14T10:07:44+02:00
 draft: false
 categories: ['algemeen']
-carousel: true
+carousel: false
 carousel_img: '/images/posts/wait_list.jpg'
 author: Secretaris
 
