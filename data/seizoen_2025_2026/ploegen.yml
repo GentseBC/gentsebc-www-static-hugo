@@ -1,0 +1,242 @@
+ploegen:
+    - naam: 1H
+      niveau: PBO 1A
+      link: TBD
+      ploegkapitein: Tim Rombaut
+      spelers:
+          - Patrick Govaerts
+          - Jonathan Govaerts
+          - Tim Rombaut
+          - Maarten Van Wassenhove
+          - Alwin De Moor
+      papieren_spelers:
+          - Jonathan Govaerts
+          - Patrick Govaerts
+          - Tim Rombaut
+          - Maarten Van Wassenhove
+
+    - naam: 2H
+      niveau: PBO 2
+      link: TBD
+      ploegkapitein: Jan Vossaert
+      spelers:
+          - Daan Nelen
+          - Robin Packo
+          - Pieter Kortleven
+          - Benoit Huyghe
+          - Jan Vossaert
+          - Anton Gadeyne
+      papieren_spelers:
+          - Alwin De Moor
+          - Bert Mullaert
+          - Anton Gadeyne
+          - Daan Nelen
+
+    - naam: 3H
+      niveau: PBO 3
+      link: TBD
+      ploegkapitein: Hans Verheyden
+      spelers:
+          - Thomas Dekeyser
+          - Robin John Vargese
+          - Joachim Bonte
+          - Hans Verheyden
+          - Bram Remue
+          - Stefaan Schoutteeten
+
+      papieren_spelers:
+          - Thomas Dekeyser
+          - Robin Packo
+          - Pieter Kortleven
+          - Jan Vossaert
+
+    - naam: 4H
+      niveau: PBO 4
+      link: TBD
+      ploegkapitein: Kevin Van den Bossche
+      spelers:
+          - Elias Waterschoot
+          - Senne Cornelis
+          - Bart Pauwels
+          - Kevin Van den Bossche
+          - Eric Maes
+          - Matthew De Vuyst
+
+      papieren_spelers:
+          - Robin John Vargese
+          - Hans Verheyden
+          - Senne Cornelis
+          - Matthew De Vuyst
+
+    - naam: 5H
+      niveau: PBO 5
+      link: TBD
+      ploegkapitein: TBD
+      spelers:
+          - Jonas Vandicke
+          - Jonas Vanhove
+          - Ruben Vervaeke
+          - Pieter Callebert
+          - Joseph Jebamalai
+          - Oscar Thielemans
+
+      papieren_spelers:
+          - Kevin Van den Bossche
+          - Eric Maes
+          - Jonas Vandicke
+          - Jonas Vanhove
+
+    - naam: 6H
+      niveau: PBO 5
+      link: TBD
+      ploegkapitein: Lode Denolf
+      spelers:
+          - Jan Van Den Bulcke
+          - Toby Aerens
+          - Lode Denolf
+          - Vijay Rajendran
+          - Ali Almir
+          - En Xie
+      papieren_spelers:
+          - Jan Van Den Bulcke
+          - Vijay Rajendran
+          - Bart Pauwels
+          - Toby Aerens
+
+    - naam: 1G
+      niveau: PBO 1
+      link: TBD
+      ploegkapitein: Sarah Claeys
+      spelers:
+          - Jonathan Govaerts
+          - Patrick Govaerts
+          - Maarten Van Wassenhove
+          - Tim Rombaut
+          - Sibbel De Mits
+          - Sarah Claeys
+          - Jera Van Nieuwenhuyse
+      papieren_spelers:
+          - Jonathan Govaerts
+          - Tim Rombaut
+          - Sarah Claeys
+          - Sibbel De Mits
+
+    - naam: 2G
+      niveau: PBO 2
+      link: TBD
+      ploegkapitein: TBD
+      spelers:
+          - Joachim Bonte
+          - Anton Gadeye
+          - Robin John Vargese
+          - Florence Pluquet
+          - Veronique Cloquet
+          - Kamasha Robertson-Martens
+      papieren_spelers:
+          - Maarten Van Wassenhove
+          - Anton Gadeye
+          - Veronique Cloquet
+          - Florence Pluquet
+
+    - naam: 3G
+      niveau: PBO 2
+      link: TBD
+      ploegkapitein: Benoit Huyghe
+      spelers:
+          - Daan Nelen
+          - Robin Packo
+          - Benoit Huyghe
+          - Aurelie Khammavong
+          - Katrin Müller
+          - Elisa D'Haese
+      papieren_spelers:
+          - Thomas Dekeyser
+          - Patrick Govaert
+          - Jera Van Nieuwenhuyse
+          - Aurelie Khammavong
+
+    - naam: 4G
+      niveau: PBO 4
+      link: TBD
+      ploegkapitein: Melanie Desegher
+      spelers:
+          - Jan Vossaert
+          - Bart Pauwels
+          - Bram Demeester
+          - Melanie Desegher
+          - Feline Morlion
+          - Elisa Verhaeghe
+      papieren_spelers:
+          - Joachim Bonte
+          - Stefaan Schoutteeten
+          - Melanie Desegher
+          - Elisa D'Haese
+
+    - naam: 5G
+      niveau: PBO 5B
+      link: TBD
+      ploegkapitein: TBD
+      spelers:
+          - Kevin Van den Bossche
+          - Eric Maes
+          - Matthew De Vuyst
+          - Isabeau Van Acker
+          - Krisuda Yooyen
+          - Estée Bliki
+      papieren_spelers:
+          - Kevin Van den Bossche
+          - Matthew De Vuyst
+          - Isabeau Van Acker
+          - Krisuda Yooyen
+
+    - naam: 1D
+      niveau: Liga 3
+      link: TBD
+      ploegkapitein: Veronique Cloquet
+      spelers:
+          - Sibbel De Mits
+          - Sarah Claeys
+          - Jera Van Nieuwenhuyse
+          - Veronique Cloquet
+          - Sarah Missine
+          - Florence Pluquet
+      papieren_spelers:
+          - Sibbel De Mits
+          - Sarah Claeys
+          - Jera Van Nieuwenhuyse
+          - Sarah Missine
+
+    - naam: 2D
+      niveau: PBO 2
+      link: TBD
+      ploegkapitein: Elisa D’haese
+      spelers:
+          - Aurelie Khammavong
+          - Kamasha Robertson-Martens
+          - Elisa D’haese
+          - Paulien van Luijk
+          - Felien Morlion
+      papieren_spelers:
+          - Kamasha Robertson-Martens
+          - Florence Pluquet
+          - Liese Missinne
+          - Aurelie Khammavong
+
+    - naam: 3D
+      niveau: PBO 3
+      link: TBD
+      ploegkapitein: TBD
+      spelers:
+          - Estée Bliki
+          - Isabeau Vanacker
+          - Bjoke Van Kerkhove
+          - Annelies Baeyens
+          - Krisuda Yooyen
+          - Lara Coulier
+          - Manon Costes
+
+      papieren_spelers:
+          - Paulien van Luijk
+          - Isabelle Vercaigne
+          - Isabeau Vanacker
+          - Krisuda Yooyen
