@@ -10,12 +10,12 @@ Heb je een vraag? Contacteer ons!
 Je kan ons het best een mailtje sturen, we antwoorden asap. Of spreek ons aan op een speelmoment. 
 
     
-    Alle vragen ivm *jeugd* --> jeugd@gentsebc.be
+    Alle vragen ivm **jeugd** --> <jeugd@gentsebc.be>
 
-    Vragen over *competitie* --> competitie@gentse.be
+    Vragen over **competitie** --> <competitie@gentse.be>
 
-    Financiën (betalingen, lidgeld) --> penningmeester@gentsebc.be
+    Financiën (betalingen, lidgeld) --> <penningmeester@gentsebc.be>
 
-    Voor alle vragen en verder info kan je terecht op info@gentsebc.be of gebruik onderstaand formulier
+    Voor alle andere vragen en verder info kan je terecht op <info@gentsebc.be> of gebruik onderstaand formulier
 
 {{< contact-form >}}
