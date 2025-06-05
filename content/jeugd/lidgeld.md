@@ -31,4 +31,4 @@ Indien je aangesloten bent bij UiTPAS en in aanmerking komt voor sociaal tarief,
 
 
 ## Betalingstermijn
-De betaling van het lidgeld is voldoende bewijs om lid te blijven/worden van onze club of lid te worden.  Deze betaling ontvangen we dan ook graag zo snel mogelijk na de inschrijving. Zorg er dus steeds voor dat jouw gegevens up to date zijn.
+De betaling van het lidgeld is voldoende bewijs om lid te blijven/worden van onze club.  Deze betaling ontvangen we dan ook graag zo snel mogelijk na de inschrijving. Zorg er dus steeds voor dat jouw gegevens up to date zijn.

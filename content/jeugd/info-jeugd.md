@@ -14,7 +14,7 @@ aliases:
 ---
 
 # JEUGD seizoen 2025-2026 <br />
-Voor de jeugd werken we met een wachtlijst wegens te grote interesse. Jammergenoeg moeten we elk jaar kinderen ontgoochelen, maar helaas zitten onze trainers en zalen momenteel aan hun maximum capaciteit. Op het einde van elk seizoen (mei/juni) maken we de berekening en bekijken we hoeveel vrije plaatsen er zijn. We organiseren dan enkele testmomenten voor geïnteresseerden met mogelijkheid tot inschrijven. Hou dus zeker onze website in te gaten. 
+Voor de jeugd werken we met een wachtlijst wegens grote interesse en een beperkt aantal plaatsen. Jammergenoeg moeten we elk jaar kinderen ontgoochelen, maar helaas zitten onze trainers en zalen momenteel aan hun maximum capaciteit. Op het einde van elk seizoen (mei/juni) maken we de berekening en bekijken we hoeveel vrije plaatsen er zijn. We organiseren ook enkele testmomenten voor geïnteresseerden met mogelijkheid tot inschrijven. Hou dus zeker onze website in te gaten. 
 
  
 # INFO
@@ -41,6 +41,7 @@ Op de jeugdcup worden de kinderen zo vaak mogelijk vergezeld door een trainer/be
 * We vragen om aub op tijd komen. Jeugspelers mogen ook de zaal niet vroegtijdig verlaten, tenzij dit op voorhand door een ouder werd doorgegeven.
 * Fairplay en beleefdheid vinden we erg belangrijk
 * Enkel water is toegestaan in de zaal.
+* Sportkledij is verplicht. Geen jeansbroeken. 
 * Geen buitenschoenen in de zaal. Enkel sportschoenen met witte zool zijn toegelaten. Deze doe je aan in de kleedkamers.
 * Na de training wordt het materiaal opgeruimd.
 

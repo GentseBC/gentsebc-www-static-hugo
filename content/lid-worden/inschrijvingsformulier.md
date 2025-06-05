@@ -16,5 +16,5 @@ Ben je nog niet zeker of je wil aansluiten?  Je mag 3x gratis proefspelen :)
 Inschrijvingen gebeuren via Twizzit --> https://twizzit.com/go/InschrijvingGentseBC
 <p><p>
 
-<p> Voor de jeugd werken we met een wachtlijst wegens te grote interesse. Jammergenoeg moeten we elk jaar kinderen ontgoochelen, maar helaas zitten onze trainers en zalen momenteel aan hun maximum capaciteit. We organiseren  enkele testmomenten voor geïnteresseerden in jun en bekijken tegen dan in welke groepen nog plaats is. We proberen uiteraard zoveel mogelijk kinderen een plaatsje te geven! Meer informatie en inschrijven tot de proeflessen kan [HIER](https://www.gentsebc.be/jeugd/proefles). <https://www.gentsebc.be/jeugd/proefles>
+<p> Voor de jeugd werken we met een wachtlijst wegens te grote interesse. Jammergenoeg moeten we elk jaar kinderen ontgoochelen, maar helaas zitten onze trainers en zalen momenteel aan hun maximum capaciteit. We organiseren  enkele testmomenten voor geïnteresseerden in juni en bekijken tegen dan in welke groepen nog plaats is. We proberen uiteraard zoveel mogelijk kinderen een plaatsje te geven! Meer informatie en inschrijven tot de proeflessen kan [HIER](https://www.gentsebc.be/jeugd/proefles). <https://www.gentsebc.be/jeugd/proefles>
 
