@@ -3,8 +3,8 @@ title: "Proefmomenten jeugd 2025-2026"
 date: 2025-04-28T09:40:00+01:00
 draft: false
 categories: ['jeugd']
-carousel: true
-carousel_img: '/images/posts/shuttles_basket_chair.webp'
+carousel: false
+
 author: jeugdverantwoordelijke
 ---
 Wil je volgend schooljaar graag badmintonnen? 
