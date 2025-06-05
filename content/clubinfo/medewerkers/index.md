@@ -7,7 +7,7 @@ author: Secretaris
 menu:
   main:
     parent: clubinfo
-    weight: 10
+    weight: 20
 
 aliases:
     - /club-gegevens/medewerkers/       

@@ -1,12 +1,12 @@
 ---
-title: "Twizzit handleiding"
+title: "Twizzit - de communicatietool van de club"
 date: 2024-11-26T15:50:16+02:00
 draft: false
 
 menu:
     main:
         parent: clubinfo
-        weight: 10
+        weight: 70
 ---
 
 

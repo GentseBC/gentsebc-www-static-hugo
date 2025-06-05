@@ -6,7 +6,7 @@ draft: false
 menu:
   main:
     parent: clubinfo
-    weight: 40
+    weight: 50
 
 aliases:
     - /club-gegevens/integriteit/   

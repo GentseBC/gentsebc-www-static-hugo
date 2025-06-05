@@ -1,12 +1,12 @@
 ---
-title: "Wie is Gentse BC"
+title: "Over Gentse BC"
 date: 2025-06-05T15:50:16+02:00
 draft: false
 
 menu:
   main:
     parent: clubinfo
-    weight: 05
+    weight: 10
 
 aliases:
     - /club-gegevens/about/
@@ -24,11 +24,11 @@ Kom mee spelen en ontdek waarom onze club al 50 jaar een vaste waarde is in het 
 
 
 ## Clubgegevens
-GENTSE BC vzw
-ondernemingsnummer: 0884.265.163 
-Zetel: Zonnebloemstraat 92, 9000 Gent
-E-mail: info@gentsebc.be
-Telefoon: 0485/44.89.25
+GENTSE BC vzw<br>
+ondernemingsnummer: 0884.265.163 <br>
+Zetel: Zonnebloemstraat 92, 9000 Gent<br>
+E-mail: info@gentsebc.be<br>
+Telefoon: 0485/44.89.25<br>
 Rekeningnummer: BE20 7360 6521 2356
 
 
