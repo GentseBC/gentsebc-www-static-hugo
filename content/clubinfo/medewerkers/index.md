@@ -1,6 +1,6 @@
 ---
 title: "Werking en bestuur"
-date: 2023-06-25T15:50:16+02:00
+date: 2025-06-05T15:50:16+02:00
 draft: false
 author: Secretaris
 
@@ -21,22 +21,32 @@ Heb je een vraag, een probleem of wil je je mening over iets kwijt? Kijk op deze
 
 # Bestuursleden
 {{< container-row >}}
-    {{< card-in-column img="images/Maarten-VW.jpg" title="Maarten Van Wassenhove" >}}
-      Voorzitter, G-sport verantwoordelijke<br>aansturing algemene werking, sponsoring en groei, aanspreekpunt VBL <br>voorzitter@gentsebc.be<br>tel. 0472/62.06.42
+    {{< card-in-column img="images/Maarten-VW.jpg" title="Maarten" >}}
+      Voorzitter<br>aansturing algemene werking, sponsoring en groei, aanspreekpunt VBL <br>voorzitter@gentsebc.be<br>tel. 0472/62.06.42
     {{< /card-in-column >}}
 
-    {{< card-in-column img="images/isabelle.jpg" title="Isabelle Vercaigne" >}}
-      Secretaris<br>communicatie leden, zaalplanning, administratie <br>secretaris@gentsebc.be<br>tel. 0485/44.89.25
+    {{< card-in-column img="images/isabelle.jpg" title="Isabelle " >}}
+      Secretaris, recreantenverantwoordelijke<br>communicatie, zaalplanning, administratie <br>secretaris@gentsebc.be<br>tel. 0485/44.89.25
     {{< /card-in-column >}}
 
 
-    {{< card-in-column img="images/elisa.jpg" title="Elisa Verhaeghe" >}}
-      Penningmeester<br>financiën, Competitieverantwoordelijke, planning wedstrijkalender <br>penningmeester@gentsebc.be
+    {{< card-in-column img="images/elisa.jpg" title="Elisa " >}}
+      Penningmeester<br>financiën, begroting en jaarrekening, administratie van inkomsten en uitgaven <br>penningmeester@gentsebc.be
     {{< /card-in-column >}}
 
-    {{< card-in-column img="images/boye.jpg" title="Boye Buyens" >}}
+    {{< card-in-column img="images/shuttle.jpg" title="Dimitri en Benoit" >}}
       Jeugdverantwoordelijke<br>sportieve coördinatie jeugd, communicatie jeugd<br>jeugd@gentsebc.be
     {{< /card-in-column >}}
+
+     {{< card-in-column img="images/shuttle.jpg" title="Jera" >}}
+      competitieverantwoordelijke<br>Ploegenopstelling, planning wedstrijdkalender, communicatie competitiespelers, opvolgen wedstrijdleiders<br>jeugd@gentsebc.be
+    {{< /card-in-column >}}
+
+     {{< card-in-column img="images/shuttle.jpg" title="Kathy" >}}
+      G-verantwoordelijke<br>communicatie en organisatie van de G-badminton<br>gbadminton@gentsebc.be
+    {{< /card-in-column >}}
+
+
 
 {{< /container-row >}}
 
@@ -48,6 +58,10 @@ Onze groep trainers is razend enthousiast! Graag willen ze hun passie aan jou ov
     {{< card-in-column n="4" img="images/steven.jpg" title="Steven Verbruggen" />}}
     {{< card-in-column n="4" img="images/joachim.jpg" title="Joachim Bonte" />}}
        {{< card-in-column n="4" img="images/pepijn.jpg" title="Pepijn Van Rossom" />}}
+        {{< card-in-column n="4" img="images/shuttle.jpg" title="Simon Van Moeseke" />}}
+         {{< card-in-column n="4" img="images/alwin.jpg" title="Alwin De Moor" />}}
+   
+   
 {{< /container-row >}}
 
 # Medewerkers
