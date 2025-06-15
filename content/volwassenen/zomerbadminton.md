@@ -1,5 +1,5 @@
 ---
-title: "Zomerbadminton volwassenen 2024"
+title: "Zomerbadminton volwassenen"
 date: 2024-06-12T05:49:05+02:00
 draft: false
 author: Secretaris
@@ -15,24 +15,9 @@ aliases:
 
 
 
-<br>Vanaf 1/7/2024 schakelen we over naar zomermodus, met andere speeluren en -locaties gedurende de maanden juli en augustus <br>
+<br>Vanaf eind juni tot eind augustus schakelen we over naar zomermodus, met andere speeluren en -locaties gedurende de maanden juli en augustus <br>
+--> raadpleeg zoals steeds de actuale speelkalender op onze homepage (helemaal naar beneden scrollen naar de google agenda) of in Twizzit (zichtbaar wanneer je lid bent bij Gentse BC)
 
-    - Juli: We spelen 2x per week in de Rozebroeken, op dinsdag en vrijdag, telkens van 20-22u, terrein A+B. 
+We zorgen voor voldoende speelmomenten ook tijdens de zomervakantie zodat niemand zijn favoriete sport te lang moet mmissen en de competitiespelers helemaal in vorm het nieuwe seizoen kunnen starten op 1 september :)
 
-    - Augustus: In Augustus spelen we 2x per week in de sporthal van Artevelde, campus Watersportbaan, op dinsdag en donderdag. 
-    Eenmalig spelen we in de GUSB, en dat op dinsdag 6 aug. De speeluren zijn ook van 20 tot 22u (terrein A + B).
-    
-    speeldagen Artevelde:
-      * di 13 aug
-      * di + do 20 + 22 aug
-      * di + do 27 + 29 aug
-      * di + do 3 + 5 sept
-      * di + do 10 + 12 sept
-
-    - September: De Wielerpiste opent terug vanaf 16 september 2024 zijn zalen. 
-    Geen nood: op dinsdag en donderdag 3/5/10/12 september kunnen we nog terecht in de sporthal van Artevelde Hogeschool. 
-
- 
---> raadpleeg zoals steeds de actuale speelkalender op onze homepagen of nog makkelijk, importeer 'em meteen in je smartphone!
-https://calendar.google.com/calendar/u/0?cid=Z2VudHNlYmNAZ21haWwuY29t
 
