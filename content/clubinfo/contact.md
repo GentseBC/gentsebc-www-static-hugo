@@ -11,8 +11,9 @@ Je kan ons het best een mailtje sturen, we antwoorden asap. Of spreek ons aan op
 
 Alle vragen ivm **jeugd** --> <jeugd@gentsebc.be>
 Vragen over **competitie** --> <competitie@gentse.be>
-Info **G-sport** --> <gbadminton@gnetsebc.be>
+Info **G-sport** --> <gbadminton@gentsebc.be>
 Financiën (betalingen, lidgeld) --> <penningmeester@gentsebc.be>
+API (grensoverschrijdend gedrag, pesten, distriminatie, ...)  --> <api@gentsebc.be>
 
 Voor alle andere vragen en verder info kan je terecht op <info@gentsebc.be> of gebruik onderstaand formulier
 
