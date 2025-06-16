@@ -85,7 +85,9 @@ De avondverantwoordelijken zijn te bereiken op volgend emailadres: avondverantwo
 
 Nicole is onze aanspreekpersoon integriteit 
 {{< container-row >}}
-   {{< card-in-column n="4" img="images/nicole.png" title="API Nicole" />}}{{< /card-in-column >}}
+   {{< card-in-column n="1" img="images/nicole.png" title="API Nicole" >}}
+    API
+   {{< /card-in-column >}}
 {{< /container-row >}}
 
 
