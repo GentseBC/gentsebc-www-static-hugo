@@ -9,12 +9,17 @@ aliases:
 
 
 
-   <br /> <br />Volwassenen en G-sport: 
-   <b>Wens je lid te worden van Gentse BC? Vul dan hier je gegevens in.
+   <br /> <br />**Volwassenen en G-sport**: 
+   Wens je lid te worden van Gentse BC? Vul dan hier je gegevens in.
 Gelieve enkel dit formulier in te vullen indien je definitief lid wenst te worden, aangezien hiermee jouw lidmaatschap bij de Badminton Federatie vastgelegd wordt. 
 Ben je nog niet zeker of je wil aansluiten?  Je mag 3x gratis proefspelen :)
-Inschrijvingen gebeuren via Twizzit --> https://twizzit.com/go/InschrijvingGentseBC
+
+Inschrijven kan vie dit formulier --> https://twizzit.com/go/InschrijvingGentseBC
 <p><p>
 
-<p> Voor de jeugd werken we met een wachtlijst wegens te grote interesse. Jammergenoeg moeten we elk jaar kinderen ontgoochelen, maar helaas zitten onze trainers en zalen momenteel aan hun maximum capaciteit. We organiseren  enkele testmomenten voor geïnteresseerden in juni en bekijken tegen dan in welke groepen nog plaats is. We proberen uiteraard zoveel mogelijk kinderen een plaatsje te geven! Meer informatie en inschrijven tot de proeflessen kan [HIER](https://www.gentsebc.be/jeugd/proefles). <https://www.gentsebc.be/jeugd/proefles>
+<br /> <br />**Jeugd**: 
+<p> Onze werking draait heel goed met als gevolg dat we volzet zijn voor het seizoen 2025-2026. 
+
+Jammergenoeg moeten we elk jaar kinderen ontgoochelen, maar helaas zitten onze trainers en zalen momenteel aan hun maximum capaciteit. 
+
 

@@ -14,7 +14,8 @@ aliases:
 ---
 
 # JEUGD seizoen 2025-2026 <br />
-Voor de jeugd werken we met een wachtlijst wegens grote interesse en een beperkt aantal plaatsen. Jammergenoeg moeten we elk jaar kinderen ontgoochelen, maar helaas zitten onze trainers en zalen momenteel aan hun maximum capaciteit. Op het einde van elk seizoen (mei/juni) maken we de berekening en bekijken we hoeveel vrije plaatsen er zijn. We organiseren ook enkele testmomenten voor geïnteresseerden met mogelijkheid tot inschrijven. Hou dus zeker onze website in te gaten. 
+Onze werking draait heel goed met als gevolg dat we **volzet** zijn voor het seizoen 2025-2026. 
+Jammergenoeg moeten we elk jaar kinderen ontgoochelen, maar helaas zitten onze trainers en zalen momenteel aan hun maximum capaciteit. Op het einde van elk seizoen (mei/juni) bekijken we hoeveel vrije plaatsen er zijn. We organiseren ook enkele testmomenten voor geïnteresseerden met mogelijkheid tot inschrijven eind mei/juni. Hou dus zeker onze website in te gaten indien je volgend jaar wil starten met badminton. 
 
  
 # INFO
@@ -50,10 +51,11 @@ Op de jeugdcup worden de kinderen zo vaak mogelijk vergezeld door een trainer/be
 
 *  Badmintonracket
 *  Sportschoenen, non marking: geen zwarte zolen
-*  Sportkledij
+*  Sportkledij: short en tshirt. GEEN jeansbroeken. 
 *  Water om de dorst te lessen.
 
-Heb je nog geen raket kan je er eentje lenen op de introductiemomenten. Voor wie al lid is vragen we hun eigen materiaal mee te brengen.  
+Heb je nog geen raket kan je er eentje lenen op de introductiemomenten. Voor wie al lid is vragen we eigen materiaal mee te brengen.  Je kan steeds advies vragen aan de trainers waar je een goed raket kan vinden en in welke prijscategoriën. 
+Ook kan je tercht bij 
 
 
 
