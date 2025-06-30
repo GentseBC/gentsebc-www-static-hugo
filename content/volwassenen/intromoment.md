@@ -21,7 +21,6 @@ Breng zeker jouw sportgerief (raket, shuttles, sportkledij en indoor sportschoen
 
 Regelmatig worden nieuwe introductiemomenten ingepland. Hou deze webpagina in de gaten wanneer de volgende introductiemomenten zullen doorgaan. Dit intro-moment richt zich specifiek op de volwassenen. Jeugdspelers kunnen met hun vragen terecht bij Boye via jeugd@gentsebc.be
 
-*Momenteel zijn er geen intromomenten meer gepland*. Contacteer het bestuur als je graag voor de eerste keer langs komt om te spelen. 
-
-
-< intro-form >
+Schrijf je hier in voor een intromoment. 
+Als er geen data meer zijn, of deze passen niet, kan je altijd iets sturen naar info@gentsebc.be
+https://app.twizzit.com/v2/form/djlnWGNXRTI5Mzl1V29RdWFEMjViQT09
