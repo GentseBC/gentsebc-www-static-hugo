@@ -14,12 +14,10 @@ aliases:
 Gelieve enkel dit formulier in te vullen indien je definitief lid wenst te worden, aangezien hiermee jouw lidmaatschap bij de Badminton Federatie vastgelegd wordt. 
 Ben je nog niet zeker of je wil aansluiten?  Je mag 3x gratis proefspelen :)
 
-Inschrijven kan vie dit formulier --> https://twizzit.com/go/InschrijvingGentseBC
+Inschrijven kan via dit formulier: https://app.twizzit.com/go/gentsebc2526  
 <p><p>
 
 <br /> <br />**Jeugd**: 
-<p> Onze werking draait heel goed met als gevolg dat we volzet zijn voor het seizoen 2025-2026. 
-
-Jammergenoeg moeten we elk jaar kinderen ontgoochelen, maar helaas zitten onze trainers en zalen momenteel aan hun maximum capaciteit. 
+<p> Onze werking draait heel goed met als gevolg dat we volzet zijn voor het seizoen 2025-2026. Helaas zitten onze trainers en zalen momenteel aan hun maximum capaciteit. 
 
 
