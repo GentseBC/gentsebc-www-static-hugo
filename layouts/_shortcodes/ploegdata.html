@@ -11,7 +11,7 @@ Dames ploegen: {{ range $dploegen }}<a href="#{{ .naam }}">{{ .naam }}</a> {{end
 {{ range $ploegen}}
 <h2><a name="{{ .naam }}">Gentse {{ .naam }}</a></h2>
 <div>
-    <!--a href="{{ .link }}" target="_new" title="Pagina op toernooi.nl">Niveau: {{ .niveau}}</a-->
+    <a href="{{ .link }}" target="_blank" title="Pagina op toernooi.nl">Niveau: {{ .niveau}}</a>
     Niveau: {{ .niveau}} , Ploegkapitein: <a href="mailto:{{ .naam }}@gentsebc.be"> {{ .ploegkapitein}}</a></div>
 <table class="table table-striped">
     <tbody>

@@ -1,7 +1,7 @@
 ploegen:
     - naam: 1H
       niveau: PBO 1A
-      link: TBD
+      link: https://www.toernooi.nl/sport/teammatches.aspx?id=C3B7B9D5-902B-40B8-939B-30A14C01F5AC&tid=163
       ploegkapitein: Tim Rombaut
       spelers:
           - Patrick Govaerts
@@ -17,7 +17,7 @@ ploegen:
 
     - naam: 2H
       niveau: PBO 2
-      link: TBD
+      link: https://www.toernooi.nl/sport/teammatches.aspx?id=C3B7B9D5-902B-40B8-939B-30A14C01F5AC&tid=166
       ploegkapitein: Jan Vossaert
       spelers:
           - Daan Nelen
@@ -34,7 +34,7 @@ ploegen:
 
     - naam: 3H
       niveau: PBO 3
-      link: TBD
+      link: https://www.toernooi.nl/sport/teammatches.aspx?id=C3B7B9D5-902B-40B8-939B-30A14C01F5AC&tid=23
       ploegkapitein: Hans Verheyden
       spelers:
           - Thomas Dekeyser
@@ -52,7 +52,7 @@ ploegen:
 
     - naam: 4H
       niveau: PBO 4
-      link: TBD
+      link: https://www.toernooi.nl/sport/teammatches.aspx?id=C3B7B9D5-902B-40B8-939B-30A14C01F5AC&tid=54
       ploegkapitein: Kevin Van den Bossche
       spelers:
           - Elias Waterschoot
@@ -70,8 +70,8 @@ ploegen:
 
     - naam: 5H
       niveau: PBO 5
-      link: TBD
-      ploegkapitein: TBD
+      link: https://www.toernooi.nl/sport/teammatches.aspx?id=C3B7B9D5-902B-40B8-939B-30A14C01F5AC&tid=77
+      ploegkapitein: Jonas Vandicke
       spelers:
           - Jonas Vandicke
           - Jonas Vanhove
@@ -79,6 +79,7 @@ ploegen:
           - Pieter Callebert
           - Joseph Jebamalai
           - Oscar Thielemans
+          - Nagarjun Kumar
 
       papieren_spelers:
           - Kevin Van den Bossche
@@ -88,7 +89,7 @@ ploegen:
 
     - naam: 6H
       niveau: PBO 5
-      link: TBD
+      link: https://www.toernooi.nl/sport/teammatches.aspx?id=C3B7B9D5-902B-40B8-939B-30A14C01F5AC&tid=78
       ploegkapitein: Lode Denolf
       spelers:
           - Jan Van Den Bulcke
@@ -105,7 +106,7 @@ ploegen:
 
     - naam: 1G
       niveau: PBO 1
-      link: TBD
+      link: https://www.toernooi.nl/sport/teammatches.aspx?id=C3B7B9D5-902B-40B8-939B-30A14C01F5AC&tid=91
       ploegkapitein: Sarah Claeys
       spelers:
           - Jonathan Govaerts
@@ -123,8 +124,8 @@ ploegen:
 
     - naam: 2G
       niveau: PBO 2
-      link: TBD
-      ploegkapitein: TBD
+      link: https://www.toernooi.nl/sport/teammatches.aspx?id=C3B7B9D5-902B-40B8-939B-30A14C01F5AC&tid=103
+      ploegkapitein: Joachim Bonte
       spelers:
           - Joachim Bonte
           - Anton Gadeye
@@ -140,7 +141,7 @@ ploegen:
 
     - naam: 3G
       niveau: PBO 2
-      link: TBD
+      link: https://www.toernooi.nl/sport/teammatches.aspx?id=C3B7B9D5-902B-40B8-939B-30A14C01F5AC&tid=104
       ploegkapitein: Benoit Huyghe
       spelers:
           - Daan Nelen
@@ -157,7 +158,7 @@ ploegen:
 
     - naam: 4G
       niveau: PBO 4
-      link: TBD
+      link: https://www.toernooi.nl/sport/teammatches.aspx?id=C3B7B9D5-902B-40B8-939B-30A14C01F5AC&tid=129
       ploegkapitein: Melanie Desegher
       spelers:
           - Jan Vossaert
@@ -174,8 +175,8 @@ ploegen:
 
     - naam: 5G
       niveau: PBO 5B
-      link: TBD
-      ploegkapitein: TBD
+      link: https://www.toernooi.nl/sport/teammatches.aspx?id=C3B7B9D5-902B-40B8-939B-30A14C01F5AC&tid=149
+      ploegkapitein: Matthew De Vuyst
       spelers:
           - Kevin Van den Bossche
           - Eric Maes
@@ -191,8 +192,8 @@ ploegen:
 
     - naam: 1D
       niveau: Liga 3
-      link: TBD
-      ploegkapitein: Veronique Cloquet
+      link: https://www.toernooi.nl/sport/teammatches.aspx?id=88B516F8-C241-4391-98BA-F07EECF33E17&tid=93
+      ploegkapitein: Sibbel De Mits
       spelers:
           - Sibbel De Mits
           - Sarah Claeys
@@ -208,14 +209,15 @@ ploegen:
 
     - naam: 2D
       niveau: PBO 2
-      link: TBD
+      link: https://www.toernooi.nl/sport/teammatches.aspx?id=C3B7B9D5-902B-40B8-939B-30A14C01F5AC&tid=9
       ploegkapitein: Elisa D’haese
       spelers:
           - Aurelie Khammavong
           - Kamasha Robertson-Martens
           - Elisa D’haese
-          - Paulien van Luijk
+          - Paulien van Luijk (invaller)
           - Felien Morlion
+          - Melanie Desegher (invaller)
       papieren_spelers:
           - Kamasha Robertson-Martens
           - Florence Pluquet
@@ -224,8 +226,8 @@ ploegen:
 
     - naam: 3D
       niveau: PBO 3
-      link: TBD
-      ploegkapitein: TBD
+      link: https://www.toernooi.nl/sport/teammatches.aspx?id=C3B7B9D5-902B-40B8-939B-30A14C01F5AC&tid=15
+      ploegkapitein: Annelies Baeyens
       spelers:
           - Estée Bliki
           - Isabeau Vanacker
