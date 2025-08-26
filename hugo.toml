@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.gentsebc.be/'
 languageCode = 'nl-be'
 title = 'Gentse BC'
 theme = 'gentsebc2025'
