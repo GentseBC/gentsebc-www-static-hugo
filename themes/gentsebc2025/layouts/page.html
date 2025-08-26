@@ -1,0 +1,33 @@
+{{ define "main" }}
+  {{ partial "breadcrumb.html" . }}
+
+  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+  {{ $dateHuman := .Date | time.Format ":date_long" }}
+  {{ $author := .Params.author | default .Site.Params.author }}
+
+<div class="container mt-1">
+  <div class="row">
+    <div class="col-sm">
+      <header>
+        <h2 class="blog-post-title">
+          {{ .Title}}
+        </h2>
+        <div class="blog-post-date text-secondary">
+          <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+          <span rel="author">{{ $author }}</span>
+        </div>
+        <hr>
+      </header>
+
+      <article>
+        {{ .Content }}
+      </article>
+    </div>
+  </div>
+</div>
+
+
+
+
+  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+{{ end }}

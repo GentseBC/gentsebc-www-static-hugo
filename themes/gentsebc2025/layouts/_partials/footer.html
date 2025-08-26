@@ -1,0 +1,45 @@
+<div class="container footer-top">
+    <div class="row gy-4">
+        <div class="col-lg-6 col-md-6 footer-about">
+            <a href="index.html" class="logo d-flex align-items-center">
+                <span class="sitename">GENTSE BC vzw</span>
+            </a>
+            <div class="footer-contact pt-3">
+                <p>Zetel: Zonnebloemstraat 92, 9000 Gent </p>
+                <p>IBAN: BE20 7360 6521 2356 </p>
+                <p>ondernemings nummer: 0884.265.163 </p>
+                <p class="mt-3"><strong>Tel:</strong> <span>0485/44.89.25</span></p>
+                <p><strong>Email:</strong> <span>info@gentsebc.be</span></p>
+
+            </div>
+            <div class="social-links d-flex mt-4">
+                <a href="https://www.facebook.com/GentseBC"><i class="bi bi-facebook"></i></a>
+            </div>
+        </div>
+
+        <div class="col-lg-6 col-md-3 footer-links">
+            <h4>Nuttige Links</h4>
+            <ul>
+                <li><a href="{{ .Ref (dict "path" "/speeluren") }}">Speeluren volwassenen</a></li>
+                <li><a href="{{ .Ref (dict "path" "/groepen/jeugd/") }}#speeluren">Speeluren jeugd</a></li>
+                <li><a href="{{ .Ref (dict "path" "/clubinfo/documenten") }}">Verzekering bij ongevallen</a></li>
+                <li><a href="{{ .Ref (dict "path" "/groepen/volwassenen/training/") }}">Trainingen</a></li>
+                <li><a href="{{ .Ref (dict "path" "/groepen/competitie/tornooitips/") }}">Tornooitips</a></li>
+                <li><a href="{{ .Ref (dict "path" "/clubinfo/bestuur/") }}#aanspreekpersoon-integriteit--api">Aanspreekpunt integriteit API</a></li>
+                <li><a href="{{ .Ref (dict "path" "/clubinfo/documenten/") }}#huishoudelijk-reglement-gedragscode-en-privacy">Huishoudelijk Reglement, gedragscode en privacy</a></li>
+            </ul>
+        </div>
+
+    </div>
+</div>
+
+<div class="container copyright text-center mt-4">
+    <p>© <span>Copyright {{ now.Year }}</span> <strong class="px-1 sitename">Gentse Badmintonclub VZW </strong> <span>All Rights Reserved</span></p>
+    <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you've purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> Distributed by <a href=“https://themewagon.com>ThemeWagon</a>
+    </div>
+</div>

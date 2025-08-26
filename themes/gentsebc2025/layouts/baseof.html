@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body>
+  <header id="header" class="header d-flex align-items-center sticky-top">
+    {{ partial "header.html" . }}
+  </header>
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer id="footer" class="footer position-relative light-background">
+    {{ partial "footer.html" . }}
+  </footer>
+
+  {{ partial "footer-technical.html" . }}
+</body>
+</html>

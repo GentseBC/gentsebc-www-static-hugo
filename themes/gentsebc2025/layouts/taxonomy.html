@@ -1,0 +1,22 @@
+{{ define "main" }}
+  {{ partial "breadcrumb.html" . }}
+
+<div class="container mt-1">
+    <div class="row">
+        <div class="col-sm">
+            {{ .Content }}
+            <ul>
+            {{ range .Pages }}
+
+                <li><a href="{{ .RelPermalink }}">
+                    {{ if eq .LinkTitle "Event" }} Evenementen
+                    {{ else if eq .LinkTitle "News" }} Nieuwsberichten
+                    {{ else }} {{ .LinkTitle }}
+                    {{ end }}
+                </a></li>
+            {{ end }}
+            </ul>
+        </div>
+    </div>
+</div>
+{{ end }}

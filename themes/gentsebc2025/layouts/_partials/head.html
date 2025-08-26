@@ -1,0 +1,13 @@
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+
+<!-- Favicons -->
+<link href="/img/favicon.png" rel="icon">
+<link href="/img/favicon.png" rel="apple-touch-icon">
+
+{{ partialCached "head/fonts.html" . }}
+{{ partialCached "head/css.html" . }}
+

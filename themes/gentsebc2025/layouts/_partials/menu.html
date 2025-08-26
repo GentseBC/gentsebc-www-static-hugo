@@ -1,0 +1,77 @@
+{{- /*
+Renders a menu for the given menu ID.
+
+@context {page} page The current page.
+@context {string} menuID The menu ID.
+
+@example: {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+*/}}
+
+{{- $page := .page }}
+{{- $menuID := .menuID }}
+
+{{- with index site.Menus $menuID }}
+  <nav id="navmenu" class="navmenu">
+    <ul>
+      {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
+    </ul>
+    <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+  </nav>
+{{- end }}
+
+{{- define "_partials/inline/menu/walk.html" }}
+  {{- $page := .page }}
+  {{- range .menuEntries }}
+    {{- $listAttrs := dict }}
+    {{- $attrs := dict "href" .URL }}
+    {{- if $page.IsMenuCurrent .Menu . }}
+      {{- $attrs = merge $attrs (dict "class" "active" "aria-current" "page") }}
+    {{- else if $page.HasMenuCurrent .Menu .}}
+      {{- $attrs = merge $attrs (dict "class" "ancestor" "aria-current" "true") }}
+    {{- end }}
+    {{- if .HasChildren }}
+    {{- $listAttrs = merge $listAttrs (dict "class" "dropdown") }}
+    {{- end }}
+
+
+    {{- $name := .Name }}
+    {{- if .Params.alternativeName }}
+      {{- $name = .Params.alternativeName | safeHTML }}
+    {{- end }}
+
+    {{- with .Identifier }}
+      {{- with T . }}
+        {{- $name = . }}
+      {{- end }}
+    {{- end }}
+
+
+
+    <li
+            {{- range $k, $v := $listAttrs }}
+            {{- with $v }}
+            {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+            {{- end }}
+            {{- end -}}
+    >
+      {{- if .HasChildren }}
+        <a href="#"><span>{{ $name }}</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+        {{- with .Children }}
+        <ul>
+          {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
+        </ul>
+        {{- end }}
+
+      {{- else}}
+        <a
+          {{- range $k, $v := $attrs }}
+            {{- with $v }}
+              {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+            {{- end }}
+          {{- end -}}
+        >{{ $name }}</a>
+      {{- end }}
+
+    </li>
+  {{- end }}
+{{- end }}

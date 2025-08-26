@@ -1,0 +1,5 @@
+{{ $accordion_id := printf "accordion-%s" (.Get "id") | printf "%s" }}
+
+<div class="accordion" id="{{ $accordion_id }}" >
+        {{ .Inner}}
+</div>

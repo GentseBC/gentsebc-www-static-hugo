@@ -1,0 +1,171 @@
+{{ $sp := cond hugo.IsServer  "" .Site.Params.static_content_prefix }}
+{{ $calItems := $.Site.Data.shortTermCalendar}}
+{{ $speelurenRelUrl := .RelRef (dict "path" "/speeluren") }}
+
+<div class="d-none d-md-block ms-lg-5 me-lg-5">
+    <div class="span12">
+        <table class="table">
+            <thead>
+            <tr id="playingHoursHorizontal">
+                <th>&nbsp;</th>
+{{ range $calItems}}
+                <th>{{ .day}}</th>
+{{ end }}
+            </tr>
+            </thead>
+            <tbody>
+                <tr id="playingHoursHorizontalJeugd">
+                    <td>Jeugd</td>
+{{ range $calItems}}
+     {{ if ( gt (.youthCalItems | len ) 0) }}
+                    <td>
+                    {{ range .youthCalItems}}
+                        <div class="{{ .locationCode }}">
+                            {{ substr .startDateTime 11 5}} - {{ substr .endDateTime 11 5}}
+                            {{ if (eq .locationCode "other")}}
+                                <br>Uitzonderlijke locatie! <br>{{ .location }}
+                            {{ end }}
+                        </div>
+                    {{ end}}
+                    </td>
+     {{ else }}
+                    <th> - </th>
+     {{ end }}
+{{ end }}
+                </tr>
+                <tr id="playingHoursHorizontalVolwassenen">
+                    <td>Volwassenen</td>
+{{ range $calItems}}
+    {{ if ( gt (.adultCalItems | len ) 0) }}
+                    <td>
+                        {{ range .adultCalItems}}
+                        <div class="{{ .locationCode }}">
+                            {{ substr .startDateTime 11 5}} - {{ substr .endDateTime 11 5}}
+                            {{ if (eq .locationCode "other")}}
+                            <br>Uitzonderlijke locatie! <br>{{ .location }}
+                            {{ end }}
+                        </div>
+                        {{ end}}
+                    </td>
+    {{ else }}
+                    <th> - </th>
+    {{ end }}
+{{ end }}
+
+
+                </tr>
+                <tr id="playingHoursHorizontalGSport">
+                    <td><a href="/g-badminton">G-Sport <i class="fa fa-wheelchair-alt"></i></a></td>
+{{ range $calItems}}
+    {{ if ( gt (.gSportCalItems | len ) 0) }}
+                    <td>
+                        {{ range .gSportCalItems}}
+                        <div class="{{ .locationCode }}">
+                            {{ substr .startDateTime 11 5}} - {{ substr .endDateTime 11 5}}
+                            {{ if (eq .locationCode "other")}}
+                            <br>Uitzonderlijke locatie! <br>{{ .location }}
+                            {{ end }}
+                        </div>
+                        {{ end}}
+                    </td>
+                    {{ else }}
+                    <th> - </th>
+    {{ end }}
+{{ end }}
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+<div class="d-none d-md-block">
+    <div class="col-md-5 offset-md-7">
+        <table class="shorttermcalenderindex">
+            <tbody>
+            <tr>
+                <td class="wielerpiste">&nbsp;&nbsp;&nbsp;</td>
+                <td>Wielerpiste</td>
+                <td class="bourgoyen">&nbsp;&nbsp;&nbsp;</td>
+                <td>Bourgoyen</td>
+                <td class="topsporthal">&nbsp;&nbsp;&nbsp;</td>
+                <td>Topsporthal</td>
+                <td>
+                    <div class="text-center ms-3">
+                        <a href="{{ $speelurenRelUrl }}" class="more-btn"><span>Speeluren</span> <i class="bi bi-chevron-right"></i></a>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<!-- Display on small screen devices -->
+<div class="container">
+    <div class="row">
+        <div class="col-md-4 d-md-none table-responsive">
+            <table class="table">
+                <thead>
+                <tr>
+                    <th>&nbsp;</th>
+                    <th>Jeugd</th>
+                    <th>Volwassenen</th>
+                    <th><a href="/g-badminton">G-Sport <i class="fa fa-wheelchair-alt"></i></a></th>
+                </tr>
+                </thead>
+                <tbody id="playingHoursVertical">
+{{ range $calItems }}
+                <tr>
+                    <td>{{ .day }}</td>
+                    <td>
+    {{ if ( gt (.youthCalItems | len ) 0) }}
+                    {{ range .youthCalItems}}
+                    <div class="{{ .locationCode}}">{{ substr .startDateTime 11 5}} - {{ substr .endDateTime 11 5}}</div>
+                    {{ end }}
+    {{ else }}
+                    -
+    {{ end }}
+                    </td>
+
+                    <td>
+    {{ if ( gt (.adultCalItems | len ) 0) }}
+                    {{ range .adultCalItems}}
+                    <div class="{{ .locationCode}}">{{ substr .startDateTime 11 5}} - {{ substr .endDateTime 11 5}}</div>
+                    {{ end }}
+    {{ else }}
+                    -
+    {{ end }}
+                    </td>
+
+                    <td>
+    {{ if ( gt (.gSportCalItems | len ) 0) }}
+                        {{ range .gSportCalItems}}
+                        <div class="{{ .locationCode}}">{{ substr .startDateTime 11 5}} - {{ substr .endDateTime 11 5}}</div>
+                        {{ end }}
+    {{ else }}
+                        -
+    {{ end }}
+                    </td>
+                </tr>
+{{ end }}
+                </tbody>
+            </table>
+            <table>
+                <tbody>
+                <tr>
+                    <td class="wielerpiste">&nbsp;&nbsp;&nbsp;</td>
+                    <td>Wielerpiste</td>
+                    <td class="bourgoyen">&nbsp;&nbsp;&nbsp;</td>
+                    <td>Bourgoyen</td>
+                    <td class="topsporthal">&nbsp;&nbsp;&nbsp;</td>
+                    <td>Topsporthal</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="row mt-2">
+        <div class="col-md-4 d-md-none">
+            <a href="{{ $speelurenRelUrl }}" class="more-btn"><span>Speeluren</span> <i class="bi bi-chevron-right"></i></a>
+        </div>
+    </div>
+</div>

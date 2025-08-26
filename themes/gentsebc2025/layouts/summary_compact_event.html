@@ -1,0 +1,24 @@
+{{ $dateFormat := "Monday 2 January 2006, 15:04" }}
+{{ $author := .Params.author | default .Site.Params.author }}
+
+
+<div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+    <div class="event-item">
+        <img src="{{cond (isset .Params "summary_img") .Params.summary_img "/img/posts/default.jpeg" }}" class="img-fluid" alt="...">
+        <div class="event-item-content">
+
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <p class="description">{{ .Summary }}</p>
+
+            {{ if not (time.AsTime .Params.event_date ).IsZero }}
+                <p><i class="bi bi-calendar"></i> {{ time.Format $dateFormat .Params.event_date}}</p>
+
+            {{ end }}
+
+            <p><i class="bi bi-geo-alt"></i> {{ .Params.event_location}}</p>
+            <div class="">
+                <a href="{{ .RelPermalink }}" class="more-btn"><span>Lees meer</span> <i class="bi bi-chevron-right"></i></a>
+            </div>
+        </div>
+    </div>
+</div> <!-- End Event Item-->

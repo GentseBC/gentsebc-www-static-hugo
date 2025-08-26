@@ -1,0 +1,20 @@
+{{ $parent_id := printf "accordion-%s" (.Get "parent_id") | printf "%s" }}
+{{ $noe := or (.Get "n") "3" }}
+{{ $is_inner_markdown :=  or (.Get "is_inner_markdown") "false" }}
+
+<div class="accordion-item">
+    <h2 class="accordion-header" id="headingOne">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-{{ .Get "id" }}" aria-expanded="false" aria-controls="collapse-{{ .Get "id" }}">
+            {{ .Get "title" }}
+        </button>
+    </h2>
+    <div id="collapse-{{ .Get "id" }}" class="accordion-collapse collapse" aria-labelledby="heading-{{ .Get "id" }}" data-bs-parent="#{{ $parent_id }}">
+        <div class="accordion-body">
+            {{ if eq $is_inner_markdown "true" }}
+                {{ .Inner | strings.TrimSpace | .Page.RenderString }}
+            {{ else }}
+                {{ .Inner }}
+            {{ end}}
+        </div>
+    </div>
+</div>

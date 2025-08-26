@@ -1,0 +1,284 @@
+{{ define "main" }}
+<!-- Hero Section -->
+<section id="hero" class="hero section dark-background">
+
+  <img src="/img/hero-bg-gentsebc.png" alt="" data-aos="fade-in">
+
+  <div class="container">
+    <h2 data-aos="fade-up" data-aos-delay="100">Gentse Badminton Club</h2>
+    <p data-aos="fade-up" data-aos-delay="200">Waar elke badminton speler een sportieve uitdaging krijgt.</p>
+    <div class="d-flex mt-4" data-aos="fade-up" data-aos-delay="300">
+      <a href="/word-lid" class="btn-become-member">Word lid</a>
+    </div>
+  </div>
+
+</section><!-- /Hero Section -->
+
+<!-- short term kalendar -->
+<section id="short-term-calendar" class="short-term-calendar">
+{{ partial "short-term-calendar" . }}
+</section>
+<!-- /short term kalendar -->
+
+
+<!-- About Section -->
+<section id="about" class="about section">
+
+  <div class="container">
+
+    <div class="row gy-4">
+
+      <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-up" data-aos-delay="100">
+        <img src="/img/hero-bg-groepsfoto.jpg" class="img-fluid" alt="">
+      </div>
+
+      <div class="col-lg-6 order-2 order-lg-1 content" data-aos="fade-up" data-aos-delay="200">
+        <h3>Welkom bij Gentse Badmintonclub</h3>
+        <p>
+            Welkom bij Gentse Badmintonclub. Of je nu voor het eerst een racket vastneemt of al jaren op competitieniveau speelt, bij onze club vind je altijd een plek. Met meer dan 250 actieve leden zijn we één van de grootste en meest bruisende badmintonverenigingen in Gent.
+        </p><p class="fst-italic">
+            Wat ons uniek  maakt?
+        </p>
+        <ul>
+          <li><i class="bi bi-check-circle"></i> <span>Onze inclusieve sfeer en het brede aanbod voor jong en oud.</span></li>
+          <li><i class="bi bi-check-circle"></i> <span>Van enthousiaste jeugdspelers tot fanatieke recreanten, van gedreven competitiespelers tot G-sporters – iedereen krijgt bij ons de kans om op  zijn of haar niveau te groeien, te sporten, een uitlaatklep te vinden en vooral plezier te maken.</span></li>
+          <li><i class="bi bi-check-circle"></i> <span>Gentse BC is de club die een uitdaging biedt aan iedere badmintonner.</span></li>
+        </ul>
+      </div>
+
+    </div>
+
+  </div>
+
+</section><!-- /About Section -->
+
+<!-- Counts Section -->
+<section id="counts" class="section counts light-background">
+
+  <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+    <div class="row gy-4">
+
+      <div class="col-lg-4 col-md-6">
+        <div class="stats-item text-center w-100 h-100">
+          <span data-purecounter-start="0" data-purecounter-end="250" data-purecounter-duration="1" class="purecounter"></span>
+          <p>Leden</p>
+        </div>
+      </div><!-- End Stats Item -->
+
+      <div class="col-lg-4 col-md-6">
+        <div class="stats-item text-center w-100 h-100">
+          <span data-purecounter-start="0" data-purecounter-end="4" data-purecounter-duration="1" class="purecounter"></span>
+          <p>Wekelijkse speelmomenten</p>
+        </div>
+      </div><!-- End Stats Item -->
+
+      <div class="col-lg-4 col-md-6">
+        <div class="stats-item text-center w-100 h-100">
+          <span data-purecounter-start="0" data-purecounter-end="14" data-purecounter-duration="1" class="purecounter"></span>
+          <p>Competitie ploegen</p>
+        </div>
+      </div><!-- End Stats Item -->
+
+
+    </div>
+
+  </div>
+
+</section><!-- /Counts Section -->
+
+<!-- Gentse BC groups Section -->
+<section id="groups" class="section groups">
+
+  <div class="container">
+
+    <div class="row gy-4">
+
+      <div class="col-lg-12 d-flex align-items-stretch">
+        <div class="row gy-4" data-aos="fade-up" data-aos-delay="200">
+
+          <div class="col-xl-3">
+            <div class="icon-box d-flex flex-column justify-content-center align-items-center">
+              <i class="fa-solid fa-children"></i>
+              <h4>Jeugd</h4>
+              <p>Voor spelers tussen 8 en 18j bieden we 1 tot 2 trainings momenten aan op woensdag avond en zaterdag voormiddag.</p>
+              <p><i class="bi bi-geo-alt"></i> Wielerpiste op woensdag</p>
+              <p><i class="bi bi-geo-alt"></i> Bourgoyen op zaterdag</p>
+              <div class="text-center">
+                <a href="{{ .Ref (dict "path" "/groepen/jeugd") }}" class="more-btn"><span>Lees meer</span> <i class="bi bi-chevron-right"></i></a>
+              </div>
+            </div>
+          </div><!-- End Icon Box -->
+
+          <div class="col-xl-3" data-aos="fade-up" data-aos-delay="400">
+            <div class="icon-box d-flex flex-column justify-content-center align-items-center">
+              <i class="fa-brands fa-accessible-icon"></i>
+              <h4>G-bad</h4>
+              <p>Voor mensen met een lichte mentale beperking vanaf 15j hebben we een speelmoment op zaterdag voormiddag.</p>
+              <p><i class="bi bi-geo-alt"></i> Topsporthal</p>
+              <div class="text-center">
+                 <a href="{{ .Ref (dict "path" "/groepen/g-badminton") }}" class="more-btn"><span>Lees meer</span> <i class="bi bi-chevron-right"></i></a>
+              </div>
+            </div>
+          </div><!-- End Icon Box -->
+
+          <div class="col-xl-3" data-aos="fade-up" data-aos-delay="300">
+            <div class="icon-box d-flex flex-column justify-content-center align-items-center">
+              <i class="fa-solid fa-user"></i>
+              <h4>Volwassenen</h4>
+              <p>Zowel voor recreatieve als competitie spelers bieden we wekelijks 4 speelmomenten aan.</p>
+              <p><i class="bi bi-geo-alt"></i> Wielerpiste  op maandag,woensdag & vrijdag</p>
+              <p><i class="bi bi-geo-alt"></i> Bourgoyen  op zondag</p>
+              <div class="text-center">
+                  <a href="{{ .Ref (dict "path" "/groepen/volwassenen") }}" class="more-btn"><span>Lees meer</span> <i class="bi bi-chevron-right"></i></a>
+              </div>
+            </div>
+          </div><!-- End Icon Box -->
+
+          <div class="col-xl-3" data-aos="fade-up" data-aos-delay="400">
+            <div class="icon-box d-flex flex-column justify-content-center align-items-center">
+              <i class="fa-solid fa-people-arrows"></i>
+              <h4>Competitie</h4>
+              <p>Voor wie graag ook eens in teamverband tegen spelers van andere clubs willen spelen. </p>
+              <div class="text-center">
+                    <a href="{{ .Ref (dict "path" "/groepen/competitie") }}" class="more-btn"><span>Lees meer</span> <i class="bi bi-chevron-right"></i></a>
+              </div>
+
+            </div>
+          </div><!-- End Icon Box -->
+
+
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+
+</section><!-- /Gentse BC groups Section -->
+
+<!-- News items Section -->
+<section id="news-items" class="news-items section">
+
+  <!-- Section Title -->
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Nieuwsberichten</h2>
+  </div><!-- End Section Title -->
+
+  <div class="container">
+
+    <div class="row">
+
+        {{ $latestArticles := (where .Site.Pages "Params.categories" "intersect" (slice "news")).ByDate.Reverse | first 3 }}
+        {{ range $latestArticles}}
+            {{ .Render "summary_compact_news" }}
+        {{ end}}
+
+    </div>
+
+  </div>
+
+</section><!-- /News item Section -->
+
+<!-- Events Section -->
+<section id="events" class="events section">
+
+  <!-- Section Title -->
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Evenementen</h2>
+  </div><!-- End Section Title -->
+
+  <div class="container">
+
+    <div class="row">
+
+        {{ $latestArticles := (where .Site.Pages "Params.categories" "intersect" (slice "event")).ByDate.Reverse | first 3 }}
+        {{ range $latestArticles}}
+            {{ .Render "summary_compact_event" }}
+        {{ end}}
+
+
+    </div>
+
+  </div>
+
+</section><!-- /Events Section -->
+
+
+<!-- Partners Section -->
+<section id="partners" class="partners section">
+
+  <!-- Section Title -->
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Partners</h2>
+  </div><!-- End Section Title -->
+
+  <div class="container">
+
+    <div class="row">
+
+      <div class="col-lg-3 col-md-4 d-flex align-items-stretch mt-4 mt-md-0" data-aos="flip-left" data-aos-delay="200">
+        <div class="partner-item">
+          <a href="https://badmintonland.be/">
+            <img src="/img/partners/Badmintonland_300x83.jpg" class="img-fluid" alt="Badmintonland">
+          </a>
+
+          <div class="partner-item-content">
+            <p class="description">Voor al je badminton materiaal, surf naar <a href="https://badmintonland.be/">badmintonland.be</a></p>
+
+            <div class="">
+              <a href="{{ .Ref (dict "path" "/sponsors/badmintonland") }}" class="more-btn"><span>Lees meer</span> <i class="bi bi-chevron-right"></i></a>
+            </div>
+
+          </div>
+        </div>
+      </div> <!-- End Partner Item-->
+
+      <div class="col-lg-3 col-md-4 d-flex align-items-stretch mt-4 mt-md-0" data-aos="flip-left" data-aos-delay="200">
+        <div class="partner-item">
+          <a href="https://www.uitpas.be/">
+            <img src="img/partners/UiTpas.jpg" class="img-fluid" alt="UitPasGent">
+          </a>
+        </div>
+      </div> <!-- End Partner Item-->
+
+      <div class="col-lg-3 col-md-4 d-flex align-items-stretch mt-4 mt-md-0" data-aos="flip-left" data-aos-delay="200">
+        <div class="partner-item">
+          <a href="https://www.jeugdbadmintonplus.be/">
+            <img src="img/partners/Logo_Bad_PlusC.png" class="img-fluid" alt="Jeugd Badminton Plus">
+          </a>
+        </div>
+      </div> <!-- End Partner Item-->
+
+      <div class="col-lg-3 col-md-4 d-flex align-items-stretch mt-4 mt-md-0" data-aos="flip-left" data-aos-delay="200">
+        <div class="partner-item">
+          <a href="https://www.sport.vlaanderen/">
+            <img src="img/partners/SportVlaanderen.png" class="img-fluid" alt="Sport Vlaanderen">
+          </a>
+        </div>
+      </div> <!-- End Partner Item-->
+
+      <div class="col-lg-3 col-md-4 d-flex align-items-stretch mt-4 mt-md-0" data-aos="flip-left" data-aos-delay="200">
+        <div class="partner-item">
+          <a href="http://www.stad.gent/sport">
+            <img src="img/partners/logoGent_c100.png" class="img-fluid" alt="Stad Gent">
+          </a>
+        </div>
+      </div> <!-- End Partner Item-->
+
+      <div class="col-lg-3 col-md-4 d-flex align-items-stretch mt-4 mt-md-0" data-aos="flip-left" data-aos-delay="200">
+        <div class="partner-item">
+          <a href="https://www.badmintonvlaanderen.be/">
+            <img src="img/partners/BadVla_Lang-2.png" class="img-fluid" alt="Badminton Vlaanderen">
+          </a>
+        </div>
+      </div> <!-- End Partner Item-->
+
+    </div>
+
+  </div>
+</section>
+
+
+{{ end }}

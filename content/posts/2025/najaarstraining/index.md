@@ -1,13 +1,12 @@
 ---
-title: "Najaarstraining sept-dec 2025"
-date: 2025-08-14T00:00:00+02:00
-draft: false
-categories: ['algemeen']
-carousel: false
-carousel_img: '/images/posts/shuttles_basket_chair.webp'
-author: secretaris
+date: 2025-08-15T10:07:44+02:00
+draft : false
+title : "Najaarstraining sept-dec 2025"
+categories: ['news']
+author: "Secretaris"
+summary: "Schrijf je op de trainings reeks die start mid sept 2025."
+summary_img: "/img/posts/shuttles_basket_chair.webp"
 ---
-
 Ook dit najaar zijn er opnieuw badminton trainingen. De nieuw reeks start vanaf 12 september.
 Deze training staat open voor zowel competitiespelers als recreanten. Let wel, deze staan enkel open voor leden van Gentse BC. Mocht dit nog niet gebeurd zijn moet je je eerst nog aanmelden als lid.
 
@@ -24,4 +23,4 @@ Waarom zou je inschrijven voor de trainingen?
 Inschrijven is noodzakelijk en plaatsen zijn beperkt. First come, first served principe.
 Heb je verdere vragen over de trainingen, dan kan je terecht bij Steven of Isabelle.
 
-Klik hier voor meer info en inschrijven voor de trainingsreeks: https://app.twizzit.com/go/gentsebc-training-najaar-2025
+[Klik hier](https://app.twizzit.com/go/gentsebc-training-najaar-2025) voor meer info en inschrijven voor de trainingsreeks via Twizzit.

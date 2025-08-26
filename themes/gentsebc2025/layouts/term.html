@@ -1,0 +1,22 @@
+{{ define "main" }}
+  {{ partial "breadcrumb.html" . }}
+
+<div class="container mt-1">
+    <div class="row">
+        <div class="col-sm">
+            {{ .Content }}
+            <ul>
+            {{ range .Pages }}
+                {{ $dateHuman := .Date | time.Format ":date_long" }}
+                {{ $author := .Params.author | default .Site.Params.author }}
+
+                <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> &nbsp;&nbsp; {{ $author }}, {{ $dateHuman }}</li>
+            {{ end }}
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+
+{{ end }}

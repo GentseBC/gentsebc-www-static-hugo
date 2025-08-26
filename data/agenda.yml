@@ -1,80 +1,12 @@
-homepage:
+volwassenen:
   - agenda:
     name: 'twizzit volwassenen'
     src: '2l08prgcjs85td5d62pbi2snqm0koj6q@import.calendar.google.com'
     color: '#F6BF26'
+jeugd:
   - agenda:
     name: 'twizzit jeugd'
     src: '28slvkett57tcftbhfg6afl5dioluboh@import.calendar.google.com'
-    color: '#8E24AA'
-nieuws:
-  - agenda:
-    name: 'twizzit volwassenen'
-    src: '2l08prgcjs85td5d62pbi2snqm0koj6q@import.calendar.google.com'
-    color: '#F6BF26'
-  - agenda:
-    name: 'twizzit jeugd'
-    src: '28slvkett57tcftbhfg6afl5dioluboh@import.calendar.google.com'
-    color: '#8E24AA'
-  - agenda:
-    name: 'officiele tornooien'
-    src: '3j72eskldk70t4pl5jiqv21oa0@group.calendar.google.com'
-    color: '#33B679'
-  - agenda:
-    name: 'Gentse 1H'
-    src: 'g5q527nffj0amf4upj7d7e3rs4@group.calendar.google.com'
-    color: '#EF6C00'
-  - agenda:
-    name: 'Gentse 2H'
-    src: '2ffq1mb6mmu7f1fevooae35u7s@group.calendar.google.com'
-    color: '#E67C73'
-  - agenda:
-    name: 'Gentse 3H'
-    src: 'u7fjmea9j7i1l1b9d0poot87d4@group.calendar.google.com'
-    color: '#D50000'
-  - agenda:
-    name: 'Gentse 4H'
-    src: 'cu1kpc8a3en8rkjdogdtvt8kv8@group.calendar.google.com'
-    color: '#E4C441'
-  - agenda:
-    name: 'Gentse 5H'
-    src: 'c9r6nbhv7mvnkq51k2l7197euo@group.calendar.google.com'
-    color: '#8E24AA'
-  #- agenda:
-  #  name: 'Gentse 6H'
-  #  src: 'ceh113h6js7crebpqo7ls4n31c@group.calendar.google.com'
-  #  color: '#9E69AF'
-  - agenda:
-    name: 'Gentse 1D'
-    src: '5258frodbqmi535lshgsrr28t4@group.calendar.google.com'
-    color: '#E67C73'
-  - agenda:
-    name: 'Gentse 2D'
-    src: 'mh9ji22d6s16j0clkcr0s2l488@group.calendar.google.com'
-    color: '#EF6C00'
-  - agenda:
-    name: 'Gentse 1G'
-    src: 'hj0pmlq2noaunh93r9fvcfftik@group.calendar.google.com'
-    color: '#B39DDB'
-  - agenda:
-    name: 'Gentse 2G'
-    src: 'c798qikci0faviac1k2iume4ns@group.calendar.google.com'
-    color: '#F6BF26'
-  - agenda:
-    name: 'Gentse 3G'
-    src: 'icqsrag8n8f09f20jj7vo4grck@group.calendar.google.com'
-    color: '#D81B60'
-  - agenda:
-    name: 'Gentse 4G'
-    src: 'e558arff6rlkh4mmdg2ig2eie8@group.calendar.google.com'
-    color: '#D50000'
-  - agenda:
-    name: 'Gentse 5G'
-    src: '0uojoidme3bnh4v91h5r4mouso@group.calendar.google.com'
-    color: '#B39DDB'
-  - agenda:
-    name: 'Gentse 6G'
-    src: '42npl5kciku20orbbfrlboek6c@group.calendar.google.com'
     color: '#8E24AA'
 competitie:
   - agenda:
@@ -110,6 +42,10 @@ competitie:
     src: 'mh9ji22d6s16j0clkcr0s2l488@group.calendar.google.com'
     color: '#EF6C00'
   - agenda:
+    name: 'Gentse 3D'
+    src: '4km86c33ik3h65bt7l8c3013eg@group.calendar.google.com'
+    color: '#33B679'
+  - agenda:
     name: 'Gentse 1G'
     src: 'hj0pmlq2noaunh93r9fvcfftik@group.calendar.google.com'
     color: '#B39DDB'
@@ -129,14 +65,14 @@ competitie:
     name: 'Gentse 5G'
     src: '0uojoidme3bnh4v91h5r4mouso@group.calendar.google.com'
     color: '#B39DDB'
-  - agenda:
-    name: 'Gentse 6G'
-    src: '42npl5kciku20orbbfrlboek6c@group.calendar.google.com'
-    color: '#8E24AA'
+  #- agenda:
+  #  name: 'Gentse 6G'
+  #  src: '42npl5kciku20orbbfrlboek6c@group.calendar.google.com'
+  #  color: '#8E24AA'
 gbadminton:
   - agenda:
     name: Speeldata G-badminton
     src: 'a8d5rv4mn09nr97soatg64kfe01bq3ld@import.calendar.google.com'
     color: '#F6BF26'
 # Other color codes that can be used
-# #F6BF26   #F6BF26
+# #F6BF26   #33B679

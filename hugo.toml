@@ -1,0 +1,84 @@
+baseURL = 'https://example.org/'
+languageCode = 'nl-be'
+title = 'Gentse BC'
+theme = 'gentsebc2025'
+defaultContentLanguage = 'nl'
+pluralizeListTitles = false
+
+[taxonomies]
+    category = 'categories'
+    tag = 'tags'
+
+[params]
+    date_format = "02 January, 2006"
+    static_content_prefix = ''
+
+[markup.goldmark.renderer]
+    unsafe= true
+
+
+[menus]
+    [[menus.main]]
+        name = 'Home'
+        pageRef = '/'
+        weight = 10
+    [[menus.main.params]]
+        alternativeName = '<span class="fas fa-home"></span><br>'
+
+[[menus.main]]
+    identifier = 'clubinfo'
+    name = 'Clubinfo'
+    pageRef = '/'
+    weight = 20
+
+[[menus.main]]
+    parent = "clubinfo"
+    name = 'Bestuur'
+    pageRef = '/clubinfo/bestuur'
+    weight = 10
+[[menus.main]]
+    parent = "clubinfo"
+    name = 'Documenten'
+    pageRef = '/clubinfo/documenten'
+    weight = 10
+[[menus.main]]
+    parent = "clubinfo"
+    name = 'Twizzit'
+    pageRef = '/clubinfo/twizzit'
+    weight = 20
+
+
+
+[[menus.main]]
+    identifier = 'groepen'
+    name = 'Groepen'
+    weight = 20
+
+[[menus.main]]
+    parent = 'groepen'
+    name = 'Jeugd'
+    pageRef = '/groepen/jeugd'
+    weight = 10
+
+[[menus.main]]
+    parent = 'groepen'
+    name = 'Volwassenen'
+    pageRef = '/groepen/volwassenen'
+    weight = 20
+
+[[menus.main]]
+    parent = 'groepen'
+    name = 'Competitie'
+    pageRef = '/groepen/competitie'
+    weight = 30
+
+[[menus.main]]
+    parent = 'groepen'
+    name = 'G-bad'
+    pageRef = '/groepen/g-badminton'
+    weight = 40
+
+[[menus.main]]
+    name = 'Contact'
+    pageRef = '/contact'
+    weight = 30

@@ -1,0 +1,26 @@
+{{ $dateFormat := default "Jan 2, 2006" (index .Site.Params "date_format") }}
+{{ $author := .Params.author | default .Site.Params.author }}
+
+<div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+    <div class="news-item">
+        <img src="{{cond (isset .Params "summary_img") .Params.summary_img "/img/posts/default.jpeg" }}" class="img-fluid" alt="...">
+        <div class="news-item-content">
+
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <p class="description"> {{ .Summary }}</p>
+
+            <div class="news-author text-end mb-3">
+                {{ if $author }}
+                    {{ i18n "by" }} <span rel="author">door {{ $author }}, </span>
+                {{ end }}
+                {{ if not .Date.IsZero }}
+                    {{ time.Format $dateFormat .Date}}
+                {{ end }}
+            </div>
+
+            <div class="">
+                <a href="{{ .RelPermalink }}" class="more-btn"><span>Lees meer</span> <i class="bi bi-chevron-right"></i></a>
+            </div>
+        </div>
+    </div>
+</div> <!-- End News Item-->

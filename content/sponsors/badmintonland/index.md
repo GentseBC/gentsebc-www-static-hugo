@@ -1,11 +1,11 @@
 ---
 title: "Badmintonland"
-date: 2017-01-10T15:50:16+02:00
+date: 2025-08-19T12:00:00+02:00
 author: Thomas
 draft: false
 ---
 
-![Image alt](images/BadmintonLand_1219x339.jpg)
+![Image alt](img/BadmintonLand_1219x339.jpg)
 # Alle materialen voor uw badmintonsport in voorraad.
 ## Ook voor nieuwe snaren in uw racket, het juiste adres.
 

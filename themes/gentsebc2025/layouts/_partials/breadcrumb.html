@@ -1,0 +1,34 @@
+{{ $firstCat :=  index (.Page.Params.categories) 0 }}
+<!-- Page Title -->
+<div class="page-title" data-aos="fade">
+    <nav class="breadcrumbs">
+        <div class="container">
+            <ol>
+                {{- range .Ancestors.Reverse }}
+                <li class="">
+                    {{ if eq .Title "Posts" }} <a href="/categories/{{$firstCat}}">
+                    {{ else }} <a href="{{ .RelPermalink }}">
+                    {{ end }}
+
+                    {{ if .IsHome }} Home
+                    {{ else if eq .Title "Posts"}}
+                        {{ if eq $firstCat "news"  }} Nieuwsberichten
+                        {{ else if eq $firstCat "event"  }} Evenementen
+                        {{ end }}
+                    {{ else if eq .Title "Categories"}} Categorieën
+                    {{ else }} {{ .Title }}
+                    {{ end }}</a>
+                </li>
+                <span class="" aria-hidden="true">&nbsp;»&nbsp</span>
+                {{- end }}
+                <li class="active">
+                    {{ if eq .Title "News" }} Nieuwsberichten
+                    {{ else if eq .Title "Event" }} Evenementen
+                    {{ else if eq .Title "Categories"}} Categorieën
+                    {{ else }} {{ .Title }}
+                    {{ end }}
+                </li>
+            </ol>
+        </div>
+    </nav>
+</div><!-- End Page Title -->
