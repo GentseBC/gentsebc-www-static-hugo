@@ -74,7 +74,7 @@ Er zijn geen jeugdspeelmomenten op feestdagen. In de schoolvakanties is dit afha
 *  Sportkledij: short en tshirt. GEEN jeansbroeken.
 *  Water om de dorst te lessen.
 
-Heb je nog geen racket dan kan je er eentje lenen op de introductiemomenten. Voor wie al lid is vragen we eigen materiaal mee te brengen.  Je kan steeds advies vragen aan de trainers waar je een goed racket kan vinden en in welke prijscategoriën.
+Heb je nog geen racket dan kan je er eentje lenen op de introductiemomenten. Voor wie al lid is vragen we eigen materiaal mee te brengen.  Je kan steeds advies vragen aan de trainers waar je een goed racket kan vinden en in welke prijscategorieën.
 
 ## Uitpas
 {{< figure src="img/UiTpas.jpg" width="30%">}}
