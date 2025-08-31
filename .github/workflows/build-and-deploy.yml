@@ -32,19 +32,25 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-hugogen-
 
+      - name: Build site with hugo
+        run: hugo --baseURL https://www.gentsebc.be/ --minify
+
       - name: Setup SSH, install SSH Key
+        if: github.ref == 'refs/heads/master'
         uses: shimataro/ssh-key-action@v2
         with:
           key: ${{ secrets.REMOTE_SSH_PRIVATE_KEY }}
           known_hosts: unnecessary
 
       - name: Settup SSH, adding Known Hosts
+        if: github.ref == 'refs/heads/master'
         run: ssh-keyscan -p ${{ secrets.REMOTE_SSH_PORT}} -H ${{ secrets.REMOTE_SSH_HOST }}  >> ~/.ssh/known_hosts
 
       - name: Build site with hugo
         run: hugo --baseURL https://www.gentsebc.be/ --minify
 
       - name: Set config values into template
+        if: github.ref == 'refs/heads/master'
         uses: bluwy/substitute-string-action@v1
         id: sub
         with:
@@ -57,4 +63,5 @@ jobs:
           recaptchasitesecret: ${{ secrets.RECAPTCHA_SITE_SECRET }}
 
       - name: Deploy with rsync
+        if: github.ref == 'refs/heads/master'
         run: rsync -avz --checksum --delete -e "ssh -p ${{ secrets.REMOTE_SSH_PORT }}" ./public/ ${{ secrets.REMOTE_SSH_USER }}@${{ secrets.REMOTE_SSH_HOST }}:/customers/2/3/0/gentsebc.be/httpd.www/
