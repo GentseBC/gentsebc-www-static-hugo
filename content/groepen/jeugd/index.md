@@ -27,7 +27,7 @@ Onze werking draait heel goed met als gevolg dat we volzet zijn voor het seizoen
 
 
 ## Ambitie
-De speler kan zelf aangeven wat zijn/haar ambitie is binnen badminton. recreatief  spelen of stevig doortrainen. Er is geen automatische doorstroom bij bv. een bepaald niveau of de leeftijd als de speler dit niet wenst. Door middel van aangepaste trainingen willen we sport, bewegen, en in het bijzonder badminton, stimuleren bij kinderen en jongeren. We verkiezen een resultaat op lange termijn boven onmiddellijk succes.
+De speler kan zelf aangeven wat zijn/haar ambitie is binnen badminton. recreatief  spelen of stevig doortrainen. Op woensdag wordt er in 3 groepen gewerkt op basis van leeftijd en niveau. Op zaterdag spelen we allemaal in 1 groep.  Door middel van aangepaste trainingen willen we sport, bewegen, en in het bijzonder badminton, stimuleren bij kinderen en jongeren. We verkiezen een resultaat op lange termijn boven onmiddellijk succes.
 
 * Iedereen leert de badminton basisvaardigheden aan. De oefeningen zijn aangepast een de leeftijd en niveau van het kind en er is ruimte voor vrij spel. Alle groepen worden begeleid en technisch bijgestuurd.
 
