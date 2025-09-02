@@ -50,12 +50,28 @@ Heb je een vraag, een probleem of wil je je mening over iets kwijt? Kijk op deze
 Onze groep trainers is razend enthousiast! Graag willen ze hun passie aan jou overbrengen. Iedereen is welkom op de trainingen; van jong tot oud en van absolute beginners tot (ver)gevorderden.
 
 {{< container-row >}}
-{{< card-in-column n="4" img="images/bert.jpg" title="Bert Mullaert" />}}
-{{< card-in-column n="4" img="images/steven.jpeg" title="Steven Verbruggen" />}}
-{{< card-in-column n="4" img="images/joachim.jpg" title="Joachim Bonte" />}}
-{{< card-in-column n="4" img="images/pepijn.jpeg" title="Pepijn Van Rossom" />}}
-{{< card-in-column n="4" img="images/simon.jpg" title="Simon Van Moeseke" />}}
-{{< card-in-column n="4" img="images/alwin.jpg" title="Alwin De Moor" />}}
+{{< card-in-column n="4" img="images/steven.jpeg" title="Steven Verbruggen" >}}
+Volwassenen, jeugd
+{{< /card-in-column >}}
+{{< card-in-column n="4" img="images/pepijn.jpeg" title="Pepijn Van Rossom" >}}
+Jeugd
+{{< /card-in-column >}}
+
+{{< card-in-column n="4" img="images/simon.jpg" title="Simon Van Moeseke" >}}
+Jeugd
+{{< /card-in-column >}}
+
+{{< card-in-column n="4" img="images/bert.jpg" title="Bert Mullaert" >}}
+Jeugd
+{{< /card-in-column >}}
+{{< card-in-column n="4" img="images/joachim.jpg" title="Joachim Bonte" >}}
+Jeugd
+{{< /card-in-column >}}
+
+{{< card-in-column n="4" img="images/alwin.jpg" title="Alwin De Moor" >}}
+Jeugd
+{{< /card-in-column >}}
+
 
 
 {{< /container-row >}}
