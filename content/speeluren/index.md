@@ -10,10 +10,10 @@ Een seizoen loopt van september tot juni. In het algemeen zijn dit de speelmomen
 {{< table table table-striped table-bordered >}}
 | Dag      | Uren | Locatie |
 | ----------- | ----------- | ----------- |
-| maandag | 20u00-22u00 | Wielerpiste (6 velden) |
-| woensdag | 20u00-22u00 | Wielerpiste (volledig, 12 velden) |
-| vrijdag | 19u00-22u00 | Wielerpiste (volledig, 12 velden) |
-| zondag | 19u00-22u00 | Bourgoyen  (volledig, 12 velden) |
+| maandag | 20u00-22u00 | Vlaams Wielercentrum Eddy Merckx, Blaarmeersen, Gent (6 velden) |
+| woensdag | 20u00-22u00 | Vlaams Wielercentrum Eddy Merckx, Blaarmeersen, Gent (volledig, 12 velden) |
+| vrijdag | 19u00-22u00 | Vlaams Wielercentrum Eddy Merckx, Blaarmeersen, Gent (volledig, 12 velden) |
+| zondag | 19u00-22u00 | Sporthal Bourgoyen, Gent  (volledig, 12 velden) |
 {{< /table >}}
 
 Iedereen komt wanneer, zolang en zovaak men wil. Er zijn geen verplichtingen.

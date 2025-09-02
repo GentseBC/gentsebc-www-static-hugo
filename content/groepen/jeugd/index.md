@@ -41,8 +41,8 @@ De speler kan zelf aangeven wat zijn/haar ambitie is binnen badminton. recreatie
 {{< table table table-striped table-bordered >}}
 | Leeftijd      | Dag | Uren | Locatie  |
 | ----------- | ----------- | ----------- | -----------|
-| MiniBad (8-10 jaar) | woensdag | 18u30-20u00 | Sporthal Wielerpiste Eddy Merckx, Blaarmeersen, Gent
-| Badminton +10 jaar | woensdag | 18u30-20u00 | Sporthal Wielerpiste Eddy Merckx, Blaarmeersen, Gent
+| MiniBad (8-10 jaar) | woensdag | 18u30-20u00 | Vlaams Wielercentrum Eddy Merckx, Blaarmeersen, Gent
+| Badminton +10 jaar | woensdag | 18u30-20u00 | Vlaams Wielercentrum Eddy Merckx, Blaarmeersen, Gent
 | Badminton +10 jaar    | zaterdag        | 10u00-12u00 | Sporthal Bourgoyen, Gent
 {{< /table >}}
 

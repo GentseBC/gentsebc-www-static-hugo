@@ -9,7 +9,7 @@ aliases:
 ---
 {{< alert-box type="info">}}
 **Voor wie?** voor mensen met een lichte mentale beperking vanaf 15 jaar  
-**Wanneer en waar?** op zaterdag van 10h00 tem 12h00 in Topsporthal, Zuiderlaan 14, 9000 Gent (eerste verdieping)
+**Wanneer en waar?** op zaterdag van 10h00 tem 12h00 in Topsporthal Vlaanderen, Zuiderlaan 14, 9000 Gent (eerste verdieping)
 
 {{< table table table-striped table-bordered >}}
 | Lidgeld | seizoen 2025-2026 | G-badmintonner |
