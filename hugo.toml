@@ -62,21 +62,22 @@ pluralizeListTitles = false
 
 [[menus.main]]
     parent = 'groepen'
+    name = 'G-bad'
+    pageRef = '/groepen/g-badminton'
+    weight = 20
+
+[[menus.main]]
+    parent = 'groepen'
     name = 'Volwassenen'
     pageRef = '/groepen/volwassenen'
-    weight = 20
+    weight = 30
 
 [[menus.main]]
     parent = 'groepen'
     name = 'Competitie'
     pageRef = '/groepen/competitie'
-    weight = 30
-
-[[menus.main]]
-    parent = 'groepen'
-    name = 'G-bad'
-    pageRef = '/groepen/g-badminton'
     weight = 40
+
 
 [[menus.main]]
     name = 'Contact'
