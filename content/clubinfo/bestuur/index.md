@@ -61,7 +61,7 @@ Naast het bestuur hebben volgende medewerkers een specifieke taak op zich genome
 De avondverantwoordelijken zijn te bereiken op volgend emailadres: avondverantwoordelijken@gentsebc.be
 {{< container-row >}}
     {{< card-in-column n="4" img="images/vero.jpg" title="Véronique Cloquet" >}}
-    Avondverantwoordelijke WOENSDAG
+    Avondverantwoordelijke
     {{< /card-in-column >}}
 
     {{< card-in-column n="4" img="images/sibbel.jpeg" title="Sibbel De Mits" >}}
