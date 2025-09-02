@@ -30,8 +30,13 @@ Heb je een vraag, een probleem of wil je je mening over iets kwijt? Kijk op deze
     {{< /card-in-column >}}
 
      {{< card-in-column img="images/jera.jpeg" title="Jera" >}}
-      <b>Competitieverantwoordelijke</b><br>ploegenopstelling, planning wedstrijdkalender, communicatie competitiespelers, opvolgen wedstrijdleiders<br>jeugd@gentsebc.be
+      <b>Competitieverantwoordelijke</b><br>ploegenopstelling, planning wedstrijdkalender, communicatie competitiespelers, opvolgen wedstrijdleiders<br>competitie@gentsebc.be
     {{< /card-in-column >}}
+
+     {{< card-in-column img="images/anton.jpeg" title="Anton" >}}
+      <b>Competitieverantwoordelijke</b>
+    {{< /card-in-column >}}
+
 
      {{< card-in-column img="images/kathy.png" title="Kathy" >}}
       <b>G-verantwoordelijke</b><br>communicatie en organisatie van de G-badminton<br>gbadminton@gentsebc.be
