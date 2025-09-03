@@ -41,7 +41,7 @@ Indien je nog vragen hebt, aarzel niet om een berichtje te sturen naar info@gent
 Goede afspraken maken goede vrienden.
 {{< accordion id="1" >}}
     {{< accordion-item parent_id="1" id="1" title="GentseBC huishoudelijk reglement (PDF)">}}
-    {{< embed-pdf url="/docs/2021_01_23_GentseBC_huishoudelijk-reglement.pdf" >}}
+    {{< embed-pdf url="/docs/2025_09_02_GentseBC_huishoudelijk-reglement.pdf" >}}
     {{< /accordion-item >}}
 
     {{< accordion-item parent_id="1" id="2" title="GentseBC gedragscodes bestuurder (PDF)" >}}
