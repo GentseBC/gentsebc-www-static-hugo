@@ -1,8 +1,8 @@
 ---
-date : "2025-09-02T04:14:54-08:00"
-draft : true
+date : "2025-09-20T04:14:54-08:00"
+draft : false
 title : "Gentse BC PBO jeugdcup op 12 oktober 2025"
-summary: "Laagdrempelig tornooi voor jongeren. Speel badminton, beleef plezier en ontdek competitie."
+summary: "Laagdrempelig tornooi voor kinderen en jongeren."
 summary_img : "/img/posts/medaille.jpeg"
 event_date: "2025-10-12T09:00:00"
 event_location: "Sporthal Bourgoyen. Driepikkelstraat 30, 9030 Mariakerke "
