@@ -9,11 +9,7 @@ slug : 'documenten'
 
 De Gentse BC is verzekerd voor alle ongevallen die gebeuren op de officiële speelmomenten of indien een clublid een ongeval kreeg op weg van/naar huis (op voorwaarde dat er geen grote omweg wordt gemaakt). De verzekering loopt via Badminton Vlaanderen. De verzekeraar is “Arena”. Je hebt altijd een getuige nodig die jouw ongeval bevestigt.
 
-Bij tussenkomst van de mutualiteit is de waarborg €375 per ongeval, tot 150% van het tarief van het RIZIV. Daarnaast dekken wij ook de kosten voor brillen/contactlenzen, maar enkel bij ongevallen waarbij er sprake is van vastgesteld lichamelijk letsel. Hierbij geldt een maximum van €500 per ongeval.
-
-
-Alle claims en documenten kan je digitaal indienen, waardoor het hele proces veel sneller en efficiënter zal verlopen.
-Je kan de polis terugvinden via [www.badmintonvlaanderen.be > verzekering](https://www.badmintonvlaanderen.be/page/27479/Verzekering).
+Alle claims en documenten kan je digitaal indienen, waardoor het hele proces veel sneller en efficiënter zal verlopen. Je kan de polis terugvinden via [www.badmintonvlaanderen.be > verzekering](https://www.badmintonvlaanderen.be/page/27479/Verzekering).
 Hier vind je ook alle nodige informatie over de verzekeringspolissen, inclusief dekkingen en voorwaarden.
 
 De schadeaangifte kan je eenvoudig en snel online indienen via [claims-badmintonvlaanderen.be](https://claims-badmintonvlaanderen.be/)
@@ -34,11 +30,12 @@ Info nodig voor het invullen van de papieren
 
 # Huishoudelijk Reglement, gedragscode en privacy
 
-Onze gedragscodes omschrijven de waarden en normen die centraal staan in onze dagelijkse werking: Beweging & sport voor iedereen: iedereen kan deelnemen en voelt zich welkom. Er wordt gesport in een gezonde en veilige omgeving. Met respect voor elkaar, voor het materiaal, de infrastructuur en voor de spelregels. In een familiale sfeer waar plezierbeleving voorop staat. Waar er gepast wordt omgegaan met grensoverschrijdend gedrag.
+Om ervoor te zorgen dat onze werking voor iedereen aangenaam, veilig en transparant verloopt, hebben wij een huishoudelijk reglement en een aantal gedragscodes opgesteld.
 
-Indien je nog vragen hebt, aarzel niet om een berichtje te sturen naar info@gentsebc.be
+Deze documenten bundelen de afspraken en richtlijnen die wij als organisatie hanteren. Ze vormen een belangrijk referentiekader voor alle leden, vrijwilligers en betrokkenen. Door lid te zijn van Gentse BC, word je geacht deze regels te kennen en ermee akkoord te gaan.
 
-Goede afspraken maken goede vrienden.
+Wij vragen dan ook om deze informatie zorgvuldig door te nemen. Op die manier dragen we samen bij aan een respectvolle en vlotte samenwerking.Indien je nog vragen hebt, aarzel niet om een berichtje te sturen naar info@gentsebc.be want goede afspraken maken goede vrienden.
+
 {{< accordion id="1" >}}
     {{< accordion-item parent_id="1" id="1" title="GentseBC huishoudelijk reglement (PDF)">}}
     {{< embed-pdf url="/docs/2025_09_02_GentseBC_huishoudelijk-reglement.pdf" >}}

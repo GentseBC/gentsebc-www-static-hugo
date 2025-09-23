@@ -101,6 +101,13 @@ De avondverantwoordelijken zijn te bereiken op volgend emailadres: avondverantwo
       Webmaster
     {{< /card-in-column >}}
 
+{{< card-in-column n="4" img="images/shuttle.jpg" title="Ward Poelmans" >}}
+      Trainingsverantwoordelijke, Twizzit-wizard
+    {{< /card-in-column >}}
+
+{{< card-in-column n="4" img="images/axel.jpeg" title="Axel Meyer" >}}
+      Materiaalmeester
+    {{< /card-in-column >}}
 
 {{< /container-row >}}
 
