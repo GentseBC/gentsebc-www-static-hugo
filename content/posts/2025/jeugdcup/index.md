@@ -20,7 +20,7 @@ Geniet zeker ook van de sfeerbeelden en foto’s van onze medaillewinnaars! 📸
 
 {{< nano-gallery  >}}
 
-{{< nano-album match-dir="imgs/*.jpg" front-img="imgs/front.jpg" id="1" title="Jeugdcup 2025">}}
+{{< nano-album match-dir="imgs/*.jpg" front-img="imgs/IMG_9064.jpg" id="1" title="Jeugdcup 2025">}}
 
 {{< /nano-gallery >}}
 
