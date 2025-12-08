@@ -32,9 +32,6 @@ Er worden ter plaatse duo’s gevormd met de aanwezige personen en wedstrijdjes 
 Je mag 3x gratis komen testspelen.
 We organiseren ook regelmatig [introductiemomenten]({{< Ref "intromoment" >}}) voor nieuwe leden, meestal in het begin van het seizoen en na nieuwjaar. Zo proberen we de instap en drempelvrees zo laag mogelijk te houden.
 
-Is er geen intromoment in de nabije toekomst, dan mag je gewoon naar een speelmoment komen. Zo kan je meteen meespelen en proeven van de sfeer op het veld. Breng je racket en pluimen mee, spreek een paar mensen langs de kant aan om een match te spelen en je bent vertrokken. Bij ons speelt iedereen tegen iedereen.
-Uiteraard geven we je graag een woordje uitleg en koppelen we je aan enkele mensen met vergelijkbaar spelniveau of ervaring indien nodig. Wel graag een seintje vooraf op info@gentsebc.be wanneer je zou langskomen. Dan kan de avondverantwoordelijke reeds op hoogte zijn.
-
 Wens je lid te worden, dien je het [inschrijvingsformulier]({{< ref "word-lid" >}}) in te vullen. Je krijgt nadien een factuur toegestuurd. Na betaling van het lidgeld ben je officieel ingeschreven en kan je onbeperkt spelen bij ons.
 
 # Lidgeld
