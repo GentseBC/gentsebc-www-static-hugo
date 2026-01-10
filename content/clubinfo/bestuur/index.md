@@ -25,8 +25,12 @@ Heb je een vraag, een probleem of wil je je mening over iets kwijt? Kijk op deze
       <b>Penningmeester</b><br>financiën, begroting en jaarrekening, administratie van inkomsten en uitgaven <br>penningmeester@gentsebc.be
     {{< /card-in-column >}}
 
-    {{< card-in-column img="images/shuttle.jpg" title="Dimitri en Benoit" >}}
+    {{< card-in-column img="images/benoit.jpg" title="Benoit" >}}
       <b>Jeugdverantwoordelijke</b><br>sportieve coördinatie jeugd, communicatie jeugd<br>jeugd@gentsebc.be
+    {{< /card-in-column >}}
+
+ {{< card-in-column img="images/shuttle.jpg" title="Dimitri" >}}
+      <b>Jeugdcoördinator</b><br>sportieve coördinatie jeugd, aanspreekpunt op zaterdag<br>jeugd@gentsebc.be
     {{< /card-in-column >}}
 
      {{< card-in-column img="images/jera.jpeg" title="Jera" >}}
@@ -61,9 +65,14 @@ Jeugd
 Jeugd
 {{< /card-in-column >}}
 
+{{< card-in-column n="4" img="images/Juliando.jpg" title="Juliando" >}}
+Jeugd
+{{< /card-in-column >}}
+
 {{< card-in-column n="4" img="images/bert.jpg" title="Bert Mullaert" >}}
 Jeugd
 {{< /card-in-column >}}
+
 {{< card-in-column n="4" img="images/joachim.jpg" title="Joachim Bonte" >}}
 Jeugd
 {{< /card-in-column >}}
