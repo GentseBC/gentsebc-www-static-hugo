@@ -29,10 +29,12 @@ Er worden ter plaatse duo’s gevormd met de aanwezige personen en wedstrijdjes 
 
 # Interesse?
 
-Je mag 3x gratis komen testspelen.
-We organiseren ook regelmatig [introductiemomenten]({{< Ref "intromoment" >}}) voor nieuwe leden, meestal in het begin van het seizoen en na nieuwjaar. Zo proberen we de instap en drempelvrees zo laag mogelijk te houden.
+Je mag 3x gratis komen testspelen. Voor nieuwe leden organiseren we [introductiemomenten]({{< Ref "intromoment" >}}), meestal in het begin van het seizoen en na nieuwjaar.
 
-Wens je lid te worden, dien je het [inschrijvingsformulier]({{< ref "word-lid" >}}) in te vullen. Je krijgt nadien een factuur toegestuurd. Na betaling van het lidgeld ben je officieel ingeschreven en kan je onbeperkt spelen bij ons.
+We ontvangen nieuwe mensen het liefst samen, zo leer je meteen ook andere nieuwe leden kennen en  proberen we de instap en drempelvrees zo laag mogelijk te houden. Zijn er geen introductiemomenten meer gepland of zijn ze volzet, dan mag je ons even mailen om af te spreken wanneer je kan langskomen. Zo weten we wie we mogen verwachten 🙂
+
+
+Heb je beslist en wens je lid te worden? Vul dan het  [inschrijvingsformulier]({{< ref "word-lid" >}}) in. Na betaling van het lidgeld ben je officieel ingeschreven en kan je onbeperkt spelen bij ons.
 
 # Lidgeld
 
