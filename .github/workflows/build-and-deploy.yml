@@ -42,7 +42,7 @@ jobs:
           key: ${{ secrets.REMOTE_SSH_PRIVATE_KEY }}
           known_hosts: unnecessary
 
-      - name: Settup SSH, adding Known Hosts
+      - name: Setup SSH, adding Known Hosts
         if: github.ref == 'refs/heads/master'
         run: ssh-keyscan -p ${{ secrets.REMOTE_SSH_PORT}} -H ${{ secrets.REMOTE_SSH_HOST }}  >> ~/.ssh/known_hosts
 
@@ -64,4 +64,4 @@ jobs:
 
       - name: Deploy with rsync
         if: github.ref == 'refs/heads/master'
-        run: rsync -avz --checksum --delete -e "ssh -p ${{ secrets.REMOTE_SSH_PORT }}" ./public/ ${{ secrets.REMOTE_SSH_USER }}@${{ secrets.REMOTE_SSH_HOST }}:/customers/2/3/0/gentsebc.be/httpd.www/
+        run: rsync -avz --checksum --delete -e "ssh -p ${{ secrets.REMOTE_SSH_PORT }}" ./public/ ${{ secrets.REMOTE_SSH_USER }}@${{ secrets.REMOTE_SSH_HOST }}:/customers/7/d/2/cmnm7f6sl/webroots/www/
