@@ -21,7 +21,7 @@ Gentse BC organiseert een zomerstage vol badmlnton en andere leuke sporten in de
 
 {{< alert-box type="info">}}
 Inschrijven: 
-https://app.twizzit.com/.../TWJnNjQ0Um8zbWc0eVZVSzI1bXoyZz09
+https://app.twizzit.com/v2/form/TWJnNjQ0Um8zbWc0eVZVSzI1bXoyZz09
 {{</ alert-box >}}
 
 
