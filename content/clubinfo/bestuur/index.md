@@ -65,7 +65,7 @@ Jeugd
 Jeugd
 {{< /card-in-column >}}
 
-{{< card-in-column n="4" img="images/Juliando.jpg" title="Juliando" >}}
+{{< card-in-column n="4" img="images/Juliando.jpg" title="Juliando Kusmanto" >}}
 Jeugd
 {{< /card-in-column >}}
 
