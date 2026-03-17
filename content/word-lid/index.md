@@ -9,8 +9,7 @@ aliases:
 ---
 ### Volwassenen en G-sport 
 Wens je lid te worden van Gentse BC?  Gebruik dan het [inschrijvingsformulier op Twizzit](https://app.twizzit.com/go/gentsebc2526)
-
-Ben je nog niet zeker of je wil aansluiten?  Je mag 3x gratis proefspelen :)
+Gelieve eerst een proefles te komen alvorens het formulier in te vullen. 
 
 
 ### Jeugd 

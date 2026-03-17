@@ -30,12 +30,11 @@ Er worden ter plaatse duo’s gevormd met de aanwezige personen en wedstrijdjes 
 
 # Interesse?
 
-Je mag 3x gratis komen testspelen. Voor nieuwe leden organiseren we [introductiemomenten]({{< Ref "intromoment" >}}), meestal in het begin van het seizoen en na nieuwjaar.
+Voor geïnteresseerde nieuwe leden organiseren we [introductiemomenten]({{< Ref "intromoment" >}}), meestal in het begin van het seizoen en na nieuwjaar, en bijkomende momenten in de loop van het jaar, afhankelijk van de capaciteit. Je mag 3x gratis komen proefspelen, alvorens te beslissen om lid te worden. 
+Gelieve niet onaangekondigd langs te komen naar een speelmoment, maar eerst te verwittigenop avondverantwoordelijken@gentsebc.be. Zo weten we wie we mogen verwachten 🙂
 
-We ontvangen nieuwe mensen het liefst samen, zo leer je meteen ook andere nieuwe leden kennen en  proberen we de instap en drempelvrees zo laag mogelijk te houden. Zijn er geen introductiemomenten meer gepland of zijn ze volzet ([voor data, zie inschrijvingsformulier](https://app.twizzit.com/v2/form/djlnWGNXRTI5Mzl1V29RdWFEMjViQT09)), dan mag je ons mailen op avondverantwoordelijken@gentsebc.be om af te spreken wanneer je kan langskomen. Zo weten we wie we mogen verwachten 🙂
 
-
-Heb je beslist en wens je lid te worden? Vul dan het  [inschrijvingsformulier]({{< ref "word-lid" >}}) in. Na betaling van het lidgeld ben je officieel ingeschreven en kan je onbeperkt spelen bij ons.
+Heb je een introductie gevolgd, en wens je lid te worden? Vul dan het  [inschrijvingsformulier]({{< ref "word-lid" >}}) in. Na betaling van het lidgeld ben je officieel ingeschreven en kan je onbeperkt spelen bij ons.
 
 # Lidgeld
 Als lid kom je zoveel spelen als je wilt.
