@@ -7,17 +7,23 @@ author: Secretaris
 aliases:
     - /volwassenen/intro 
 ---
+
+
+{{< alert-box type="danger">}}
+Momenteel zitten onze groepen voor volwassenen (recreanten) overvol. Daarom organiseren we tijdelijk geen intromomenten meer. Bedankt voor het begrip.
+Our adult groups are currently full. Therefore, we are temporarily no longer organizing introductory sessions. Thank you for your understanding.
+{{</ alert-box >}}
+
+
 Zin om eens te mee spelen en ook de andere “nieuwelingen” van de Gentse BC te ontmoeten?
 
 We beseffen dat het intimiderend kan zijn om als nieuw lid een onbekende speler uit te nodigen voor een partijtje badminton. Daarom nemen we graag de tijd om onze nieuwe of geïnteresseerde leden te ontvangen in de club. Op deze introductiemomenten krijg je informatie over onze club, aansluitend met speelgelegenheid en het opsnuiven van de sfeer op het veld. Kom dus meteen naar de badmintonvelden (of vraag aan de zaalwachter waar je ons kan vinden).
-Schrijf je dus snel in op één van de introductiemomenten in het Vlaams Wielercentrum Eddy Merckx, Blaarmeersen, Gent via het [inschrijvingsformulier op Twizzit](https://app.twizzit.com/v2/form/djlnWGNXRTI5Mzl1V29RdWFEMjViQT09) !
+Schrijf je dus snel in op één van de introductiemomenten in het Vlaams Wielercentrum Eddy Merckx, Blaarmeersen, Gent via dit [inschrijvingsformulier](https://app.twizzit.com/v2/form/djlnWGNXRTI5Mzl1V29RdWFEMjViQT09) !
 
 Breng zeker jouw sportgerief (racket, shuttles, sportkledij en indoor sportschoenen) mee. Heb je nog geen racket dan kan je er eentje lenen, maar laat dit graag op voorhand weten zodat we voldoende racketten kunnen voorzien. 
 
-Het kan voorkomen dat er momenteel geen introductiemomenten staan gepland, de geplande momenten reeds volzet zijn of de data niet passen.  
-Wil je graag aansluiten maar lukt het niet op een van de geplande momenten?
-Stuur ons dan gerust een e-mail op info@gentsebc.be. We bekijken samen of we een alternatief moment kunnen voorzien.  
-❗ Let op: het is mogelijk dat onze groepen tijdelijk volzet zijn. In dat geval plaatsen we je graag op de wachtlijst en brengen we je op de hoogte zodra er opnieuw plaats vrijkomt.
+Het kan voorkomen dat er momenteel geen introductiemomenten staan gepland, de geplande momenten reeds volzet zijn of de data niet passen. Stuur ons dan een bericht op avondverantwoordelijken@gentsebc.be. We bekijken samen of we een alternatief moment kunnen voorzien.  
+
 
 Bedankt voor je interesse in onze club — we kijken ernaar uit je te verwelkomen!
 

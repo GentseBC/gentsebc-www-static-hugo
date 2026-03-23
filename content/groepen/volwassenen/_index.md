@@ -29,9 +29,14 @@ Ons concept is eenvoudig: je komt gewoon af naar een speelmoment en speelt dan e
 Er worden ter plaatse duo’s gevormd met de aanwezige personen en wedstrijdjes onder elkaar gespeeld. Na afloop verlaat je het terrein en worden nieuwe duo’s gevormd voor een volgende wedstrijd. Enkelspel mag natuurlijk ook, maar alleen wanneer het niet te druk is in de zaal.
 
 # Interesse?
+{{< alert-box type="danger">}}
+Momenteel zitten onze groepen voor volwassenen (recreanten) overvol. Daarom organiseren we tijdelijk geen intromomenten meer. Bedankt voor het begrip. We werken met een wachtlijst (zie inschrijvingsformulier) en werken deze regematig bij.
+Our adult groups are currently full. Therefore, we are temporarily no longer organizing introductory sessions. Thank you for your understanding. You can put your name on the waiting list (see subscription form).
+{{</ alert-box >}}
+
 
 Voor geïnteresseerde nieuwe leden organiseren we [introductiemomenten]({{< Ref "intromoment" >}}), meestal in het begin van het seizoen en na nieuwjaar, en bijkomende momenten in de loop van het jaar, afhankelijk van de capaciteit. Je mag 3x gratis komen proefspelen, alvorens te beslissen om lid te worden. 
-Gelieve niet onaangekondigd langs te komen naar een speelmoment, maar eerst te verwittigenop avondverantwoordelijken@gentsebc.be. Zo weten we wie we mogen verwachten 🙂
+Gelieve niet onaangekondigd langs te komen naar een speelmoment, maar aan te sluiten voor een intromoment. Zo weten we wie we mogen verwachten 🙂
 
 
 Heb je een introductie gevolgd, en wens je lid te worden? Vul dan het  [inschrijvingsformulier]({{< ref "word-lid" >}}) in. Na betaling van het lidgeld ben je officieel ingeschreven en kan je onbeperkt spelen bij ons.
