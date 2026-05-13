@@ -20,9 +20,9 @@ aliases:
 **Contact email adres?** jeugd@gentsebc.be
 {{</ alert-box >}}
 
-{{< alert-box type="danger">}}
-### Inschrijvingsstop
-Onze werking draait heel goed met als gevolg dat we volzet zijn voor het seizoen 2025-2026. Jammergenoeg moeten we elk jaar kinderen ontgoochelen, maar helaas zitten onze trainers en zalen momenteel aan hun maximum capaciteit. Op het einde van elk seizoen (mei/juni) bekijken we hoeveel vrije plaatsen er zijn. We organiseren ook enkele testmomenten voor geïnteresseerden met mogelijkheid tot inschrijven eind mei/juni. Hou dus zeker onze website in te gaten indien je volgend jaar wil starten met badminton.
+{{< alert-box type="warning">}}
+### Intromoment Jeugd
+Op 3 en 10 juni  2026 organiseert Gentse BC intromomenten voor nieuwe jeugdleden voor volgend sportjaar. Deze gaan door in Wielercentrum Eddy Merckx in Blaarmeersen van 18h30 tot 20h. Inschrijven kan via volgend [formulier](https://app.twizzit.com/v2/form/azRPME1nUFhyWnhMZExJQ2hyRmlwZz09).
 {{</ alert-box >}}
 
 
