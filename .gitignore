@@ -1,6 +1,23 @@
+### Hugo ##
 .hugo_build.lock
 public/
-.idea
-wp-config.php
 resources/_gen
+
+### PHP with secrets ###
+wp-config.php
+
+### IntelliJ IDEA ###
+.idea/
+/.bsp/sbt.json
+*.iml
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+/.idea/
+
+
+### workflow ###
 TODO
