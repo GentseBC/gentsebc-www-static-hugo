@@ -10,14 +10,14 @@ jobs:
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}    
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v6
         with:
           token: ${{ secrets.GH_TOKEN_THOMAS }}
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v6
         with:
           node-version: 16
       - run: npm install dayjs       
-      - uses: actions/github-script@v6
+      - uses: actions/github-script@v9
         id: short-term-calendar
         with:
           script: |
