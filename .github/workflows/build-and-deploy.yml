@@ -51,7 +51,7 @@ jobs:
 
       - name: Set config values into template
         if: github.ref == 'refs/heads/master'
-        uses: bluwy/substitute-string-action@v3
+        uses: bluwy/substitute-string-action@v4
         id: sub
         with:
           _input-file: './public/wp-config-template.php'
