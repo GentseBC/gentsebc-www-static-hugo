@@ -1,5 +1,5 @@
 ---
-date: 2026-06-19T12:00:00+02:00
+date: 2026-06-11T12:00:00+02:00
 draft : false
 title : "G-badminton"
 slug : 'g-badminton'
