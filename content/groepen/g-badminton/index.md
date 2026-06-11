@@ -14,8 +14,8 @@ aliases:
 {{< table table table-striped table-bordered >}}
 | Lidgeld | seizoen 2025-2026 | G-badmintonner |
 | ----------- | ----------- | ----------- |
-| 1 sept - 31 juni |  volledig seizoen  | 80 € |
-| 1 jan - 31 juni |  3/4 seizoen | 55 € |
+| 1 sept - 31 juni |  volledig seizoen  | 85 € |
+| 1 jan - 31 juni |  3/4 seizoen | 60 € |
 {{< /table >}}
 {{</ alert-box >}}
 

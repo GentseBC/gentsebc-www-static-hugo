@@ -1,5 +1,5 @@
 ---
-date: 2025-08-19T12:00:00+02:00
+date: 2026-06-11T12:00:00+02:00
 draft : false
 title : "Jeugd"
 slug : 'jeugd'
@@ -13,9 +13,9 @@ aliases:
 **Wanneer en waar?** elke woensdag van 18u30 tem 20u00 in de Sporthal Wielerpiste Eddy Merckx, Blaarmeersen, Gent. Op zaterdag is er een extra speelmoment voor kinderen vanaf 10 jaar van 10u00 tem 12u00 in Sporthal Bourgoyen, Gent.
 
 {{< table table table-striped table-bordered >}}
-| Lidgeld | Jeugd -18, 1 speelmoment | Jeugd -18, 2 speelmomenten |
+| Lidgeld 2026-2027 | Jeugd -18, 1 speelmoment | Jeugd -18, 2 speelmomenten |
 | ----------- | ----------- | ----------- | ----------- |
-| volledig seizoen |  105 € |  145 € |
+| volledig seizoen |  110 € |  150 € |
 {{< /table >}}
 **Contact email adres?** jeugd@gentsebc.be
 {{</ alert-box >}}

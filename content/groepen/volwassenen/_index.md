@@ -10,12 +10,12 @@ slug : 'volwassenen'
 
 
 {{< table table table-striped table-bordered >}}
-| Lidgeld  | seizoen 2025-2026 | competitiespeler | tornooispeler | recreant |
+| Lidgeld  | seizoen 2026-2027 | competitiespeler | tornooispeler | recreant |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 sept – 31 aug | volledig seizoen | 150 € (1 ploeg) <br> 175 € (2 ploegen) | 125 € |  105 € |
-| 1 jan – 31 aug | 3/4 seizoen | 120 € | 110 €|  85 € |
-| 1 april – 31 aug | half seizoen | - | 80 €|  55 € |
-| 1 juni – 31 aug | zomerseizoen | - | - |  35 € |
+| 1 sept – 31 aug | volledig seizoen | 180 € (1 ploeg) <br> 235 € (2 ploegen) | 130 € |  110 € |
+| 1 jan – 31 aug | 3/4 seizoen | 150 € | 115 €|  90 € |
+| 1 april – 31 aug | half seizoen | - | 90 €|  60 € |
+| 1 juni – 31 aug | zomerseizoen | - | - |  40 € |
 {{< /table >}}
 {{</ alert-box >}}
 
