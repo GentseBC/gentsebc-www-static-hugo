@@ -1,5 +1,5 @@
 ---
-date: 2025-08-19T12:00:00+02:00
+date: 2026-06-19T12:00:00+02:00
 draft : false
 title : "G-badminton"
 slug : 'g-badminton'
@@ -12,7 +12,7 @@ aliases:
 **Wanneer en waar?** op zaterdag van 10h00 tem 12h00 in Topsporthal Vlaanderen, Zuiderlaan 14, 9000 Gent (eerste verdieping)
 
 {{< table table table-striped table-bordered >}}
-| Lidgeld | seizoen 2025-2026 | G-badmintonner |
+| Lidgeld | seizoen 2026-2027 | G-badmintonner |
 | ----------- | ----------- | ----------- |
 | 1 sept - 31 juni |  volledig seizoen  | 85 € |
 | 1 jan - 31 juni |  3/4 seizoen | 60 € |
