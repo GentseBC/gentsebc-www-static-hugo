@@ -5,7 +5,7 @@ title : "Spaghettifestijn"
 summary: "Summertime. Schrijf je snel in voor ons gezellig spaghettifestijn."
 summary_img : "/img/posts/spaghetti.jpeg"
 event_date: "2026-09-19T17:30:00"
-event_location: "Stedelijke basisschool De Boomgaard, ingang via Burggravenlaan 251, 9000 Gent"
+event_location: "Stedelijke basisschool De Boomgaard"
 categories: ['event']
 author: 'secretaris'
 ---
