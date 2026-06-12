@@ -1,5 +1,5 @@
 ---
-date : "2026-01-24T21:21:00+02:00"
+date : "2026-05-24T21:21:00+02:00"
 draft : false
 title : "Sportkamp 2026"
 summary: "Sportkamp badminton-omnisport, van 27 tot 31 juli 2026"
