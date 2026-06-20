@@ -11,14 +11,13 @@ author: 'secretaris'
 ---
 Dag leden van de leukste badmintonclub van Gent en omstreken.
 
-⏰ Wanneer: 19/09/2026 vanaf 17u30, spaghetti wordt geserveerd om 18u30  
-🥒 Waar: Stedelijke basisschool De Boomgaard, ingang via Burggravenlaan 251, 9000 Gent  
+📅 Wanneer: 19/09/2026 vanaf 17u30, spaghetti wordt geserveerd om 18u30
+📌 Waar: Stedelijke basisschool De Boomgaard, ingang via Burggravenlaan 251, 9000 Gent
 🍝 Kostprijs: € 15 voor volwassenen, € 8 voor kinderen van 4 t.e.m. 12 jaar, gratis voor kinderen t.e.m. 3 jaar  (drank niet inbegrepen)
 
-Iedereen is welkom. Hoe meer zielen, hoe meer vreugde!  
+Iedereen is welkom. Hoe meer zielen, hoe meer vreugde!
+We voorzien drankjes aan democratische prijzen.
 
-We voorzien drankjes aan democratische prijzen. Je bent zelf vrij om iets mee te brengen.
+Schrijf je in via twizzit voor 11/9! https://twizzit.com/go/spaghetti-fest-2026
+
 Vrijblijvend: Wij zoeken nog vrijwilligers om een taartje, koekjes, cake ... mee te brengen. Zo kunnen we allemaal smullen van een dessertenbuffet.
-
-Schrijf je in via twizzit voor 11/9! https://app.twizzit.com/v2/form/WFVoZnZDb0RmOXV6L2NjZkF2Q3FwUT09
-.
