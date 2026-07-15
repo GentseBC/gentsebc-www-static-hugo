@@ -8,15 +8,11 @@ aliases:
   - /inschrijvingsformulier/  
 ---
 ### Volwassenen en G-sport 
-Wens je lid te worden van Gentse BC?  Gebruik dan het [inschrijvingsformulier op Twizzit](https://app.twizzit.com/go/gentsebc2526)
-Gelieve eerst een proefles te komen alvorens het formulier in te vullen. 
+Wens je lid te worden van Gentse BC?  Gebruik dan het [inschrijvingsformulier op Twizzit](https://app.twizzit.com/v2/form/bUpVNVpocVUzVVN3NklrUll1VFJTdz09)
+
 
 
 ### Jeugd 
-{{< alert-box type="danger">}}
-Onze werking draait heel goed met als gevolg dat we volzet zijn voor het seizoen 2025-2026.  
-Helaas zitten onze trainers en zalen momenteel aan hun maximum capaciteit.
-{{</ alert-box >}}
-
+Voor jeugd hebben we een ander formulier: [inschrijvingsformulier op Twizzit](https://app.twizzit.com/v2/form/c3FOL1pBUFFZWS9SUksvZ2U3YUFLdz09)
 
 

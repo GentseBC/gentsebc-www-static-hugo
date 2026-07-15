@@ -8,13 +8,6 @@ aliases:
     - /volwassenen/intro 
 ---
 
-
-{{< alert-box type="danger">}}
-Momenteel zitten onze groepen voor volwassenen (recreanten) overvol. Daarom organiseren we tijdelijk geen intromomenten meer. Bedankt voor het begrip.
-Our adult groups are currently full. Therefore, we are temporarily no longer organizing introductory sessions. Thank you for your understanding.
-{{</ alert-box >}}
-
-
 Zin om eens te mee spelen en ook de andere “nieuwelingen” van de Gentse BC te ontmoeten?
 
 We beseffen dat het intimiderend kan zijn om als nieuw lid een onbekende speler uit te nodigen voor een partijtje badminton. Daarom nemen we graag de tijd om onze nieuwe of geïnteresseerde leden te ontvangen in de club. Op deze introductiemomenten krijg je informatie over onze club, aansluitend met speelgelegenheid en het opsnuiven van de sfeer op het veld. Kom dus meteen naar de badmintonvelden (of vraag aan de zaalwachter waar je ons kan vinden).
