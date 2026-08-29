@@ -23,7 +23,7 @@ aliases:
 {{< alert-box type="danger">}}
 ### Inschrijvingsstop
 Onze werking draait heel goed met als gevolg dat we volzet zijn voor het seizoen 2026-2027. Jammer genoeg moeten we elk jaar kinderen ontgoochelen, maar helaas zitten onze trainers en zalen momenteel aan hun maximum capaciteit. Op het einde van elk seizoen (mei/juni) bekijken we hoeveel vrije plaatsen er zijn. We organiseren ook enkele testmomenten voor geïnteresseerden met mogelijkheid tot inschrijven eind mei/juni. Hou dus zeker onze website in te gaten indien je volgend jaar wil starten met badminton.
-{{{</ alert-box >}}
+{{</ alert-box >}}
 
 
 ## Ambitie
