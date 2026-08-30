@@ -1,5 +1,5 @@
 ---
-date: 2025-08-19T12:00:00+02:00
+date: 2026-08-19T12:00:00+02:00
 draft : false
 title : "Gentse BC bestuur en medewerkers"
 slug : 'bestuur'
@@ -29,18 +29,9 @@ Heb je een vraag, een probleem of wil je je mening over iets kwijt? Kijk op deze
       <b>Jeugdverantwoordelijke</b><br>sportieve coördinatie jeugd, communicatie jeugd<br>jeugd@gentsebc.be
     {{< /card-in-column >}}
 
- {{< card-in-column img="images/shuttle.jpg" title="Dimitri" >}}
-      <b>Jeugdcoördinator</b><br>sportieve coördinatie jeugd, aanspreekpunt op zaterdag<br>jeugd@gentsebc.be
-    {{< /card-in-column >}}
-
-     {{< card-in-column img="images/jera.jpeg" title="Jera" >}}
+      {{< card-in-column img="images/jera.jpeg" title="Jera" >}}
       <b>Competitieverantwoordelijke</b><br>ploegenopstelling, planning wedstrijdkalender, communicatie competitiespelers, opvolgen wedstrijdleiders<br>competitie@gentsebc.be
     {{< /card-in-column >}}
-
-     {{< card-in-column img="images/anton.jpeg" title="Anton" >}}
-      <b>Competitieverantwoordelijke</b>
-    {{< /card-in-column >}}
-
 
      {{< card-in-column img="images/kathy.png" title="Kathy" >}}
       <b>G-verantwoordelijke</b><br>communicatie en organisatie van de G-badminton<br>gbadminton@gentsebc.be
@@ -110,7 +101,7 @@ De avondverantwoordelijken zijn te bereiken op volgend emailadres: avondverantwo
       Webmaster
     {{< /card-in-column >}}
 
-{{< card-in-column n="4" img="images/shuttle.jpg" title="Ward Poelmans" >}}
+{{< card-in-column n="4" img="images/ward.jpg" title="Ward Poelmans" >}}
       Trainingsverantwoordelijke, Twizzit-wizard
     {{< /card-in-column >}}
 
