@@ -20,6 +20,7 @@ Epi::setSetting('exceptions', false);
  * 
  */
 getRoute()->post('/contactus', 'contactUsPost');
+getRoute()->post('/integrityPost', 'integrityPost');
 getRoute()->post('/intro', 'introPost');
 getRoute()->get('/intro', 'getIntroPost');
 getRoute()->get('/', 'usage');
@@ -70,6 +71,27 @@ function contactUsPost() {
     header("Access-Control-Allow-Origin: *");
 	print(json_encode($process_result));
 }
+
+function integrityPost() {
+	$data = json_decode(file_get_contents('php://input'), true);
+
+	$captcha_result = isValidReCaptha($data['g-recaptcha-response']);
+	$process_result = array('success' => false);
+
+	if ($captcha_result['success']) {
+		$field_data = array(':name' => $data["name"], ':email' => $data["email"], ':message' => $data["message"]);
+		sendIntegrityNotificationMail($field_data);
+		$process_result['success'] = true;
+	}
+
+	header("Content-type: application/json");
+    header("Content-Disposition: attachment; filename=json.data");
+    header("Pragma: no-cache");
+    header("Expires: 0");
+    header("Access-Control-Allow-Origin: *");
+	print(json_encode($process_result));
+}
+
 
 /*
 CREATE TABLE `form_intro` (
@@ -155,6 +177,28 @@ function sendContactNotificationMail($field_data) {
 	$message .= "Gentse BC \r\n\r\n\r\n";
 	$message .= "==========================\r\n";
 	$message .= "Vraag:";
+	$message .= $field_data[':message'];
+
+	mail($to, $subject, $message, implode("\r\n", $headers));
+}
+
+function sendIntegrityNotificationMail($field_data) {
+	$to = 'thomas.dekeyser@gmail.com';
+
+	// Subject
+	$subject = 'Melding integriteit Gentse BC';
+
+	// Additional headers
+	$headers[] = 'From: Gentse Badmintonclub <info@gentsebc.be>';
+	$headers[] = 'Cc: '.$field_data[':email'];
+
+	// Message
+	$message = "Beste ".$field_data[':name'].",\r\n\r\n";
+	$message .= "Je melding is goed ontvangen. We proberen zo snel mogelijk aan antwoord te geven.\r\n\r\n";
+	$message .= "Met vriendelijke groeten,";
+	$message .= "Gentse BC \r\n\r\n\r\n";
+	$message .= "==========================\r\n";
+	$message .= "Melding:";
 	$message .= $field_data[':message'];
 
 	mail($to, $subject, $message, implode("\r\n", $headers));
