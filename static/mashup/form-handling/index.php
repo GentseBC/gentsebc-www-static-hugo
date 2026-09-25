@@ -183,7 +183,7 @@ function sendContactNotificationMail($field_data) {
 }
 
 function sendIntegrityNotificationMail($field_data) {
-	$to = 'thomas.dekeyser@gmail.com';
+	$to = 'api@gentsebc.be';
 
 	// Subject
 	$subject = 'Melding integriteit Gentse BC';
