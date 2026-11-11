@@ -1,5 +1,5 @@
 ---
-date: 2025-08-19T12:00:00+02:00
+date: 2026-11-11T08:00:00+02:00
 draft : false
 title : "Competitie"
 slug : 'competitie'
@@ -15,7 +15,7 @@ Dit kan zeker. Spreek gerust de avondverantwoordelijke aan of stuur een mailtje 
 {{% /alert-box %}}
 
 {{< accordion id="1" >}}
-{{< accordion-item parent_id="1" id="1" title="GentseBC competitie ploegen seizoen 2025-2026">}}
+{{< accordion-item parent_id="1" id="1" title="GentseBC competitie ploegen seizoen 2026-2027">}}
 {{< ploegdata >}}
 {{< /accordion-item >}}
 {{< accordion-item parent_id="1" id="2" title="Agenda">}}
